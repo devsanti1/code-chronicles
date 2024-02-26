@@ -3,13 +3,15 @@ import session from "express-session"
 import morgan from "morgan"
 import dotenv from "dotenv"
 import helmet from "helmet"
-import { connectDB } from "./mongoose.js"
+import { connectDB } from "./utils/mongoose.js"
 import routes from "./routes/routes.js"
 
 dotenv.config()
 connectDB()
 express()
   .set('view engine', 'ejs')
+  .use(express.urlencoded({ extended: false }))
+  .use(express.json())
   .use(session({ resave: true, saveUninitialized: false, secret: process.env.SESSION_SECRET }))
   .use(helmet())
   .use(morgan("dev"))
