@@ -6,4 +6,4 @@ import comments from "./api/comments.js";
 export default Router()
   .use('/api/auth', auth)
   .use('/api/posts', posts)
-  .use('/api/posts/:id/comments', comments)
+  .use('/api/posts', comments)

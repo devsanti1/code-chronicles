@@ -8,21 +8,35 @@ export default express()
       next()
     }
   })
-  .post('/posts/', (req, res, next) => {
+  .post('/posts', (req, res, next) => {
     if (req.session.user) {
       next()
     } else {
       res.redirect('/login')
     }
   })
-  .put('/posts/:id', (req, res, next) => {
+  .put('/posts/*', (req, res, next) => {
     if (req.session.user) {
       next()
     } else {
       res.redirect('/login')
     }
   })
-  .delete('/posts/:id', (req, res, next) => {
+  .delete('/posts/*', (req, res, next) => {
+    if (req.session.user) {
+      next()
+    } else {
+      res.redirect('/login')
+    }
+  })
+  .post('/posts/*/comments', (req, res, next) => {
+    if (req.session.user) {
+      next()
+    } else {
+      res.redirect('/login')
+    }
+  })
+  .delete('/posts/*/comments/*', (req, res, next) => {
     if (req.session.user) {
       next()
     } else {

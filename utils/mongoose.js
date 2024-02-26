@@ -20,7 +20,6 @@ const schemas = {
     author: String,
     content: String,
     date_created: Date,
-    date_updated: Date
   })
 }
 const models = {
