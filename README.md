@@ -33,7 +33,7 @@ Blog example
 - _/register_: **Registro** - Permite a los usuarios crear una nueva cuenta.
 - _/login_: **Inicio de sesión** - Permite a los usuarios iniciar sesión en sus cuentas existentes.
 - _/create_: **Creación de publicación** - Permite a los usuarios crear una nueva publicación.
-- _/profile_: **Perfil de usuario** - Muestra la información y las publicaciones del usuario actual.
+- _/profile/:username_: **Perfil de usuario** - Muestra la información y las publicaciones de un usuario.
 - _/edit/:id_: **Edición de publicación** - Permite a los usuarios editar una publicación existente.
 
 ## Technologies:

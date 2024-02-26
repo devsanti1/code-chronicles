@@ -1,5 +1,4 @@
 import mongoose, { Schema } from "mongoose"
-import { v4 as uuid } from "uuid"
 
 const schemas = {
   user: new Schema({
@@ -9,6 +8,7 @@ const schemas = {
     date_created: Date,
   }),
   post: new Schema({
+    _id: mongoose.Types.ObjectId,
     title: String,
     content: String,
     author: String,
