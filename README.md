@@ -29,11 +29,11 @@ Blog example
 ## Client Routes:
 
 - _/_: **Inicio** - Muestra la lista de publicaciones más recientes o la página de inicio del blog.
-- _/post/:id_: **Publicación individual** - Muestra una publicación individual con el ID específico.
 - _/register_: **Registro** - Permite a los usuarios crear una nueva cuenta.
 - _/login_: **Inicio de sesión** - Permite a los usuarios iniciar sesión en sus cuentas existentes.
-- _/create_: **Creación de publicación** - Permite a los usuarios crear una nueva publicación.
 - _/profile/:username_: **Perfil de usuario** - Muestra la información y las publicaciones de un usuario.
+- _/post/:id_: **Publicación individual** - Muestra una publicación individual con el ID específico.
+- _/create_: **Creación de publicación** - Permite a los usuarios crear una nueva publicación.
 - _/edit/:id_: **Edición de publicación** - Permite a los usuarios editar una publicación existente.
 
 ## Technologies:
