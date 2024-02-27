@@ -40,7 +40,8 @@ export default Router()
             date_created: user.date_created
           })).save()
           req.session.user = user
-          res.status(201).json(user)
+          req.session.message = "Registrado con exito"
+          res.status(201).redirect("/")
         } catch (error) {
           res.status(500).send(error)
         }
@@ -61,9 +62,11 @@ export default Router()
         password: user.password,
         date_created: user.date_created
       }
+      req.session.message = "Logeado con exito"
       res.status(200).redirect("/")
     } else {
-      res.status(401).redirect("/")
+      req.session.message = "datos incorrectos"
+      res.status(401).redirect("/login")
     }
   })
   .get('/logout', async (req, res) => {

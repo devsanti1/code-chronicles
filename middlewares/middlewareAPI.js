@@ -12,6 +12,7 @@ export default express()
     if (req.session.user) {
       next()
     } else {
+      req.session.message = "Debe iniciar sesión antes de hacer esa acción"
       res.redirect('/login')
     }
   })
@@ -19,6 +20,7 @@ export default express()
     if (req.session.user) {
       next()
     } else {
+      req.session.message = "Debe iniciar sesión antes de hacer esa acción"
       res.redirect('/login')
     }
   })
@@ -26,6 +28,7 @@ export default express()
     if (req.session.user) {
       next()
     } else {
+      req.session.message = "Debe iniciar sesión antes de hacer esa acción"
       res.redirect('/login')
     }
   })
@@ -33,6 +36,7 @@ export default express()
     if (req.session.user) {
       next()
     } else {
+      req.session.message = "Debe iniciar sesión antes de hacer esa acción"
       res.redirect('/login')
     }
   })
@@ -40,6 +44,7 @@ export default express()
     if (req.session.user) {
       next()
     } else {
+      req.session.message = "Debe iniciar sesión antes de hacer esa acción"
       res.redirect('/login')
     }
   })

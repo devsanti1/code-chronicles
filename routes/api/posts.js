@@ -5,19 +5,44 @@ import mongoose from "mongoose";
 export default Router()
   .get('/', async (req, res) => {
     let posts = await (models.Post.find())
-    if (posts.length > 0) {
-      posts = posts.toJSON()
-    }
+    posts.map(x => {
+      x.title = decodeURIComponent(x.title)
+      x.content = decodeURIComponent(x.content)
+      x.author = decodeURIComponent(x.author)
+    })
     res.status(200).json(posts)
   })
   .get('/:id', async (req, res) => {
     try {
       let post = await models.Post.findById(new mongoose.Types.ObjectId(req.params.id))
+      post.title = decodeURIComponent(post.title)
+      post.content = decodeURIComponent(post.content)
+      post.author = decodeURIComponent(post.author)
       res.status(200).json(post)
     } catch (error) {
       res.status(500).json({})
     }
   })
+  .get('/author/:username', async (req, res) => {
+    try {
+      let posts = await models.Post.find({ author: encodeURIComponent(req.params.username) })
+      posts.map(x => {
+        x.title = decodeURIComponent(x.title)
+        x.content = decodeURIComponent(x.content)
+        x.author = decodeURIComponent(x.author)
+      })
+      res.status(200).json(posts)
+    } catch (error) {
+      res.status(500).json({})
+    }
+  })
+  .get('/author/:username/info', async (req, res) => {
+    const author = await models.User.findOne({ username: encodeURIComponent(req.params.username) }, "username email date_created")
+    author.username = decodeURIComponent(author.username)
+    author.email = decodeURIComponent(author.email)
+    res.status(200).json(author)
+  })
+
   .post('/', async (req, res) => {
     let post = {
       _id: new mongoose.Types.ObjectId(),

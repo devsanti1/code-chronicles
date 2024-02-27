@@ -1,0 +1,31 @@
+<h1>
+  <%= data.author.username %>
+</h1><br>
+<h2>
+  <%= data.author.email %>
+</h2>
+<h2>
+  <%= (new Date(data.author.date_created)).toDateString() %>
+</h2>
+<ul>
+  <% data.posts.map(post=> { %>
+    <li>
+      <a href="/post/<%= post._id %>">
+        <h6>
+          <% if (post.date_created===post.date_updated) { %>
+            Creado: <%= new Date(post.date_created).toDateString() %>
+              <% } else { %>
+                Creado: <%= new Date(post.date_created).toDateString() %>
+                  Actualizado: <%= new Date(post.date_updated).toDateString() %>
+                    <% } %>
+        </h6>
+        <h1>
+          <%= post.title %>
+        </h1>
+        <p>
+          <%= post.content %>
+        </p>
+      </a>
+    </li>
+    <% }); %>
+</ul>

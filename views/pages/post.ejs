@@ -1,0 +1,44 @@
+<h6>
+  <a href="/profile/<%= data.author.username %>">
+    <%= data.author.username %>
+  </a>
+  <%= data.author.email %>:
+    <%= new Date(data.author.date_created).toDateString() %>
+
+</h6>
+<h1>
+  <%= data.post.title %>
+</h1>
+<p>
+  <%= data.post.content %>
+</p>
+<p>
+  <% if (data.post.date_created===data.post.date_updated) { %>
+    Creado: <%= new Date(data.post.date_created).toDateString() %>
+      <% } else { %>
+        Actualizado: <%= new Date(data.post.date_updated).toDateString() %>
+          <% } %>
+</p>
+<ul>
+  <% data.comments.map(comment=>{ %>
+    <li>
+      <h6>
+        <%= comment.author %>: <%= new Date(comment.date_created).toDateString() %>
+      </h6>
+      <p>
+        <%= comment.content %>
+      </p>
+    </li>
+    <% }) %>
+      <% if (data.session.user) { %>
+        <form action="/api/posts/<%= data.post._id %>/comments" method="post">
+          <textarea name="content" id="" cols="30" rows="10"></textarea>
+          <input type="submit" value="Comment">
+        </form>
+        <% } else { %>
+          <form action="" method="post">
+            <textarea name="content" id="" cols="30" rows="10" disabled></textarea>
+            <a href="/login"><input type="submit" value="Debe iniciar sesión" disabled></a>
+          </form>
+          <% } %>
+</ul>

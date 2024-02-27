@@ -4,13 +4,24 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="/logo.png" type="image/x-icon">
   <title>
     <%= title %>
   </title>
 </head>
 
 <body>
-  <%- include(`../pages/${view}.ejs`) %>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/register">Registro</a></li>
+    <li><a href="/login">Login</a></li>
+  </ul>
+  <% if(data.session.message){ %>
+    <span>
+      <%= data.session.message %>
+    </span>
+    <% } %>
+      <%- include(`../pages/${view}.ejs`, {data: data}) %>
 </body>
 
 </html>
