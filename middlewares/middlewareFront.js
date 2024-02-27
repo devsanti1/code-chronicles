@@ -3,7 +3,7 @@ import express from "express";
 export default express()
   .get('/create', (req, res, next) => {
     if (!req.session.user) {
-      res.redirect("/profile")
+      res.redirect("/login")
     } else {
       next()
     }

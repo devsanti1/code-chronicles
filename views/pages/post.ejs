@@ -3,7 +3,7 @@
     <%= data.author.username %>
   </a>
   <%= data.author.email %>:
-    <%= new Date(data.author.date_created).toDateString() %>
+    <%= data.author.date_created %>
 
 </h6>
 <h1>
@@ -14,16 +14,16 @@
 </p>
 <p>
   <% if (data.post.date_created===data.post.date_updated) { %>
-    Creado: <%= new Date(data.post.date_created).toDateString() %>
+    Creado: <%= data.post.date_created %>
       <% } else { %>
-        Actualizado: <%= new Date(data.post.date_updated).toDateString() %>
+        Actualizado: <%= data.post.date_updated %>
           <% } %>
 </p>
 <ul>
   <% data.comments.map(comment=>{ %>
     <li>
       <h6>
-        <%= comment.author %>: <%= new Date(comment.date_created).toDateString() %>
+        <%= comment.author %>: <%= comment.date_created %>
       </h6>
       <p>
         <%= comment.content %>

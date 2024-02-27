@@ -1,6 +1,7 @@
 import { Router } from "express";
 import { models } from "../../utils/mongoose.js";
 import mongoose from "mongoose";
+import { myDate } from "../../utils/validation.js";
 
 export default Router()
   .get('/', async (req, res) => {
@@ -44,33 +45,39 @@ export default Router()
   })
 
   .post('/', async (req, res) => {
+    const date = new Date()
     let post = {
       _id: new mongoose.Types.ObjectId(),
       title: encodeURIComponent(req.body.title),
       content: encodeURIComponent(req.body.content),
       author: encodeURIComponent(req.session.user.username),
-      date_created: (new Date()).toJSON(),
-      date_updated: (new Date()).toJSON(),
+      date_created: myDate(date.getDate(), date.getMonth(), date.getFullYear()),
+      date_updated: myDate(date.getDate(), date.getMonth(), date.getFullYear())
     }
     await (new models.Post(post)).save()
     res.status(200).redirect(`/post/${post._id}`)
   })
-  .put('/:id', async (req, res) => {
+  .post('/put/:id', async (req, res) => {
+    const date = new Date()
     try {
       let doc = await models.Post.findById(new mongoose.Types.ObjectId(req.params.id))
       doc.title = encodeURIComponent(req.body.title)
       doc.content = encodeURIComponent(req.body.content)
-      doc.date_updated = (new Date()).toJSON()
+      doc.date_updated = myDate(date.getDate(), date.getMonth(), date.getFullYear())
       await doc.save()
       res.redirect(`/post/${doc._id}`)
     } catch (error) {
       res.redirect(`/post/${req.params.id}`)
     }
   })
-  .delete('/:id', async (req, res) => {
+  .post('/delete/:id', async (req, res) => {
     try {
-      await models.Post.deleteOne({ _id: new mongoose.Types.ObjectId(req.params.id) })
-      req.session.message = "Post Borrado exitosamente"
+      if (req.session.user.username === decodeURIComponent((await models.Post.findById(new mongoose.Types.ObjectId(req.params.id))).author)) {
+        const postDeleted = await models.Post.findByIdAndDelete(new mongoose.Types.ObjectId(req.params.id))
+        req.session.message = "Post Borrado exitosamente"
+      } else {
+        req.sesssion.message = "Solo el autor del post puede eliminar el post"
+      }
     } catch (error) {
       req.session.message = "Ha ocurrido un error, el post no ha sido borrado"
     }

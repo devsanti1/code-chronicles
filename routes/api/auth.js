@@ -1,15 +1,16 @@
 import { Router } from "express";
 import { models } from "../../utils/mongoose.js";
 import bcrypt from "../../utils/bcrypt.js";
-import { patterns } from "../../utils/validation.js";
+import { myDate, patterns } from "../../utils/validation.js";
 
 export default Router()
   .post('/register', async (req, res) => {
+    const date = new Date()
     const user = {
       username: req.body.username.toLowerCase().trim().replace(" ", ""),
       email: req.body.email.trim().replace(" ", ""),
       password: req.body.password,
-      date_created: (new Date()).toJSON()
+      date_created: myDate(date.getDate(), date.getMonth(), date.getFullYear())
     }
     if (!patterns.username.test(user.username)) {
       req.session.message = "incorrect username"

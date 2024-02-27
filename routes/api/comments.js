@@ -1,17 +1,19 @@
 import { Router } from "express";
 import { models } from "../../utils/mongoose.js";
 import mongoose from "mongoose";
+import { myDate } from "../../utils/validation.js";
 
 export default Router()
   .get('/:id/comments', async (req, res) => {
     res.status(200).send(await models.Commentary.find({ post_id: req.params.id }))
   })
   .post('/:id/comments', async (req, res) => {
+    const date = new Date()
     let comment = {
       post_id: req.params.id,
       author: encodeURIComponent(req.session.user.username),
       content: encodeURIComponent(req.body.content),
-      date_created: (new Date()).toJSON()
+      date_created: myDate(date.getDate(), date.getMonth(), date.getFullYear())
     }
     await (new models.Commentary(comment)).save()
     req.session.message = "Comentario publicado exitosamente"

@@ -5,7 +5,7 @@
   <%= data.author.email %>
 </h2>
 <h2>
-  <%= (new Date(data.author.date_created)).toDateString() %>
+  <%= data.author.date_created %>
 </h2>
 <ul>
   <% data.posts.map(post=> { %>
@@ -13,11 +13,14 @@
       <a href="/post/<%= post._id %>">
         <h6>
           <% if (post.date_created===post.date_updated) { %>
-            Creado: <%= new Date(post.date_created).toDateString() %>
+            Creado: <%= post.date_created %>
               <% } else { %>
-                Creado: <%= new Date(post.date_created).toDateString() %>
-                  Actualizado: <%= new Date(post.date_updated).toDateString() %>
+                Creado: <%= post.date_created %>
+                  Actualizado: <%= post.date_updated %>
                     <% } %>
+                      <form action="/api/posts/delete/<%= post._id %>" method="post">
+                        <input type="submit" value="Delete">
+                      </form>
         </h6>
         <h1>
           <%= post.title %>

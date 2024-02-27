@@ -6,6 +6,7 @@ import helmet from "helmet"
 import { connectDB } from "./utils/mongoose.js"
 import routes from "./routes/routes.js"
 import middlewareAPI from "./middlewares/middlewareAPI.js"
+import middlewareFront from "./middlewares/middlewareFront.js"
 
 dotenv.config()
 connectDB()
@@ -18,5 +19,6 @@ express()
   .use(helmet())
   .use(morgan("dev"))
   .use('/api', middlewareAPI)
+  .use('/', middlewareFront)
   .use('/', routes)
   .listen(process.env.HOST, () => { console.log(`Server started in: http://127.0.0.1:${process.env.HOST}`) })

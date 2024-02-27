@@ -5,21 +5,21 @@ const schemas = {
     username: String,
     email: String,
     password: String,
-    date_created: Date,
+    date_created: String,
   }),
   post: new Schema({
     _id: mongoose.Types.ObjectId,
     title: String,
     content: String,
     author: String,
-    date_created: Date,
-    date_updated: Date
+    date_created: String,
+    date_updated: String
   }),
   commentary: new Schema({
     post_id: String,
     author: String,
     content: String,
-    date_created: Date,
+    date_created: String,
   })
 }
 const models = {
