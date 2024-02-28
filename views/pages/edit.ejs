@@ -1,0 +1,8 @@
+<main class="row m-0 my-5">
+  <form action="/api/posts/put/<%= data.post._id %>" method="post"
+    class="col-12 col-md-8 mx-auto d-flex flex-column justify-content-center">
+    <input type="text" name="title" class="form-control mb-3 fw-bold" value="<%= data.post.title %>">
+    <textarea name="content" class="form-control mb-3" rows="5"><%= data.post.content %></textarea>
+    <input type="submit" value="Editar Post" class="btn btn-warning">
+  </form>
+</main>

@@ -31,7 +31,7 @@
           </p>
           <% if (data.session.user && data.session.user.username===post.author) { %>
             <div class="d-flex justify-content-end align-items-end">
-              <a href="/create" class="btn bg-warning btn-dark col-auto">
+              <a href="/edit/<%= post._id %>" class="btn bg-warning btn-dark col-auto">
                 <i class="fa fa-pen"></i>
               </a>
               <form action="/api/posts/delete/<%= post._id %>" method="post">

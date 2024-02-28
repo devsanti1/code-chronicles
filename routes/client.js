@@ -28,6 +28,7 @@ export default Router()
   .get('/create', (req, res) => {
     res.render(layout, { title: "CodeChronicles - Crear Post", view: "create", data: { session: req.session } })
   })
-  .get('/edit/:id', (req, res) => {
-    res.render(layout, { title: `CodeChronicles - Editar ${req.params.id}`, view: "edit", data: { session: req.session } })
+  .get('/edit/:id', async (req, res) => {
+    const post = await (await fetch(`${process.env.URL}/api/posts/${req.params.id}`, { method: 'get' })).json()
+    res.render(layout, { title: `CodeChronicles - Editar ${req.params.id}`, view: "edit", data: { session: req.session, post: post } })
   })

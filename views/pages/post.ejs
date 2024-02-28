@@ -24,9 +24,11 @@
         Actualizado: <%= data.post.date_updated %>
       </span>
       <% if (data.session.user) { %>
-        <form action="/api/posts/<%= data.post._id %>/comments" method="post">
-          <textarea name="content" class="form-control" rows="10"></textarea>
-          <input type="submit" value="Comment">
+        <form action="/api/posts/<%= data.post._id %>/comments" method="post" class="mt-3 mx-5">
+          <div class="input-group">
+            <textarea name="content" class="form-control" rows="1" placeholder="Comentar..."></textarea>
+            <input type="submit" class="btn btn-outline-success d-flex align-items-center" value="Comentar">
+          </div>
         </form>
         <% } else { %>
           <form class="mt-3 mx-5">
