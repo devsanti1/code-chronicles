@@ -1,11 +1,11 @@
 import { Router } from "express";
 import { models } from "../../utils/mongoose.js";
 import mongoose from "mongoose";
-import { myDate } from "../../utils/validation.js";
+import { myDate, toMoment } from "../../utils/validation.js";
 
 export default Router()
   .get('/:id/comments', async (req, res) => {
-    res.status(200).send(await models.Commentary.find({ post_id: req.params.id }))
+    res.status(200).json((JSON.parse(JSON.stringify(await models.Commentary.find({ post_id: req.params.id })))).sort((a, b) => toMoment(b.date_created) - toMoment(a.date_created)))
   })
   .post('/:id/comments', async (req, res) => {
     const date = new Date()

@@ -1,44 +1,61 @@
-<h6>
-  <a href="/profile/<%= data.author.username %>">
-    <%= data.author.username %>
-  </a>
-  <%= data.author.email %>:
-    <%= data.author.date_created %>
-
-</h6>
-<h1>
-  <%= data.post.title %>
-</h1>
-<p>
-  <%= data.post.content %>
-</p>
-<p>
-  <% if (data.post.date_created===data.post.date_updated) { %>
-    Creado: <%= data.post.date_created %>
-      <% } else { %>
-        Actualizado: <%= data.post.date_updated %>
-          <% } %>
-</p>
-<ul>
-  <% data.comments.map(comment=>{ %>
-    <li>
-      <h6>
-        <%= comment.author %>: <%= comment.date_created %>
-      </h6>
-      <p>
-        <%= comment.content %>
+<main class="row m-0 bg-dark p-5">
+  <div class="card bg-dark text-white p-0 col-12">
+    <div class="card-header row m-0">
+      <a href="/profile/<%= data.post.author %>" class="btn bg-dark btn-dark col-auto">
+        <i class="fa fa-user bg-white text-black p-2 rounded-5"></i>
+        <span class="font-monospace text-white">
+          <%= data.post.author %>
+        </span>
+      </a>
+    </div>
+    <div class="card-body">
+      <div class="card-title fw-bold">
+        <%= data.post.title %>
+      </div>
+      <p class="card-text text-break">
+        <%= data.post.content %>
       </p>
-    </li>
-    <% }) %>
+    </div>
+    <div class="card-footer text-center m-0 px-0">
+      <span class="badge bg-info">
+        Publicado: <%= data.post.date_created %><br>
+      </span>
+      <span class="badge bg-info">
+        Actualizado: <%= data.post.date_updated %>
+      </span>
       <% if (data.session.user) { %>
         <form action="/api/posts/<%= data.post._id %>/comments" method="post">
-          <textarea name="content" id="" cols="30" rows="10"></textarea>
+          <textarea name="content" class="form-control" rows="10"></textarea>
           <input type="submit" value="Comment">
         </form>
         <% } else { %>
-          <form action="" method="post">
-            <textarea name="content" id="" cols="30" rows="10" disabled></textarea>
-            <a href="/login"><input type="submit" value="Debe iniciar sesión" disabled></a>
+          <form class="mt-3 mx-5">
+            <div class="input-group">
+              <textarea name="content" class="form-control" rows="1" disabled placeholder="Comentar..."></textarea>
+              <a href="/login" class="btn btn-outline-warning d-flex align-items-center"><small>Debe iniciar sesión para
+                  comentar</small></a>
+            </div>
           </form>
           <% } %>
-</ul>
+            <ul class="list-group mt-3">
+              <% data.comments.map(comment=>{ %>
+                <li class="list-group-item bg-dark text-white">
+                  <div class="d-flex w-100 justify-content-between">
+                    <h6>
+                      <a href="/profile/<%= comment.author %>" class="link-light">
+                        <%= comment.author %>
+                      </a>
+                    </h6>
+                    <small>
+                      <%= comment.date_created %>
+                    </small>
+                  </div>
+                  <p class="text-start">
+                    <%= comment.content %>
+                  </p>
+                </li>
+                <% }) %>
+            </ul>
+    </div>
+  </div>
+</main>

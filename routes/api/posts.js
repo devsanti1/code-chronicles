@@ -1,11 +1,11 @@
-import { Router } from "express";
+import { Router, json } from "express";
 import { models } from "../../utils/mongoose.js";
 import mongoose from "mongoose";
-import { myDate } from "../../utils/validation.js";
+import { myDate, toMoment } from "../../utils/validation.js";
 
 export default Router()
   .get('/', async (req, res) => {
-    let posts = await (models.Post.find())
+    let posts = (JSON.parse(JSON.stringify(await (models.Post.find())))).sort((a, b) => toMoment(b.date_created) - toMoment(a.date_created))
     posts.map(x => {
       x.title = decodeURIComponent(x.title)
       x.content = decodeURIComponent(x.content)
