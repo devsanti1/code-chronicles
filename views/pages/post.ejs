@@ -1,4 +1,4 @@
-<main class="row m-0 bg-dark p-5">
+<main class="row m-0 bg-dark px-5 my-5">
   <div class="card bg-dark text-white p-0 col-12">
     <div class="card-header row m-0">
       <a href="/profile/<%= data.post.author %>" class="btn bg-dark btn-dark col-auto">
@@ -17,10 +17,10 @@
       </p>
     </div>
     <div class="card-footer text-center m-0 px-0">
-      <span class="badge bg-info">
+      <span class="badge bg-light text-dark">
         Publicado: <%= data.post.date_created %><br>
       </span>
-      <span class="badge bg-info">
+      <span class="badge bg-light text-dark">
         Actualizado: <%= data.post.date_updated %>
       </span>
       <% if (data.session.user) { %>

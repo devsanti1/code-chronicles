@@ -1,34 +1,60 @@
-<h1>
-  <%= data.author.username %>
-</h1><br>
-<h2>
-  <%= data.author.email %>
-</h2>
-<h2>
-  <%= data.author.date_created %>
-</h2>
-<ul>
-  <% data.posts.map(post=> { %>
-    <li>
-      <a href="/post/<%= post._id %>">
-        <h6>
-          <% if (post.date_created===post.date_updated) { %>
-            Creado: <%= post.date_created %>
-              <% } else { %>
-                Creado: <%= post.date_created %>
-                  Actualizado: <%= post.date_updated %>
-                    <% } %>
-                      <form action="/api/posts/delete/<%= post._id %>" method="post">
-                        <input type="submit" value="Delete">
-                      </form>
-        </h6>
-        <h1>
-          <%= post.title %>
+<main class="row m-0 my-5">
+  <br>
+  <div class="col-12">
+    <div class="card text-white bg-dark">
+      <div class="card-header">
+        <h1 class="card-title">
+          <%= data.author.username %>
         </h1>
-        <p>
-          <%= post.content %>
-        </p>
-      </a>
-    </li>
+      </div>
+      <div class="card-body">
+        <small class="card-text">
+          <%= data.author.email %>
+        </small>
+      </div>
+      <div class="card-footer">
+        <span class="badge bg-light text-dark">
+          Usuario desde: <%= data.author.date_created %>
+        </span>
+      </div>
+    </div>
+  </div>
+  <% data.posts.map(post=> { %>
+    <article class="col-12 col-sm-6 col-md-4 col-lg-3 p-2 align-items-stretch">
+      <div class="card bg-transparent text-white p-0 h-100">
+        <div class="card-body d-flex flex-column justify-content-between">
+          <div class="card-title fw-bold">
+            <%= post.title %>
+          </div>
+          <p class="card-text text-break">
+            <%= post.content %>
+          </p>
+          <% if (data.session.user && data.session.user.username===post.author) { %>
+            <div class="d-flex justify-content-end align-items-end">
+              <a href="/create" class="btn bg-warning btn-dark col-auto">
+                <i class="fa fa-pen"></i>
+              </a>
+              <form action="/api/posts/delete/<%= post._id %>" method="post">
+                <button type="submit" class="btn bg-danger btn-dark col-auto"><i class="fa fa-trash"></i></button>
+              </form>
+            </div>
+            <% } %>
+        </div>
+        <div class="card-footer text-center m-0 px-0">
+          <a href="/post/<%= post._id %>" class="link-info m-0">
+            Ver Post <i class="fa fa-comments"></i>
+          </a>
+          <div class="text-small m-0">
+            <% if (post.date_created===post.date_updated) { %>
+              <small class="text-small badge bg-light text-dark">
+                <%= post.date_created %>
+              </small>
+              <% } else { %>
+                <small class="text-small badge bg-light text-dark">Actualizado: <%= post.date_updated %></small>
+                <% } %>
+          </div>
+        </div>
+      </div>
+    </article>
     <% }); %>
-</ul>
+</main>

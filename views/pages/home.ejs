@@ -7,7 +7,7 @@
     border-color: white;
   }
 </style>
-<main class="row m-0 p-2 justify-content-center">
+<main class="row m-0 px-2 justify-content-center my-5">
   <div class="col-12">
     <div class="col-6 mx-auto">
       <div class="input-group border-white shadow-none">
@@ -42,11 +42,11 @@
           </a>
           <div class="text-small m-0">
             <% if (post.date_created===post.date_updated) { %>
-              <small class="text-small fw-light badge bg-dark">
+              <small class="text-small badge bg-light text-dark">
                 <%= post.date_created %>
               </small>
               <% } else { %>
-                <small class="text-small fw-light badge bg-dark">Actualizado: <%= post.date_updated %></small>
+                <small class="text-small badge bg-light text-dark">Actualizado: <%= post.date_updated %></small>
                 <% } %>
           </div>
         </div>
