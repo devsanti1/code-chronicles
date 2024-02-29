@@ -26,7 +26,7 @@ export default Router()
   })
   .get('/author/:username', async (req, res) => {
     try {
-      let posts = await models.Post.find({ author: encodeURIComponent(req.params.username) })
+      let posts = (JSON.parse(JSON.stringify(await (models.Post.find({ author: encodeURIComponent(req.params.username) }))))).sort((a, b) => toMoment(b.date_created) - toMoment(a.date_created))
       posts.map(x => {
         x.title = decodeURIComponent(x.title)
         x.content = decodeURIComponent(x.content)
