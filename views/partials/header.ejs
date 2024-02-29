@@ -1,0 +1,53 @@
+<style>
+  .nav-link {
+    color: rgba(255, 255, 255, 0.5)
+  }
+</style>
+<nav class="navbar navbar-dark sticky-top bg-dark">
+  <ul class="nav w-100 justify-content-between px-5 align-items-center">
+    <a href="/" class="navbar-brand font-monospace">
+      <img src="/logo.png" alt="code-chronicles-logo" width="30">
+      CodeChronicles
+    </a>
+    <% if (data.session.user) {%>
+      <li class="nav-item text-center">
+        <a href="/create" class="nav-pills btn btn-success" id="create"><i class="fa fa-plus-circle"></i> Publicar
+          Post</a>
+      </li>
+      <li class="nav-item btn-group">
+        <a href="/profile/<%=data.session.user.username%>" class="btn btn-outline-light nav-pills" id="profile">
+          <i class="fa fa-user bg-white text-black p-2 rounded-5"></i>
+          <span class="font-monospace">
+            <%=data.session.user.username%>
+          </span>
+        </a>
+        <a href="/api/auth/logout" class="nav-pills btn btn-outline-danger d-flex align-items-center"><i
+            class="fa fa-right-from-bracket"></i></a>
+      </li>
+      <% } else { %>
+        <li class="nav-item btn-group">
+          <a href="/register" class="nav-pills btn btn-success" id="registro">Registro</a>
+          <a href="/login" class="nav-pills btn btn-outline-success" id="login">Login</a>
+        </li>
+        <%}%>
+  </ul>
+</nav>
+<script>
+  window.onload = () => {
+    const route = location.pathname.split("/")[1]
+    console.log("HOLA")
+    if (route === "register") {
+      document.getElementById("registro").classList.replace("btn-success", "btn-light")
+      document.getElementById("registro").classList.add("text-decoration-underline")
+    } else if (route === "login") {
+      document.getElementById("login").classList.replace("btn-outline-success", "btn-light")
+      document.getElementById("login").classList.add("text-decoration-underline")
+    } else if (route === "create") {
+      document.getElementById("create").classList.replace("btn-success", "btn-light")
+      document.getElementById("create").classList.add("text-decoration-underline")
+    } else if (route === "profile") {
+      document.getElementById("profile").classList.replace("btn-outline-light", "btn-light")
+      document.getElementById("profile").classList.add("text-decoration-underline")
+    }
+  }
+</script>

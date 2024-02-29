@@ -17,6 +17,10 @@ express()
   .use(express.json())
   .use(session({ resave: true, saveUninitialized: false, secret: process.env.SESSION_SECRET }))
   .use(helmet())
+  .use('/', (req, res, next) => {
+    res.setHeader("Content-Security-Policy", "script-src 'self' 'unsafe-inline'");
+    next()
+  })
   .use(morgan("dev"))
   .use('/api', middlewareAPI)
   .use('/', middlewareFront)

@@ -3,7 +3,7 @@ import dotenv from "dotenv"
 
 dotenv.config()
 
-const layout = "layouts/public.ejs"
+const layout = "layouts/layout.ejs"
 export default Router()
   .get('/', async (req, res) => {
     const posts = (await (await fetch(`${process.env.URL}/api/posts`, { method: 'get' })).json())
