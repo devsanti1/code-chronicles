@@ -1,5 +1,7 @@
-<form action="/api/posts" method="post">
-  <input type="text" name="title" id="">
-  <textarea name="content" id=""></textarea>
-  <input type="submit" value="Crear Post" id="">
-</form>
+<main class="row m-0 my-5">
+  <form action="/api/posts/" method="post" class="col-12 col-md-8 mx-auto d-flex flex-column justify-content-center">
+    <input type="text" name="title" class="form-control mb-3 fw-bold" placeholder="Título del post...">
+    <textarea name="content" class="form-control mb-3" rows="5" placeholder="Contenido del post..."></textarea>
+    <input type="submit" value="Publicar Post" class="btn btn-success">
+  </form>
+</main>
