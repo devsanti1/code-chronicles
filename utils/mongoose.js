@@ -1,4 +1,6 @@
 import mongoose, { Schema } from "mongoose"
+import dotenv from "dotenv"
+dotenv.config()
 
 const schemas = {
   user: new Schema({
@@ -29,7 +31,7 @@ const models = {
 }
 function connectDB() {
   try {
-    mongoose.connect('mongodb://localhost:27017/code-chronicles');
+    mongoose.connect(process.env.URL_DATABASE);
     console.log("Database connected")
   } catch (error) {
     console.error("Error connecting Database", error)
