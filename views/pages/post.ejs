@@ -55,6 +55,12 @@
                   <p class="text-start">
                     <%= comment.content %>
                   </p>
+                  <% if (data.session.user && data.session.user.username===comment.author) { %>
+                    <form action="/api/posts/<%=data.post._id%>/comments/<%= comment._id %>" method="post"
+                      class="d-flex justify-content-end">
+                      <button type="submit" class="btn btn-danger"><i class="fa fa-trash"></i></button>
+                    </form>
+                    <% } %>
                 </li>
                 <% }) %>
             </ul>

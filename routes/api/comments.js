@@ -5,7 +5,11 @@ import { myDate, toMoment } from "../../utils/validation.js";
 
 export default Router()
   .get('/:id/comments', async (req, res) => {
-    res.status(200).json((JSON.parse(JSON.stringify(await models.Commentary.find({ post_id: req.params.id })))).sort((a, b) => toMoment(b.date_created) - toMoment(a.date_created)))
+    const comments = (JSON.parse(JSON.stringify(await models.Commentary.find({ post_id: req.params.id })))).sort((a, b) => toMoment(b.date_created) - toMoment(a.date_created))
+    comments.map(x => {
+      x.content = decodeURIComponent(x.content)
+    })
+    res.status(200).json(comments)
   })
   .post('/:id/comments', async (req, res) => {
     const date = new Date()
@@ -19,7 +23,7 @@ export default Router()
     req.session.message = "Comentario publicado exitosamente"
     res.status(200).redirect(`/post/${comment.post_id}`)
   })
-  .delete('/:id/comments/:commentId', async (req, res) => {
+  .post('/:id/comments/:commentId', async (req, res) => {
     try {
       await models.Commentary.deleteOne({ _id: new mongoose.Types.ObjectId(req.params.commentId) })
       req.session.message = "Comentario Borrado exitosamente"
@@ -27,6 +31,5 @@ export default Router()
       console.log(error);
       req.session.message = "Ha ocurrido un error, el comentario no ha sido borrado"
     }
-    console.log(req.session.message);
     res.redirect(`/post/${req.params.id}`)
   })
