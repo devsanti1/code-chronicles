@@ -13,15 +13,19 @@
   </title>
 </head>
 
-<body class="bg-dark" data-bs-theme="dark">
+<body class="bg-dark d-flex flex-column" data-bs-theme="dark">
   <%- include(`../partials/header.ejs`, {user: data.session}) %>
-    <% if(data.session.message){ %>
-      <span>
-        <%= data.session.message %>
-      </span>
-      <% } %>
-        <%- include(`../pages/${view}.ejs`, {data: data}) %>
-          <%- include(`../partials/footer.ejs`)%>
+    <%- include(`../pages/${view}.ejs`, {data: data}) %>
+      <%- include(`../partials/footer.ejs`)%>
 </body>
+<script>
+  window.onload = () => {
+    document.getElementsByTagName("main")[0].style.minHeight = `${window.innerHeight - document.getElementById("header").clientHeight}px`
+    document.getElementsByTagName("footer")[0].style.height = `${window.innerHeight - document.getElementById("header").clientHeight}px`
+    document.getElementById("scrollTop").addEventListener("click", () => {
+      window.scrollTo(0, 0)
+    })
+  }
+</script>
 
 </html>

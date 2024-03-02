@@ -3,14 +3,15 @@
     color: rgba(255, 255, 255, 0.5)
   }
 </style>
-<nav class="navbar navbar-dark sticky-top bg-dark p-0 shadow">
-  <ul class="nav w-100 justify-content-between px-5 align-items-center">
+<nav class="navbar navbar-dark sticky-top bg-dark p-0 shadow" id="header">
+  <ul
+    class="nav w-100 justify-content-center justify-content-md-between pb-2 flex-column flex-md-row px-md-5 px-2 align-items-center">
     <a href="/" class="navbar-brand font-monospace p-0">
       <img src="/logo.png" alt="code-chronicles-logo" width="100">
       CodeChronicles
     </a>
     <% if (data.session.user) {%>
-      <li class="nav-item text-center">
+      <li class="nav-item text-center mb-2 mb-md-0">
         <a href="/create" class="nav-pills btn btn-success" id="create"><i class="fa fa-plus-circle"></i> Publicar
           Post</a>
       </li>
