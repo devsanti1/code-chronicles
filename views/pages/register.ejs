@@ -1,6 +1,36 @@
-<form action="/api/auth/register" method="post">
-  <input type="text" name="username" id="" value="">
-  <input type="text" name="email" id="" value="">
-  <input type="password" name="password" id="" value="">
-  <input type="submit" value="Registrarse">
-</form>
+<main class="row m-0 py-5 d-flex justify-content-center align-items-center">
+  <form action="/api/auth/register" method="post">
+    <div class="card col-12 col-md-6 mx-auto d-flex flex-column justify-content-center p-0">
+      <div class="card-header">
+        <h1 class="card-title h2 text-center">Registro</h1>
+      </div>
+      <div class="card-body">
+        <div class="mb-3">
+          <label class="form-label" for="username">Nombre de usuario: </label>
+          <div class="input-group">
+            <i class="fa fa-user input-group-text fw-bolder"></i>
+            <input type="text" id="username" name="username" class="form-control" placeholder="your_username_03">
+          </div>
+        </div>
+        <div class="mb-3">
+          <label class="form-label" for="email">Email: </label>
+          <div class="input-group">
+            <i class="fa fa-at input-group-text fw-bolder"></i>
+            <input type="text" id="email" name="email" class="form-control" placeholder="youremail@example.com">
+          </div>
+        </div>
+        <div class="mb-3">
+          <label class="form-label" for="password">Contraseña: </label>
+          <div class="input-group">
+            <i class="fa fa-lock input-group-text fw-bolder"></i>
+            <input type="password" id="password" name="password" class="form-control" placeholder="Contraseña">
+            <input type="password" id="confirmation" class="form-control" placeholder="Confirmar Contraseña">
+          </div>
+        </div>
+      </div>
+      <div class="card-footer text-center">
+        <input type="submit" class="btn btn-primary" value="Registrarse">
+      </div>
+    </div>
+  </form>
+</main>
