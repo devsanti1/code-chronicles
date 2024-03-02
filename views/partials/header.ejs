@@ -33,21 +33,4 @@
         <%}%>
   </ul>
 </nav>
-<script>
-  window.onload = () => {
-    const route = location.pathname.split("/")[1]
-    if (route === "register") {
-      document.getElementById("registro").classList.replace("btn-success", "btn-light")
-      document.getElementById("registro").classList.add("text-decoration-underline")
-    } else if (route === "login") {
-      document.getElementById("login").classList.replace("btn-outline-success", "btn-light")
-      document.getElementById("login").classList.add("text-decoration-underline")
-    } else if (route === "create") {
-      document.getElementById("create").classList.replace("btn-success", "btn-light")
-      document.getElementById("create").classList.add("text-decoration-underline")
-    } else if (route === "profile") {
-      document.getElementById("profile").classList.replace("btn-outline-light", "btn-light")
-      document.getElementById("profile").classList.add("text-decoration-underline")
-    }
-  }
-</script>
+<%- include(`./messages.ejs`, {data: data}) %>

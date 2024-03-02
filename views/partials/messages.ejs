@@ -1,5 +1,14 @@
 <% if(data.session.message){ %>
-  <span>
-    <%= data.session.message %>
-  </span>
+  <div class="alert alert-<%= data.session.message.color %> fade show my-5 col-11 col-md-6 mx-auto d-flex align-items-center alert-dismissible
+    " role="alert">
+    <strong>
+      <%= data.session.message.msg %>
+    </strong>
+    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close" onclick="borrarMsg()"></button>
+  </div>
   <% } %>
+    <script>
+      function borrarMsg() {
+        fetch('/msg', { method: "POST" })
+      }
+    </script>

@@ -12,24 +12,18 @@ export default Router()
       password: req.body.password,
       date_created: toMoment(date)
     }
-    if (!patterns.username.test(user.username)) {
-      req.session.message = "incorrect username"
-      res.status(409).redirect("/register")
-    } else if (!patterns.email.test(user.email)) {
-      req.session.message = "incorrect email"
-      res.status(409).redirect("/register")
-    } else if (!patterns.password.test(user.password)) {
-      req.session.message = "incorrect password"
+    if (!patterns.username.test(user.username) || !patterns.email.test(user.email) || !patterns.password.test(user.password)) {
+      req.session.message = { color: "danger", msg: "Datos inválidos" }
       res.status(409).redirect("/register")
     } else {
       user.password = await bcrypt.generateHash(user.password)
       const usernames = await models.User.find({ "username": encodeURIComponent(user.username) }, "username")
       const emails = await models.User.find({ "email": encodeURIComponent(user.email) }, "email")
       if (usernames.length > 0) {
-        req.session.message = "used username"
+        req.session.message = { color: "warning", msg: "Nombre de usuario usado" }
         res.status(409).redirect("/register")
       } else if (emails.length > 0) {
-        req.session.message = "used email"
+        req.session.message = { color: "warning", msg: "Email usado" }
         res.status(409).redirect("/register")
       }
       else {
@@ -41,7 +35,7 @@ export default Router()
             date_created: toMoment(user.date_created)
           })).save()
           req.session.user = user
-          req.session.message = "Registrado con exito"
+          req.session.message = { color: "success", msg: "Registrado con éxito" }
           res.status(201).redirect("/")
         } catch (error) {
           res.status(500).send(error)
@@ -63,15 +57,16 @@ export default Router()
         password: user.password,
         date_created: toMoment(user.date_created)
       }
-      req.session.message = "Logeado con exito"
+      req.session.message = { color: "success", msg: "Iniciada su sesión con éxito" }
       res.status(200).redirect("/")
     } else {
-      req.session.message = "datos incorrectos"
+      req.session.message = { color: "danger", msg: "Datos incorrectos" }
       res.status(401).redirect("/login")
     }
   })
   .get('/logout', async (req, res) => {
-    req.session.destroy()
+    req.session.user = undefined
+    req.session.message = { color: "success", msg: "Se ha cerrado la sesión exitosamente" }
     res.redirect("/")
   })
 
