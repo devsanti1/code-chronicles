@@ -5,13 +5,22 @@ patterns.email = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/
 patterns.password = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[!@#$%^&*])[a-zA-Z\d!@#$%^&*]{8,20}$/
 patterns.username = /^[a-z0-9_.-]{3,20}$/;
 
-const myDate = (day, month, year) => {
-  return `${(day).toString().padStart(2, "0")}/${(month + 1).toString().padStart(2, "0")} ${year}`
+const myDate = (date) => {
+  if (date[0] === "-") {
+    date = date.slice(1).split("-")
+    return `${date[2]}/${date[1]} -${parseInt(date[0])}`
+  } else {
+    date = date.split("-")
+    return `${date[2]}/${date[1]} ${date[0]}`
+  }
 }
 
 const toMoment = (date) => {
-  const splitted = date.replace(" ", "/").split("/")
-  return moment({ year: splitted[2], month: parseInt(splitted[1]) - 1, day: splitted[0] })
+  return moment(date).format("YYYY-MM-DD")
 }
 
-export { patterns, myDate, toMoment }
+const myDecodingURI = (encodedURI) => {
+  return JSON.parse(decodeURIComponent(JSON.stringify(encodedURI)))
+}
+
+export { patterns, myDate, toMoment, myDecodingURI }

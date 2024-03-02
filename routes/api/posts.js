@@ -1,24 +1,27 @@
 import { Router, json } from "express";
 import { models } from "../../utils/mongoose.js";
 import mongoose from "mongoose";
-import { myDate, toMoment } from "../../utils/validation.js";
+import { myDate, myDecodingURI, toMoment } from "../../utils/validation.js";
 
 export default Router()
   .get('/', async (req, res) => {
-    let posts = (JSON.parse(JSON.stringify(await (models.Post.find())))).sort((a, b) => toMoment(b.date_created) - toMoment(a.date_created))
+    const config = {
+      page: req.query.page ? parseInt(req.query.page) : 0,
+      search: req.query.search,
+      len: (await (models.Post.find(req.query.search ? { $text: { $search: req.query.search } } : {}))).length
+    }
+    let posts = myDecodingURI(await (models.Post.find(config.search ? { $text: { $search: config.search } } : {}, {}, { limit: 20, skip: config.page * 20 })).sort({ date_updated: -1 }))
     posts.map(x => {
-      x.title = decodeURIComponent(x.title)
-      x.content = decodeURIComponent(x.content)
-      x.author = decodeURIComponent(x.author)
+      x.date_created = myDate(x.date_created)
+      x.date_updated = myDate(x.date_updated)
     })
-    res.status(200).json(posts)
+    res.status(200).json({ posts: posts, config: config })
   })
   .get('/:id', async (req, res) => {
     try {
-      let post = await models.Post.findById(new mongoose.Types.ObjectId(req.params.id))
-      post.title = decodeURIComponent(post.title)
-      post.content = decodeURIComponent(post.content)
-      post.author = decodeURIComponent(post.author)
+      let post = myDecodingURI(await models.Post.findById(new mongoose.Types.ObjectId(req.params.id)))
+      post.date_created = myDate(post.date_created)
+      post.date_updated = myDate(post.date_updated)
       res.status(200).json(post)
     } catch (error) {
       res.status(500).json({})
@@ -26,11 +29,10 @@ export default Router()
   })
   .get('/author/:username', async (req, res) => {
     try {
-      let posts = (JSON.parse(JSON.stringify(await (models.Post.find({ author: encodeURIComponent(req.params.username) }))))).sort((a, b) => toMoment(b.date_created) - toMoment(a.date_created))
+      const posts = myDecodingURI(await (models.Post.find({ author: encodeURIComponent(req.params.username) }).sort({ date_updated: -1 })))
       posts.map(x => {
-        x.title = decodeURIComponent(x.title)
-        x.content = decodeURIComponent(x.content)
-        x.author = decodeURIComponent(x.author)
+        x.date_created = myDate(x.date_created)
+        x.date_updated = myDate(x.date_updated)
       })
       res.status(200).json(posts)
     } catch (error) {
@@ -38,9 +40,8 @@ export default Router()
     }
   })
   .get('/author/:username/info', async (req, res) => {
-    const author = await models.User.findOne({ username: encodeURIComponent(req.params.username) }, "username email date_created")
-    author.username = decodeURIComponent(author.username)
-    author.email = decodeURIComponent(author.email)
+    const author = myDecodingURI(await models.User.findOne({ username: encodeURIComponent(req.params.username) }, "username email date_created"))
+    author.date_created = myDate(author.date_created)
     res.status(200).json(author)
   })
 
@@ -48,11 +49,11 @@ export default Router()
     const date = new Date()
     let post = {
       _id: new mongoose.Types.ObjectId(),
-      title: encodeURIComponent(req.body.title),
-      content: encodeURIComponent(req.body.content),
+      title: encodeURIComponent(req.body.title.trim()),
+      content: encodeURIComponent(req.body.content.trim()),
       author: encodeURIComponent(req.session.user.username),
-      date_created: myDate(date.getDate(), date.getMonth(), date.getFullYear()),
-      date_updated: myDate(date.getDate(), date.getMonth(), date.getFullYear())
+      date_created: toMoment(date),
+      date_updated: toMoment(date)
     }
     await (new models.Post(post)).save()
     res.status(200).redirect(`/post/${post._id}`)
@@ -61,9 +62,9 @@ export default Router()
     const date = new Date()
     try {
       let doc = await models.Post.findById(new mongoose.Types.ObjectId(req.params.id))
-      doc.title = encodeURIComponent(req.body.title)
-      doc.content = encodeURIComponent(req.body.content)
-      doc.date_updated = myDate(date.getDate(), date.getMonth(), date.getFullYear())
+      doc.title = encodeURIComponent(req.body.title.trim())
+      doc.content = encodeURIComponent(req.body.content.trim())
+      doc.date_updated = toMoment(date)
       await doc.save()
       res.redirect(`/post/${doc._id}`)
     } catch (error) {

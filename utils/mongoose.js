@@ -24,6 +24,7 @@ const schemas = {
     date_created: String,
   })
 }
+schemas.post.index({ title: 'text', content: 'text', author: 'text' })
 const models = {
   User: mongoose.model("User", schemas.user),
   Post: mongoose.model("Post", schemas.post),

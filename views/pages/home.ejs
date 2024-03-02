@@ -1,56 +1,96 @@
-<style>
-  #search::placeholder {
-    color: white;
-  }
-
-  #search:focus {
-    border-color: white;
-  }
-</style>
 <main class="row m-0 px-2 justify-content-center my-5">
   <div class="col-12">
     <div class="col-6 mx-auto">
-      <div class="input-group border-white shadow-none">
-        <input type="text" id="search" class="form-control shadow-none bg-dark text-white" placeholder="Buscar...">
-        <button type="button" class="btn btn-dark input-group-text p-2 border-white">
-          <i class="fa-solid fa-magnifying-glass m-auto"></i></button>
+      <div class="input-group shadow-none">
+        <% if (data.config.search) {%>
+          <input type="text" id="search" class="form-control shadow-none" placeholder="Buscar..."
+            value="<%= data.config.search %>" onkeydown="searchByKey(event)">
+          <button type="button" onclick="erase()" class="btn btn-danger input-group-text p-2 border-white">
+            <i class="fa-solid fa-close m-auto"></i></button>
+          <%} else {%>
+            <input type="text" id="search" class="form-control shadow-none" placeholder="Buscar..."
+              onkeydown="searchByKey(event)">
+            <button type="button" onclick="search()" class="btn btn-dark input-group-text p-2 border-white">
+              <i class="fa-solid fa-magnifying-glass m-auto"></i></button>
+            <% } %>
       </div>
     </div>
   </div>
-  <% data.posts.map(post=> { %>
-    <article class="col-12 col-sm-6 col-md-4 col-lg-3 p-2 align-items-stretch">
-      <div class="card bg-transparent text-white p-0 h-100">
-        <div class="card-header row m-0">
-          <a href="/profile/<%= post.author %>" class="btn bg-dark btn-dark col-auto">
-            <i class="fa fa-user bg-white text-black p-2 rounded-5"></i>
-            <span class="font-monospace text-white">
-              <%= post.author %>
-            </span>
-          </a>
-        </div>
-        <div class="card-body">
-          <div class="card-title fw-bold">
-            <%= post.title %>
+  <% if (data.posts.length===0) { %>
+    <div class="alert alert-primary fade show my-5 w-50 d-flex align-items-center" role="alert">
+      <i class="fa fa-magnifying-glass fa-2x mx-3"></i> ¡No hemos encontrado resultados!
+    </div>
+    <% } %>
+      <% data.posts.map(post=> { %>
+        <article class="col-12 col-sm-6 col-md-4 col-lg-3 p-2 align-items-stretch">
+          <div class="card bg-transparent text-white p-0 h-100">
+            <a href="/profile/<%= post.author %>" class="btn bg-dark btn-dark card-header">
+              <i class="fa fa-user bg-white text-black p-2 rounded-5"></i>
+              <span class="font-monospace text-white">
+                @<%= post.author %>
+              </span>
+            </a>
+            <div class="card-body">
+              <div class="card-title fw-bold">
+                <%= post.title %>
+              </div>
+              <p class="card-text text-break">
+                <%= post.content %>
+              </p>
+            </div>
+            <div class="card-footer text-center m-0 px-0">
+              <a href="/post/<%= post._id %>" class="link-info m-0">
+                Ver Post <i class="fa fa-comments"></i>
+              </a>
+              <div class="text-small m-0">
+                <% if (post.date_created===post.date_updated) { %>
+                  <small class="text-small badge bg-light text-dark">
+                    <%= post.date_created %>
+                  </small>
+                  <% } else { %>
+                    <small class="text-small badge bg-light text-dark">Actualizado: <%= post.date_updated %></small>
+                    <% } %>
+              </div>
+            </div>
           </div>
-          <p class="card-text text-break">
-            <%= post.content %>
-          </p>
-        </div>
-        <div class="card-footer text-center m-0 px-0">
-          <a href="/post/<%= post._id %>" class="link-info m-0">
-            Ver Post <i class="fa fa-comments"></i>
-          </a>
-          <div class="text-small m-0">
-            <% if (post.date_created===post.date_updated) { %>
-              <small class="text-small badge bg-light text-dark">
-                <%= post.date_created %>
-              </small>
-              <% } else { %>
-                <small class="text-small badge bg-light text-dark">Actualizado: <%= post.date_updated %></small>
-                <% } %>
-          </div>
-        </div>
-      </div>
-    </article>
-    <% }); %>
+        </article>
+        <% }); %>
+          <nav>
+            <ul class="pagination justify-content-center bg-end">
+              <li class="page-item">
+                <a class="page-link <% if (data.config.page===0) {%>disabled<%}%>"
+                  href="?page=<%=data.config.page - 1%><% if (data.config.search) {%>&search=<%= data.config.search %><%} %>"><i
+                    class="fa fa-chevron-left"></i></a>
+              </li>
+              <% for (let index=0; index < data.config.len/20; index++) { %>
+                <%if( index>=data.config.page -2 && index<=data.config.page +2){ %>
+                    <li class="page-item">
+                      <a class="page-link <%if (index===data.config.page){%>active<%}%>" href="?page=<%=index%><% if (data.config.search) {%>&search=<%= data.config.search %>
+                      <%} %>">
+                        <%= index+1 %>
+                      </a>
+                    </li>
+                    <% } %>
+                      <% } %>
+                        <li class="page-item">
+                          <a class="page-link <% if (data.config.page===Math.ceil(data.config.len/20)-1) {%>disabled<%}%>"
+                            href="?page=<%=data.config.page + 1%><% if (data.config.search) {%>&search=<%= data.config.search %><%} %>"><i
+                              class="fa fa-chevron-right"></i></a>
+                        </li>
+            </ul>
+          </nav>
 </main>
+<script>
+  function search() {
+    const search = document.getElementById("search").value
+    window.location.href = `?search=${encodeURIComponent(search)}`
+  }
+  function searchByKey(event) {
+    if (event.key === "Enter") {
+      search()
+    }
+  }
+  function erase() {
+    window.location.href = `/`
+  }
+</script>

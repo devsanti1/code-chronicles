@@ -1,362 +1,486 @@
-[
-  {
-    "username": "abraham_lincoln_05",
-    "email": "abraham.lincoln@example.com",
-    "password": "Libertad456!",
-    "date_created": "12/02 1809"
+[{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcdf"
   },
-  {
-    "username": "ada_lovelace_05",
-    "email": "ada.lovelace@example.com",
-    "password": "Programacion123@",
-    "date_created": "10/12 1815"
+  "username": "abraham_lincoln_05",
+  "email": "abraham.lincoln%40example.com",
+  "password": "$2b$10$4Kw1u8wcpcQkdePBQD2Jn.GKyXO.EF.5tGccQJkVZWU4E1pb7rfZa",
+  "date_created": "12/02 1809"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babce0"
   },
-  {
-    "username": "albert_einstein_07",
-    "email": "albert.einstein@example.com",
-    "password": "Relatividad123#",
-    "date_created": "14/03 1879"
+  "username": "ada_lovelace_05",
+  "email": "ada.lovelace%40example.com",
+  "password": "$2b$10$qUsTDoXemM5ttcQLM15e..aRwXi5bbnCMczsGfdHicaYec4M0AIAq",
+  "date_created": "10/12 1815"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babce1"
   },
-  {
-    "username": "angela_merkel_08",
-    "email": "angela.merkel@example.com",
-    "password": "Politica123@",
-    "date_created": "17/07 1954"
+  "username": "albert_einstein_07",
+  "email": "albert.einstein%40example.com",
+  "password": "$2b$10$bS4p6hvOhvf8nbIeiumIGetlU9AgyuYgujdtp3U5nUoKLTgE0Lu7W",
+  "date_created": "14/03 1879"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babce2"
   },
-  {
-    "username": "anthony_hopkins_05",
-    "email": "anthony.hopkins@example.com",
-    "password": "ActuacionAnthony789#",
-    "date_created": "31/12 1937"
+  "username": "angela_merkel_08",
+  "email": "angela.merkel%40example.com",
+  "password": "$2b$10$FNPfPfVXqnkDHutQ9zXDJuSs75Eim7V/TK1d.XmQfW3S7ot0GIKmK",
+  "date_created": "17/07 1954"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babce3"
   },
-  {
-    "username": "aristoteles_07",
-    "email": "aristoteles@example.com",
-    "password": "Metafisica123!",
-    "date_created": "14/05 -384"
+  "username": "anthony_hopkins_05",
+  "email": "anthony.hopkins%40example.com",
+  "password": "$2b$10$lI89KoHiUQodktkD6/HZeetKass.qRAklj9dT39JQeKLcLf1U5SkS",
+  "date_created": "31/12 1937"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babce4"
   },
-  {
-    "username": "audrey_hepburn_05",
-    "email": "audrey.hepburn@example.com",
-    "password": "ModaIcono123@",
-    "date_created": "04/05 1929"
+  "username": "aristoteles_07",
+  "email": "aristoteles%40example.com",
+  "password": "$2b$10$mw8rN1szLUiN9EKFN5LcnucdvgN67b6iJPGcdbvJZs6GZPi7oJNGO",
+  "date_created": "14/05 -384"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babce5"
   },
-  {
-    "username": "barack_obama_04",
-    "email": "barack.obama@example.com",
-    "password": "Esperanza123@",
-    "date_created": "04/08 1961"
+  "username": "audrey_hepburn_05",
+  "email": "audrey.hepburn%40example.com",
+  "password": "$2b$10$et.5JKzHNFb26CQz4qH.nOHFVxtTDazZ5w9UEcoAACrP9/5gAu1SS",
+  "date_created": "04/05 1929"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babce6"
   },
-  {
-    "username": "benazir_bhutto_01",
-    "email": "benazir.bhutto@example.com",
-    "password": "Liderazgo456#",
-    "date_created": "21/06 1953"
+  "username": "barack_obama_04",
+  "email": "barack.obama%40example.com",
+  "password": "$2b$10$EhTfliBUI3pfJamF3qBGGuAKGneeXQ8TIuZwvzStFs.siP/KeuNVG",
+  "date_created": "04/08 1961"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babce7"
   },
-  {
-    "username": "beyonce_02",
-    "email": "beyonce@example.com",
-    "password": "MusicaBeyonce456#",
-    "date_created": "04/09 1981"
+  "username": "benazir_bhutto_01",
+  "email": "benazir.bhutto%40example.com",
+  "password": "$2b$10$/1YvbaunxE1kfMkpavc4ueuq738.hbTbwBailRuPkqPEeeO7zdhja",
+  "date_created": "21/06 1953"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babce8"
   },
-  {
-    "username": "bill_gates_05",
-    "email": "bill.gates@example.com",
-    "password": "Microsoft123!",
-    "date_created": "28/10 1955"
+  "username": "beyonce_02",
+  "email": "beyonce%40example.com",
+  "password": "$2b$10$lpQAHLu8Li4s4SI7GPVYUOlbZntmVK9xGgeDFE90Ukfg5uocfthjO",
+  "date_created": "04/09 1981"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babce9"
   },
-  {
-    "username": "carl_sagan_09",
-    "email": "carl.sagan@example.com",
-    "password": "Cosmos789$",
-    "date_created": "09/11 1934"
+  "username": "bill_gates_05",
+  "email": "bill.gates%40example.com",
+  "password": "$2b$10$ZjrHVQuZjHJak.fZ/zQopuHBS7H8jCrxRZjhRBdmouqNPK.gnpQxm",
+  "date_created": "28/10 1955"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcea"
   },
-  {
-    "username": "cate_blanchett_02",
-    "email": "cate.blanchett@example.com",
-    "password": "ActuacionCate789$",
-    "date_created": "14/05 1969"
+  "username": "carl_sagan_09",
+  "email": "carl.sagan%40example.com",
+  "password": "$2b$10$ogZT2kbwa9fwpnZVY6F1XuQuweIkFV3zT3xrBah4rVEvK9.5Zm7VC",
+  "date_created": "09/11 1934"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babceb"
   },
-  {
-    "username": "charles_darwin_12",
-    "email": "charles.darwin@example.com",
-    "password": "Evolucion456#",
-    "date_created": "12/02 1809"
+  "username": "cate_blanchett_02",
+  "email": "cate.blanchett%40example.com",
+  "password": "$2b$10$W4slFasCD6T0H3LEd3R9VuPIvfAYbmRxil6eSg.i6riSTJDZNkuS.",
+  "date_created": "14/05 1969"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcec"
   },
-  {
-    "username": "confucio_08",
-    "email": "confucio.sabio@example.com",
-    "password": "VirtudConfucio123#",
-    "date_created": "28/09 -551"
+  "username": "charles_darwin_12",
+  "email": "charles.darwin%40example.com",
+  "password": "$2b$10$o.PoVPaJ9JYcmKkb9RsbnOBfRYEsxm2efVPAMfHTWMxx5XmP1MRm6",
+  "date_created": "12/02 1809"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babced"
   },
-  {
-    "username": "cristiano_ronaldo_09",
-    "email": "cristiano.ronaldo@example.com",
-    "password": "Futbol789!",
-    "date_created": "05/02 1985"
+  "username": "confucio_08",
+  "email": "confucio.sabio%40example.com",
+  "password": "$2b$10$Gcoi3glNT1IDMGAxgb42H.sKC6zijRADaOZZ.rV86iRx9Al1laGKK",
+  "date_created": "28/09 -551"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcee"
   },
-  {
-    "username": "dalai_lama_11",
-    "email": "dalai.lama@example.com",
-    "password": "PazInterior789$",
-    "date_created": "06/07 1935"
+  "username": "cristiano_ronaldo_09",
+  "email": "cristiano.ronaldo%40example.com",
+  "password": "$2b$10$/UpvJqBxHyF/Sje4sW4hFuqidKZKng9DO9qLBHzBm0pUveGy6oaV6",
+  "date_created": "05/02 1985"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcef"
   },
-  {
-    "username": "david_bowie_08",
-    "email": "david.bowie@example.com",
-    "password": "ZiggyStardust123!",
-    "date_created": "08/01 1947"
+  "username": "dalai_lama_11",
+  "email": "dalai.lama%40example.com",
+  "password": "$2b$10$7kyhCllByUeflKyjFBDNxuGV8H46EoehHLh22wXQqx31lIFnJyDcu",
+  "date_created": "06/07 1935"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcf0"
   },
-  {
-    "username": "denzel_washington_04",
-    "email": "denzel.washington@example.com",
-    "password": "ActuacionDenzel789$",
-    "date_created": "28/12 1954"
+  "username": "david_bowie_08",
+  "email": "david.bowie%40example.com",
+  "password": "$2b$10$Gk.le4aQTkJs/xEwSbm2lOZBBAcC1PWRmyfY8FoZu7xifQsUCBKtG",
+  "date_created": "08/01 1947"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcf1"
   },
-  {
-    "username": "elon_musk_10",
-    "email": "elon.musk@example.com",
-    "password": "TeslaSpace123@",
-    "date_created": "28/06 1971"
+  "username": "denzel_washington_04",
+  "email": "denzel.washington%40example.com",
+  "password": "$2b$10$FBDgndeE7modPxSAy8IDH.pS2WQT72dRJr0W63TOt3Fg/IM6iM4qq",
+  "date_created": "28/12 1954"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcf2"
   },
-  {
-    "username": "epicteto_16",
-    "email": "epicteto@example.com",
-    "password": "Serenidad123@",
-    "date_created": "50 55"
+  "username": "elon_musk_10",
+  "email": "elon.musk%40example.com",
+  "password": "$2b$10$d2ecbDw8Fp9G9iAUSTiGJO61D167jM4kBZsxnu47LXC47I/BwAeWG",
+  "date_created": "28/06 1971"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcf3"
   },
-  {
-    "username": "friedrich_nietzsche_05",
-    "email": "nietzsche.filosofo@example.com",
-    "password": "VoluntadPoder!666",
-    "date_created": "15/10 1844"
+  "username": "epicteto_16",
+  "email": "epicteto%40example.com",
+  "password": "$2b$10$uCWXNkhLEPZ6J42X4el8MOxHKN2ql5xAVwYpGeTBaWGeFgg1h/RPO",
+  "date_created": "50 55"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcf4"
   },
-  {
-    "username": "immanuel_kant_19",
-    "email": "kant.filosofo@example.com",
-    "password": "RazonKantiana&123",
-    "date_created": "22/04 1724"
+  "username": "friedrich_nietzsche_05",
+  "email": "nietzsche.filosofo%40example.com",
+  "password": "$2b$10$p0lWbCUmpbJmWBs1hRKNIu1agIei6tRWnxCWYO5kxNpPmZE1f0BVa",
+  "date_created": "15/10 1844"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcf5"
   },
-  {
-    "username": "indira_gandhi_02",
-    "email": "indira.gandhi@example.com",
-    "password": "Liderazgo123@",
-    "date_created": "19/11 1917"
+  "username": "immanuel_kant_19",
+  "email": "kant.filosofo%40example.com",
+  "password": "$2b$10$r1.s7KScWDjk7xIrXgNgLO7WNtLCzfl66RJXDBO5RaJ145PlRftgy",
+  "date_created": "22/04 1724"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcf6"
   },
-  {
-    "username": "isaac_newton_08",
-    "email": "isaac.newton@example.com",
-    "password": "GravedadNewton789$",
-    "date_created": "04/01 1643"
+  "username": "indira_gandhi_02",
+  "email": "indira.gandhi%40example.com",
+  "password": "$2b$10$q5gYcjrZ8MCBNWnhPk/Ct.tth4FHvn1fCo1Xa3NSgA1Tl2yHCmb8y",
+  "date_created": "19/11 1917"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcf7"
   },
-  {
-    "username": "jk_rowling_12",
-    "email": "jk.rowling@example.com",
-    "password": "MagiaRowling456#",
-    "date_created": "31/07 1965"
+  "username": "isaac_newton_08",
+  "email": "isaac.newton%40example.com",
+  "password": "$2b$10$JVuasYmaKSgHn8Lz.ohPzOB7Im7at/mR3RbEARcSJ5vi45To8PIWS",
+  "date_created": "04/01 1643"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcf8"
   },
-  {
-    "username": "jane_goodall_04",
-    "email": "jane.goodall@example.com",
-    "password": "Primatologia123@",
-    "date_created": "03/04 1934"
+  "username": "jk_rowling_12",
+  "email": "jk.rowling%40example.com",
+  "password": "$2b$10$qf2CMyqNbec/26wqcm.MB.1Atq4dkZ9q7Bjvqtf6q5R0znAvlSUDm",
+  "date_created": "31/07 1965"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcf9"
   },
-  {
-    "username": "jean-paul_sartre_14",
-    "email": "sartre.existencialista@example.com",
-    "password": "LibertadEsExistencia789$",
-    "date_created": "21/06 1905"
+  "username": "jane_goodall_04",
+  "email": "jane.goodall%40example.com",
+  "password": "$2b$10$8H./V0ZVJbr8UnpacLpkbOEYdKZF94rlZzu1xcUZWahjR6NG8ZDSi",
+  "date_created": "03/04 1934"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcfa"
   },
-  {
-    "username": "leonardo_dicaprio_07",
-    "email": "leonardo.dicaprio@example.com",
-    "password": "ActuacionLeo456!",
-    "date_created": "11/11 1974"
+  "username": "jean-paul_sartre_14",
+  "email": "sartre.existencialista%40example.com",
+  "password": "$2b$10$KjK4NRawgyb3IKuaodEEneh5bWznjZm2RDgaCcGemmW5qnodVT4kC",
+  "date_created": "21/06 1905"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcfb"
   },
-  {
-    "username": "linus_torvalds_09",
-    "email": "linus.torvalds@example.com",
-    "password": "LinuxKernel123@",
-    "date_created": "28/12 1969"
+  "username": "leonardo_dicaprio_07",
+  "email": "leonardo.dicaprio%40example.com",
+  "password": "$2b$10$ygYF0UlBDa3tOib6Ls5pzO6/fyiiybpW5lANHOvrAspjp8/5Cpn7O",
+  "date_created": "11/11 1974"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcfc"
   },
-  {
-    "username": "lionel_messi_08",
-    "email": "lionel.messi@example.com",
-    "password": "Futbol456#",
-    "date_created": "24/06 1987"
+  "username": "linus_torvalds_09",
+  "email": "linus.torvalds%40example.com",
+  "password": "$2b$10$lYhWg0S10.p1NiZ2yM3gcuNKYlfMXrzngfNrHFRjpL5OJ1jlW08bW",
+  "date_created": "28/12 1969"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcfd"
   },
-  {
-    "username": "mahatma_gandhi_10",
-    "email": "gandhi@example.com",
-    "password": "Paz123!",
-    "date_created": "02/10 1869"
+  "username": "lionel_messi_08",
+  "email": "lionel.messi%40example.com",
+  "password": "$2b$10$6ZuTrC2HEh8X8PODXo0rW.ZBlhpSazqE7Sp4xbp/cDo.jcdn76iFO",
+  "date_created": "24/06 1987"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcfe"
   },
-  {
-    "username": "malala_yousafzai_04",
-    "email": "malala.yousafzai@example.com",
-    "password": "EmpoderamientoMalala789$",
-    "date_created": "12/07 1997"
+  "username": "mahatma_gandhi_10",
+  "email": "gandhi%40example.com",
+  "password": "$2b$10$ebiMlgTssFfG76IljQMM9OnzWl47wOwZHoLrkDXibzebx3RMaSd/i",
+  "date_created": "02/10 1869"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babcff"
   },
-  {
-    "username": "margaret_thatcher_11",
-    "email": "margaret.thatcher@example.com",
-    "password": "Conservadora789$",
-    "date_created": "13/10 1925"
+  "username": "malala_yousafzai_04",
+  "email": "malala.yousafzai%40example.com",
+  "password": "$2b$10$Adn05lUAxJZXyZI4MF8aEu19hdqw5A2bQuS/6bKBT5weTMXHo0LjW",
+  "date_created": "12/07 1997"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd00"
   },
-  {
-    "username": "marie_curie_11",
-    "email": "marie.curie@example.com",
-    "password": "Radiactividad456!",
-    "date_created": "07/11 1867"
+  "username": "margaret_thatcher_11",
+  "email": "margaret.thatcher%40example.com",
+  "password": "$2b$10$TJDEYATV3q5NemIAjE3dJeQrSYZ2jx/FguEpgWYr3Mdo810I1uCOO",
+  "date_created": "13/10 1925"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd01"
   },
-  {
-    "username": "meryl_streep_09",
-    "email": "meryl.streep@example.com",
-    "password": "Actuacion456!",
-    "date_created": "22/06 1949"
+  "username": "marie_curie_11",
+  "email": "marie.curie%40example.com",
+  "password": "$2b$10$m7Vf9gf3ZVkxu79pX0Or0.wQsGmxyHZBZ.XfO.v1SWxRF4ZJs1Yk2",
+  "date_created": "07/11 1867"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd02"
   },
-  {
-    "username": "michael_jordan_12",
-    "email": "michael.jordan@example.com",
-    "password": "Baloncesto456#",
-    "date_created": "17/02 1963"
+  "username": "meryl_streep_09",
+  "email": "meryl.streep%40example.com",
+  "password": "$2b$10$R94QZT0VzlJtGXiJ2/BDMOgsbPFSPbnp0VlQCjK/XUILRlK5S7Z0K",
+  "date_created": "22/06 1949"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd03"
   },
-  {
-    "username": "michael_phelps_11",
-    "email": "michael.phelps@example.com",
-    "password": "Natacion456!",
-    "date_created": "30/06 1985"
+  "username": "michael_jordan_12",
+  "email": "michael.jordan%40example.com",
+  "password": "$2b$10$N85w/lPlr0oiTKRDmQh8KexxW3Id2BtnGCh.TznJ23k7pwGL6X/TW",
+  "date_created": "17/02 1963"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd04"
   },
-  {
-    "username": "morgan_freeman_05",
-    "email": "morgan.freeman@example.com",
-    "password": "Narracion123!",
-    "date_created": "01/06 1937"
+  "username": "michael_phelps_11",
+  "email": "michael.phelps%40example.com",
+  "password": "$2b$10$E.DSH1/KyZ5cL8g.VGMGp.p5u8yqNgN.lC/hVc7DTHNX3LxfnxCaa",
+  "date_created": "30/06 1985"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd05"
   },
-  {
-    "username": "muhammad_ali_07",
-    "email": "muhammad.ali@example.com",
-    "password": "Boxeo123!",
-    "date_created": "17/01 1942"
+  "username": "morgan_freeman_05",
+  "email": "morgan.freeman%40example.com",
+  "password": "$2b$10$wBeizYXSKxR0vyft3vUfCudfiKV773NLggotSR8iys/rNPXq2L8PW",
+  "date_created": "01/06 1937"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd06"
   },
-  {
-    "username": "natalie_portman_09",
-    "email": "natalie.portman@example.com",
-    "password": "ActuacionNat456@",
-    "date_created": "09/06 1981"
+  "username": "muhammad_ali_07",
+  "email": "muhammad.ali%40example.com",
+  "password": "$2b$10$hWUmUEBLG8kZrp5sUJ5Qd.SBdmgifs1r2h9QH17VzAqVb2kXoobRC",
+  "date_created": "17/01 1942"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd07"
   },
-  {
-    "username": "neil_tyson_02",
-    "email": "neil.tyson@example.com",
-    "password": "Astrofisica456#",
-    "date_created": "05/10 1958"
+  "username": "natalie_portman_09",
+  "email": "natalie.portman%40example.com",
+  "password": "$2b$10$lTi8dYkMG5TBvd6JsEtWNOrAPuwK7RMNwxpcL1H2B.OE6Qv12A8yG",
+  "date_created": "09/06 1981"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd08"
   },
-  {
-    "username": "nelson_mandela_06",
-    "email": "nelson.mandela@example.com",
-    "password": "Libertad789$",
-    "date_created": "18/07 1918"
+  "username": "neil_tyson_02",
+  "email": "neil.tyson%40example.com",
+  "password": "$2b$10$dOJ9tjnrkqpeQwVs34riEO5FC/Huh1EHTst8hix86YZTcYkACPCdW",
+  "date_created": "05/10 1958"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd09"
   },
-  {
-    "username": "oprah_winfrey_03",
-    "email": "oprah.winfrey@example.com",
-    "password": "Empoderamiento789$",
-    "date_created": "29/01 1954"
+  "username": "nelson_mandela_06",
+  "email": "nelson.mandela%40example.com",
+  "password": "$2b$10$K4J7Sf/s1o/.wM2Ir541muRuEhJeGaCPjp/QXlQYHsbciKNY44CHG",
+  "date_created": "18/07 1918"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd0a"
   },
-  {
-    "username": "platon_11",
-    "email": "plato.filosofo@example.com",
-    "password": "IdeasPlatonicas456#",
-    "date_created": "21/05 -428"
+  "username": "oprah_winfrey_03",
+  "email": "oprah.winfrey%40example.com",
+  "password": "$2b$10$ZXy2cGbPUWFkJF93A5XJMOE4tIH4KU/5JzCAM.nAYkkaYbhKQiB5G",
+  "date_created": "29/01 1954"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd0b"
   },
-  {
-    "username": "rafael_nadal_04",
-    "email": "rafael.nadal@example.com",
-    "password": "TenisRafa123@",
-    "date_created": "03/06 1986"
+  "username": "platon_11",
+  "email": "plato.filosofo%40example.com",
+  "password": "$2b$10$uJec5FqHB2rzsSlBA5X/Meo3rJfjVzxQoPpNT2qayVKInuF5hLqhi",
+  "date_created": "21/05 -428"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd0c"
   },
-  {
-    "username": "rosalind_franklin_03",
-    "email": "rosalind.franklin@example.com",
-    "password": "ADN123!",
-    "date_created": "25/07 1920"
+  "username": "rafael_nadal_04",
+  "email": "rafael.nadal%40example.com",
+  "password": "$2b$10$Z6WBZP4koQZVXxPpIXs/r.ihGftsbhR8wNfGFonnYe/F/RS7QgcRa",
+  "date_created": "03/06 1986"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd0d"
   },
-  {
-    "username": "seneca_18",
-    "email": "seneca.sabio@example.com",
-    "password": "VirtudSeneca789$",
-    "date_created": "01/09 4"
+  "username": "rosalind_franklin_03",
+  "email": "rosalind.franklin%40example.com",
+  "password": "$2b$10$JZYteUJ3wTb7tV2akOyXcutL8eoLBNwd3skaBDEKKix0ZZZjkjP.u",
+  "date_created": "25/07 1920"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd0e"
   },
-  {
-    "username": "serena_williams_06",
-    "email": "serena.williams@example.com",
-    "password": "TenisSerena123@",
-    "date_created": "26/09 1981"
+  "username": "seneca_18",
+  "email": "seneca.sabio%40example.com",
+  "password": "$2b$10$SnXfhhx3Stvc/nrREjCM3e4GPhtGWMiWhtvTbQJmCXENjNFTaBo8q",
+  "date_created": "01/09 4"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd0f"
   },
-  {
-    "username": "simone_biles_03",
-    "email": "simone.biles@example.com",
-    "password": "Gimnasia123@",
-    "date_created": "14/03 1997"
+  "username": "serena_williams_06",
+  "email": "serena.williams%40example.com",
+  "password": "$2b$10$6IKRE1Z6izEV5z9Lo3pqeeIbzmEVsb7DPnLs2fs5OGVNd81MJSCOe",
+  "date_created": "26/09 1981"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd10"
   },
-  {
-    "username": "simone_beauvoir_07",
-    "email": "simone.beauvoir@example.com",
-    "password": "Existencialismo123#",
-    "date_created": "09/01 1908"
+  "username": "simone_biles_03",
+  "email": "simone.biles%40example.com",
+  "password": "$2b$10$xSrqCTS/.vN63UU15oY4pe/qh2QV4wE/YB05HRrUHWIkcSp/lA1Hq",
+  "date_created": "14/03 1997"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd11"
   },
-  {
-    "username": "socrates_23",
-    "email": "sabio.socrates@example.com",
-    "password": "Conocete123@",
-    "date_created": "05/03 -469"
+  "username": "simone_beauvoir_07",
+  "email": "simone.beauvoir%40example.com",
+  "password": "$2b$10$bmltdlaZeDNYQ.wJQ7V18O/PLKAlNrn3/YVhZy8.toigu28ZHXVka",
+  "date_created": "09/01 1908"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd12"
   },
-  {
-    "username": "stephen_hawking_01",
-    "email": "stephen.hawking@example.com",
-    "password": "Fisica123@",
-    "date_created": "08/01 1942"
+  "username": "socrates_23",
+  "email": "sabio.socrates%40example.com",
+  "password": "$2b$10$CEYMk.JfqVvLiaN8rgmlYe3jyMyNOff1vSeoQm6qUkQ2FjH10T/5O",
+  "date_created": "05/03 -469"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd13"
   },
-  {
-    "username": "theodore_roosevelt_06",
-    "email": "theodore.roosevelt@example.com",
-    "password": "Progresista789$",
-    "date_created": "27/10 1858"
+  "username": "stephen_hawking_01",
+  "email": "stephen.hawking%40example.com",
+  "password": "$2b$10$A2zpbQbL.9w9FW.DpJRL0OwAiJCqdRyimet9hkk0M4K4omH/crqA6",
+  "date_created": "08/01 1942"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd14"
   },
-  {
-    "username": "tim_berners-lee_03",
-    "email": "tim.berners-lee@example.com",
-    "password": "WorldWideWeb456#",
-    "date_created": "08/06 1955"
+  "username": "theodore_roosevelt_06",
+  "email": "theodore.roosevelt%40example.com",
+  "password": "$2b$10$qBMfAlTgeKzteI8FNJFQyeYhMRXq3sYETsSAwClf4qBoHQCaARL5a",
+  "date_created": "27/10 1858"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd15"
   },
-  {
-    "username": "tom_hanks_08",
-    "email": "tom.hanks@example.com",
-    "password": "ActuacionTom456#",
-    "date_created": "09/07 1956"
+  "username": "tim_berners-lee_03",
+  "email": "tim.berners-lee%40example.com",
+  "password": "$2b$10$YGM/WQIAp4jFQ97c2QPXUOZJ6F22RH4UNjXppa64cFSO9wbbbxhoS",
+  "date_created": "08/06 1955"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd16"
   },
-  {
-    "username": "usain_bolt_05",
-    "email": "usain.bolt@example.com",
-    "password": "VelocidadBolt123@",
-    "date_created": "21/08 1986"
+  "username": "tom_hanks_08",
+  "email": "tom.hanks%40example.com",
+  "password": "$2b$10$DtF0LnrXvNvh4s0S9xJB3umnCpnvQTNwIGI442DLjwApL.0sTYfGm",
+  "date_created": "09/07 1956"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd17"
   },
-  {
-    "username": "viola_davis_03",
-    "email": "viola.davis@example.com",
-    "password": "ActuacionViola123@",
-    "date_created": "11/08 1965"
+  "username": "usain_bolt_05",
+  "email": "usain.bolt%40example.com",
+  "password": "$2b$10$GwYz.ktbAnkIxFjRyU/Y6uRZwo7U/6sg1/zxSEu.4j26s9Ce3pdYG",
+  "date_created": "21/08 1986"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd18"
   },
-  {
-    "username": "winston_churchill_03",
-    "email": "winston.churchill@example.com",
-    "password": "Liderazgo789#",
-    "date_created": "30/11 1874"
+  "username": "viola_davis_03",
+  "email": "viola.davis%40example.com",
+  "password": "$2b$10$9or2aaG0PWbGU3WYOUDqcOEv0f3h7y2I.1YK8B4mNRR9jQChl2GVy",
+  "date_created": "11/08 1965"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd19"
   },
-  {
-    "username": "guido_van_rossum_12",
-    "email": "guido.van.rossum@example.com",
-    "password": "Pythonista123!",
-    "date_created": "31/01 1956"
-  }
-]
+  "username": "winston_churchill_03",
+  "email": "winston.churchill%40example.com",
+  "password": "$2b$10$brmKvTDf5lggAKatx/576exPN/YbXM9mXWDMejhmsnEGx4NmlUve2",
+  "date_created": "30/11 1874"
+},{
+  "_id": {
+    "$oid": "65dd54fcb0f1961556babd1a"
+  },
+  "username": "guido_van_rossum_12",
+  "email": "guido.van.rossum%40example.com",
+  "password": "$2b$10$AikY4CSB0wiJwGUvMkWLYOFnFrnxVpBAyYO2MZ80UDP4.s25BV5le",
+  "date_created": "31/01 1956"
+},{
+  "_id": {
+    "$oid": "65dd7d10a8c14e75f9f2506f"
+  },
+  "date_created": "29/07 1956"
+}]

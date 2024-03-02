@@ -1,7 +1,7 @@
 import { Router } from "express";
 import { models } from "../../utils/mongoose.js";
 import bcrypt from "../../utils/bcrypt.js";
-import { myDate, patterns } from "../../utils/validation.js";
+import { patterns, toMoment } from "../../utils/validation.js";
 
 export default Router()
   .post('/register', async (req, res) => {
@@ -10,7 +10,7 @@ export default Router()
       username: req.body.username.toLowerCase().trim().replace(" ", ""),
       email: req.body.email.trim().replace(" ", ""),
       password: req.body.password,
-      date_created: myDate(date.getDate(), date.getMonth(), date.getFullYear())
+      date_created: toMoment(date)
     }
     if (!patterns.username.test(user.username)) {
       req.session.message = "incorrect username"
@@ -38,7 +38,7 @@ export default Router()
             username: encodeURIComponent(user.username),
             email: encodeURIComponent(user.email),
             password: user.password,
-            date_created: user.date_created
+            date_created: toMoment(user.date_created)
           })).save()
           req.session.user = user
           req.session.message = "Registrado con exito"
@@ -61,7 +61,7 @@ export default Router()
         username: decodeURIComponent(user.username),
         email: decodeURIComponent(user.email),
         password: user.password,
-        date_created: user.date_created
+        date_created: toMoment(user.date_created)
       }
       req.session.message = "Logeado con exito"
       res.status(200).redirect("/")

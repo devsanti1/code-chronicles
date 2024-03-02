@@ -17,14 +17,14 @@ export default express()
   })
   .get('/register', (req, res, next) => {
     if (req.session.user) {
-      res.redirect("/profile")
+      res.redirect(`/profile/${req.session.user.username}`)
     } else {
       next()
     }
   })
   .get('/login', (req, res, next) => {
     if (req.session.user) {
-      res.redirect("/profile")
+      res.redirect(`/profile/${req.session.user.username}`)
     } else {
       next()
     }

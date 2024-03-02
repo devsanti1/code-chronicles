@@ -4,7 +4,7 @@
       <a href="/profile/<%= data.post.author %>" class="btn bg-dark btn-dark col-auto">
         <i class="fa fa-user bg-white text-black p-2 rounded-5"></i>
         <span class="font-monospace text-white">
-          <%= data.post.author %>
+          @<%= data.post.author %>
         </span>
       </a>
     </div>
@@ -16,54 +16,57 @@
         <%= data.post.content %>
       </p>
     </div>
-    <div class="card-footer text-center m-0 px-0">
+    <div class="card-footer text-center m-0 px-0 pb-0">
       <span class="badge bg-light text-dark">
         Publicado: <%= data.post.date_created %><br>
       </span>
-      <span class="badge bg-light text-dark">
-        Actualizado: <%= data.post.date_updated %>
-      </span>
-      <% if (data.session.user) { %>
-        <form action="/api/posts/<%= data.post._id %>/comments" method="post" class="mt-3 mx-5">
-          <div class="input-group">
-            <textarea name="content" class="form-control" rows="1" placeholder="Comentar..."></textarea>
-            <input type="submit" class="btn btn-outline-success d-flex align-items-center" value="Comentar">
-          </div>
-        </form>
-        <% } else { %>
-          <form class="mt-3 mx-5">
-            <div class="input-group">
-              <textarea name="content" class="form-control" rows="1" disabled placeholder="Comentar..."></textarea>
-              <a href="/login" class="btn btn-outline-warning d-flex align-items-center"><small>Debe iniciar sesión para
-                  comentar</small></a>
-            </div>
-          </form>
-          <% } %>
-            <ul class="list-group mt-3">
-              <% data.comments.map(comment=>{ %>
-                <li class="list-group-item bg-dark text-white">
-                  <div class="d-flex w-100 justify-content-between">
-                    <h6>
-                      <a href="/profile/<%= comment.author %>" class="link-light">
-                        <%= comment.author %>
-                      </a>
-                    </h6>
-                    <small>
-                      <%= comment.date_created %>
-                    </small>
-                  </div>
-                  <p class="text-start">
-                    <%= comment.content %>
-                  </p>
-                  <% if (data.session.user && data.session.user.username===comment.author) { %>
-                    <form action="/api/posts/<%=data.post._id%>/comments/<%= comment._id %>" method="post"
-                      class="d-flex justify-content-end">
-                      <button type="submit" class="btn btn-danger"><i class="fa fa-trash"></i></button>
-                    </form>
-                    <% } %>
-                </li>
-                <% }) %>
-            </ul>
+      <% if (data.post.date_created !==data.post.date_updated) {%>
+        <span class="badge bg-light text-dark">
+          Actualizado: <%= data.post.date_updated %>
+        </span>
+        <% } %>
+          <% if (data.session.user) { %>
+            <form action="/api/posts/<%= data.post._id %>/comments" method="post" class="mt-3 mx-5">
+              <div class="input-group">
+                <textarea name="content" class="form-control" rows="1" placeholder="Comentar..."></textarea>
+                <input type="submit" class="btn btn-outline-success d-flex align-items-center" value="Comentar">
+              </div>
+            </form>
+            <% } else { %>
+              <form class="mt-3 mx-5">
+                <div class="input-group">
+                  <textarea name="content" class="form-control" rows="1" disabled placeholder="Comentar..."></textarea>
+                  <a href="/login" class="btn btn-outline-warning d-flex align-items-center"><small>Debe iniciar sesión
+                      para
+                      comentar</small></a>
+                </div>
+              </form>
+              <% } %>
+                <ul class="list-group mt-3">
+                  <% data.comments.map(comment=>{ %>
+                    <li class="list-group-item">
+                      <div class="d-flex w-100 justify-content-between">
+                        <h6>
+                          <a href="/profile/<%= comment.author %>" class="link-light">
+                            @<%= comment.author %>
+                          </a>
+                        </h6>
+                        <small>
+                          <%= comment.date_created %>
+                        </small>
+                      </div>
+                      <p class="text-start">
+                        <%= comment.content %>
+                      </p>
+                      <% if (data.session.user && data.session.user.username===comment.author) { %>
+                        <form action="/api/posts/<%=data.post._id%>/comments/<%= comment._id %>" method="post"
+                          class="d-flex justify-content-end">
+                          <button type="submit" class="btn btn-danger"><i class="fa fa-trash"></i></button>
+                        </form>
+                        <% } %>
+                    </li>
+                    <% }) %>
+                </ul>
     </div>
   </div>
 </main>

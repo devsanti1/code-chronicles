@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "65dee645a8c14e75f9f25146"
+  },
+  "post_id": "65dd7f69a8c14e75f9f250d7",
+  "author": "neil_degrasse_tyson_02",
+  "content": "La educación ambiental es crucial para comprender nuestro lugar en el cosmos y nuestra responsabilidad de preservarlo.",
+  "date_created": "05/09 1998"
+},{
+  "_id": {
+    "$oid": "65dee645a8c14e75f9f25147"
+  },
+  "post_id": "65dd7f69a8c14e75f9f250d7",
+  "author": "marie_curie_11",
+  "content": "Totalmente de acuerdo. Debemos educar a las generaciones futuras sobre la importancia de proteger nuestro entorno.",
+  "date_created": "21/03 1999"
+},{
+  "_id": {
+    "$oid": "65dee645a8c14e75f9f25148"
+  },
+  "post_id": "65dd7f69a8c14e75f9f250d7",
+  "author": "nelson_mandela_06",
+  "content": "La educación es el arma más poderosa que puedes usar para cambiar el mundo. La educación ambiental es clave para un futuro sostenible.",
+  "date_created": "18/07 2000"
+},{
+  "_id": {
+    "$oid": "65dee645a8c14e75f9f25149"
+  },
+  "post_id": "65dd7f69a8c14e75f9f250d7",
+  "author": "angela_merkel_08",
+  "content": "Estoy comprometida con la educación ambiental en nuestro sistema educativo. Es esencial para construir un futuro más verde.",
+  "date_created": "09/12 2010"
+},{
+  "_id": {
+    "$oid": "65dee645a8c14e75f9f2514a"
+  },
+  "post_id": "65dd7f69a8c14e75f9f250d7",
+  "author": "muhammad_ali_07",
+  "content": "Inspirador mensaje. Todos debemos tomar acción para proteger nuestro hogar, la Tierra.",
+  "date_created": "30/04 2015"
+},{
+  "_id": {
+    "$oid": "65dee645a8c14e75f9f2514b"
+  },
+  "post_id": "65dd7f69a8c14e75f9f250d7",
+  "author": "barack_obama_04",
+  "content": "Estoy de acuerdo. La educación ambiental es fundamental para abordar los desafíos climáticos que enfrentamos.",
+  "date_created": "11/09 2016"
+},{
+  "_id": {
+    "$oid": "65dee645a8c14e75f9f2514c"
+  },
+  "post_id": "65dd7f69a8c14e75f9f250d7",
+  "author": "malala_yousafzai_04",
+  "content": "La educación es un derecho humano fundamental. La educación ambiental también es esencial para proteger nuestros derechos en la Tierra.",
+  "date_created": "12/07 2018"
+},{
+  "_id": {
+    "$oid": "65dee645a8c14e75f9f2514d"
+  },
+  "post_id": "65dd7f69a8c14e75f9f250d7",
+  "author": "winston_churchill_03",
+  "content": "La educación ambiental es vital para asegurar un futuro sostenible para las generaciones venideras. Debemos tomar medidas ahora.",
+  "date_created": "28/05 2020"
+},{
+  "_id": {
+    "$oid": "65dee645a8c14e75f9f2514e"
+  },
+  "post_id": "65dd7f69a8c14e75f9f250d7",
+  "author": "serena_williams_06",
+  "content": "Estoy comprometida a usar mi plataforma para promover la educación ambiental y la acción climática. Juntos, podemos marcar la diferencia.",
+  "date_created": "15/09 2021"
+},{
+  "_id": {
+    "$oid": "65dee645a8c14e75f9f2514f"
+  },
+  "post_id": "65dd7f69a8c14e75f9f250d7",
+  "author": "stephen_hawking_01",
+  "content": "La educación ambiental es esencial para proteger nuestro planeta y garantizar un futuro próspero para la humanidad. Todos debemos hacer nuestra parte.",
+  "date_created": "08/01 2022"
+},{
+  "_id": {
+    "$oid": "65dfbb1f5825f5649b4ae7d0"
+  },
+  "post_id": "65dd7fe9a8c14e75f9f250eb",
+  "author": "malala_yousafzai_04",
+  "content": "holaa",
+  "date_created": "29/02 2024",
+  "__v": 0
+}]

@@ -6,8 +6,12 @@ dotenv.config()
 const layout = "layouts/layout.ejs"
 export default Router()
   .get('/', async (req, res) => {
-    const posts = (await (await fetch(`${process.env.URL}/api/posts`, { method: 'get' })).json())
-    res.render(layout, { title: "CodeChronicles - Home", view: "home", data: { posts: posts, session: req.session } })
+    const config = {
+      page: req.query.page ? req.query.page : 0,
+      search: req.query.search ? `&search=${decodeURIComponent(req.query.search)}` : "",
+    }
+    const posts = (await (await fetch(`${process.env.URL}/api/posts?page=${config.page}${config.search}`, { method: 'get' })).json())
+    res.render(layout, { title: "CodeChronicles - Home", view: "home", data: { posts: posts.posts, session: req.session, config: posts.config } })
   })
   .get('/register', (req, res) => {
     res.render(layout, { title: "CodeChronicles - Registro", view: "register", data: { session: req.session } })
