@@ -5,8 +5,8 @@
   "title": "El autoconocimiento y la virtud",
   "content": "El autoconocimiento es fundamental para cultivar la virtud en nuestras vidas. Solo al comprender nuestras propias fortalezas y debilidades podemos aspirar a vivir una vida virtuosa. La búsqueda del autoconocimiento es un viaje que dura toda la vida.",
   "author": "socrates_23",
-  "date_created": "05/03 -469",
-  "date_updated": "05/03 -469"
+  "date_created": "-0469-03-05",
+  "date_updated": "-0469-03-05"
 },{
   "_id": {
     "$oid": "65dd5d88b0f1961556babd23"
@@ -14,8 +14,8 @@
   "title": "La importancia de la filosofía en la sociedad",
   "content": "La filosofía no solo busca respuestas, sino que también plantea preguntas importantes sobre el propósito de nuestra existencia y la naturaleza del mundo que nos rodea. Es a través del diálogo filosófico que podemos llegar a una comprensión más profunda de nosotros mismos y del universo.",
   "author": "socrates_23",
-  "date_created": "10/03 -469",
-  "date_updated": "12/03 -469"
+  "date_created": "-0469-03-10",
+  "date_updated": "-0469-03-12"
 },{
   "_id": {
     "$oid": "65dd5d88b0f1961556babd24"
@@ -23,8 +23,8 @@
   "title": "La ética del conocimiento",
   "content": "La ética del conocimiento implica reconocer la responsabilidad que tenemos como seres humanos al buscar la verdad. Es importante no solo buscar conocimiento por el conocimiento mismo, sino también considerar cómo este conocimiento puede ser utilizado para el bienestar de la humanidad.",
   "author": "socrates_23",
-  "date_created": "15/03 -469",
-  "date_updated": "15/03 -468"
+  "date_created": "-0469-03-15",
+  "date_updated": "-0468-03-15"
 },{
   "_id": {
     "$oid": "65dd5d88b0f1961556babd25"
@@ -32,8 +32,8 @@
   "title": "El arte de la escucha",
   "content": "La escucha activa es una habilidad invaluable en cualquier conversación significativa. Al escuchar con empatía y comprensión, podemos aprender de las experiencias y perspectivas de los demás, lo que enriquece nuestra propia comprensión del mundo.",
   "author": "socrates_23",
-  "date_created": "20/03 -469",
-  "date_updated": "20/03 -469"
+  "date_created": "-0469-03-20",
+  "date_updated": "-0469-03-20"
 },{
   "_id": {
     "$oid": "65dd730bb0f1961556babd27"
@@ -41,8 +41,8 @@
   "title": "La influencia de la educación en la sociedad",
   "content": "La educación juega un papel crucial en la formación de la sociedad. Un sistema educativo sólido y equitativo es fundamental para garantizar igualdad de oportunidades y promover el progreso social. Invertir en la educación es invertir en el futuro de nuestra sociedad.",
   "author": "platon_11",
-  "date_created": "10/03 -427",
-  "date_updated": "10/03 -427"
+  "date_created": "-0427-03-10",
+  "date_updated": "-0427-03-10"
 },{
   "_id": {
     "$oid": "65dd730bb0f1961556babd28"
@@ -50,8 +50,8 @@
   "title": "La búsqueda de la verdad",
   "content": "La búsqueda de la verdad es un principio fundamental en la filosofía. A través del diálogo crítico y la reflexión, podemos acercarnos cada vez más a una comprensión más profunda de la realidad que nos rodea. La verdad es un ideal al que aspiramos constantemente.",
   "author": "platon_11",
-  "date_created": "15/03 -427",
-  "date_updated": "15/04 -427"
+  "date_created": "-0427-03-15",
+  "date_updated": "-0427-04-15"
 },{
   "_id": {
     "$oid": "65dd730bb0f1961556babd29"
@@ -59,8 +59,8 @@
   "title": "El mito de la caverna",
   "content": "El mito de la caverna de Platón es una alegoría poderosa que ilustra la importancia del conocimiento y la educación en la búsqueda de la verdad. Nos recuerda que muchas veces estamos atrapados en la oscuridad de la ignorancia, pero mediante el aprendizaje podemos alcanzar la iluminación y la comprensión.",
   "author": "platon_11",
-  "date_created": "20/03 -427",
-  "date_updated": "20/03 -427"
+  "date_created": "-0427-03-20",
+  "date_updated": "-0427-03-20"
 },{
   "_id": {
     "$oid": "65dd730bb0f1961556babd2a"
@@ -68,8 +68,8 @@
   "title": "El concepto de justicia en la República",
   "content": "En 'La República', Platón explora el concepto de justicia y su relación con la sociedad. Argumenta que la justicia no es solo un equilibrio de intereses individuales, sino un principio que debe guiar la estructura y el funcionamiento de la sociedad en su conjunto.",
   "author": "platon_11",
-  "date_created": "25/03 -427",
-  "date_updated": "26/03 -427"
+  "date_created": "-0427-03-25",
+  "date_updated": "-0427-03-26"
 },{
   "_id": {
     "$oid": "65dd755da8c14e75f9f24fd7"
@@ -77,8 +77,8 @@
   "title": "El poder de la palabra",
   "content": "Las palabras tienen un tremendo poder para inspirar y motivar a las personas. Como líderes, es nuestra responsabilidad utilizarlas sabiamente para promover la unidad y el progreso.",
   "author": "abraham_lincoln_05",
-  "date_created": "12/02 1809",
-  "date_updated": "13/02 1809"
+  "date_created": "1809-02-12",
+  "date_updated": "1809-02-13"
 },{
   "_id": {
     "$oid": "65dd755da8c14e75f9f24fd8"
@@ -86,8 +86,8 @@
   "title": "La igualdad y la libertad",
   "content": "La igualdad y la libertad son principios fundamentales en los que se basa nuestra nación. Debemos esforzarnos continuamente por garantizar que todos los ciudadanos sean tratados con justicia y respeto.",
   "author": "abraham_lincoln_05",
-  "date_created": "18/02 1809",
-  "date_updated": "19/02 1809"
+  "date_created": "1809-02-18",
+  "date_updated": "1809-02-19"
 },{
   "_id": {
     "$oid": "65dd755da8c14e75f9f24fd9"
@@ -95,8 +95,8 @@
   "title": "La preservación de la Unión",
   "content": "La preservación de la Unión es un objetivo primordial que debe guiar nuestras acciones. Debemos trabajar juntos para superar nuestras diferencias y construir un futuro mejor para todos los estadounidenses.",
   "author": "abraham_lincoln_05",
-  "date_created": "25/02 1809",
-  "date_updated": "25/03 1809"
+  "date_created": "1809-02-25",
+  "date_updated": "1809-03-25"
 },{
   "_id": {
     "$oid": "65dd755da8c14e75f9f24fda"
@@ -104,8 +104,8 @@
   "title": "El papel del gobierno en la sociedad",
   "content": "El gobierno tiene la responsabilidad de proteger los derechos y libertades de sus ciudadanos. Sin embargo, también debe actuar con prudencia y respetar los límites de su autoridad.",
   "author": "abraham_lincoln_05",
-  "date_created": "02/03 1809",
-  "date_updated": "02/03 1809"
+  "date_created": "1809-03-02",
+  "date_updated": "1809-03-02"
 },{
   "_id": {
     "$oid": "65dd755da8c14e75f9f24fdb"
@@ -113,8 +113,8 @@
   "title": "La superación de la adversidad",
   "content": "La adversidad es una parte inevitable de la vida, pero también nos brinda la oportunidad de crecer y fortalecernos. Con determinación y perseverancia, podemos superar cualquier desafío que se nos presente.",
   "author": "abraham_lincoln_05",
-  "date_created": "08/03 1809",
-  "date_updated": "08/04 1809"
+  "date_created": "1809-03-08",
+  "date_updated": "1809-04-08"
 },{
   "_id": {
     "$oid": "65dd755da8c14e75f9f24fdc"
@@ -122,8 +122,8 @@
   "title": "El legado de la libertad",
   "content": "El legado de la libertad es un regalo precioso que debemos proteger y preservar para las generaciones futuras. Debemos trabajar incansablemente para asegurar que todos los seres humanos puedan vivir en libertad y dignidad.",
   "author": "abraham_lincoln_05",
-  "date_created": "14/03 1809",
-  "date_updated": "14/03 1809"
+  "date_created": "1809-03-14",
+  "date_updated": "1809-03-14"
 },{
   "_id": {
     "$oid": "65dd77fca8c14e75f9f24fe1"
@@ -131,8 +131,8 @@
   "title": "El legado de Ada Lovelace",
   "content": "El legado de Ada Lovelace perdura hasta nuestros días. Su visión y creatividad continúan inspirando a las mujeres y a los innovadores en el campo de la tecnología.",
   "author": "ada_lovelace_05",
-  "date_created": "15/12 1815",
-  "date_updated": "15/12 1815"
+  "date_created": "1815-12-15",
+  "date_updated": "1815-12-15"
 },{
   "_id": {
     "$oid": "65dd77fca8c14e75f9f24fe2"
@@ -140,8 +140,8 @@
   "title": "La visión de Ada Lovelace",
   "content": "Ada Lovelace imaginó un mundo en el que las máquinas podrían ser programadas para realizar tareas complejas. Su visión revolucionaria allanó el camino para la era de la informática.",
   "author": "ada_lovelace_05",
-  "date_created": "20/12 1815",
-  "date_updated": "20/12 1815"
+  "date_created": "1815-12-20",
+  "date_updated": "1815-12-20"
 },{
   "_id": {
     "$oid": "65dd77fca8c14e75f9f24fe3"
@@ -149,8 +149,8 @@
   "title": "El futuro de la programación",
   "content": "El trabajo de Ada Lovelace sigue siendo relevante en la actualidad. Su enfoque en la programación creativa y lógica sienta las bases para el desarrollo continuo de la tecnología.",
   "author": "ada_lovelace_05",
-  "date_created": "25/12 1815",
-  "date_updated": "25/01 1816"
+  "date_created": "1815-12-25",
+  "date_updated": "1816-01-25"
 },{
   "_id": {
     "$oid": "65dd77fca8c14e75f9f24fe4"
@@ -158,8 +158,8 @@
   "title": "La pasión por la ciencia",
   "content": "Ada Lovelace tenía una pasión innata por la ciencia y la matemática. Su curiosidad y determinación la llevaron a realizar importantes contribuciones al campo de la informática.",
   "author": "ada_lovelace_05",
-  "date_created": "30/12 1815",
-  "date_updated": "31/01 1816"
+  "date_created": "1815-12-30",
+  "date_updated": "1816-01-31"
 },{
   "_id": {
     "$oid": "65dd77fca8c14e75f9f24fe5"
@@ -167,8 +167,8 @@
   "title": "La influencia de Ada Lovelace",
   "content": "El trabajo de Ada Lovelace ha tenido una influencia duradera en la informática y la tecnología. Su visión y contribuciones continúan inspirando a los innovadores en todo el mundo.",
   "author": "ada_lovelace_05",
-  "date_created": "04/01 1816",
-  "date_updated": "05/02 1816"
+  "date_created": "1816-01-04",
+  "date_updated": "1816-02-05"
 },{
   "_id": {
     "$oid": "65dd77fca8c14e75f9f24fe6"
@@ -176,8 +176,8 @@
   "title": "El impacto de Ada Lovelace",
   "content": "El impacto de Ada Lovelace en la informática moderna es innegable. Su enfoque innovador sentó las bases para el desarrollo de la programación y la computación.",
   "author": "ada_lovelace_05",
-  "date_created": "10/01 1816",
-  "date_updated": "11/02 1816"
+  "date_created": "1816-01-10",
+  "date_updated": "1816-02-11"
 },{
   "_id": {
     "$oid": "65dd783aa8c14e75f9f24fe8"
@@ -185,8 +185,8 @@
   "title": "La teoría de la relatividad",
   "content": "La teoría de la relatividad de Einstein revolucionó nuestra comprensión del espacio, el tiempo y la gravedad. Su trabajo transformó la física moderna y abrió nuevas fronteras en la exploración del universo.",
   "author": "albert_einstein_07",
-  "date_created": "14/03 1879",
-  "date_updated": "14/03 1879"
+  "date_created": "1879-03-14",
+  "date_updated": "1879-03-14"
 },{
   "_id": {
     "$oid": "65dd783aa8c14e75f9f24fe9"
@@ -194,8 +194,8 @@
   "title": "El poder de la imaginación",
   "content": "La imaginación es más importante que el conocimiento, dijo Einstein. La capacidad de imaginar nuevas posibilidades y concebir soluciones creativas es esencial para el avance de la ciencia y la sociedad.",
   "author": "albert_einstein_07",
-  "date_created": "19/03 1879",
-  "date_updated": "19/03 1879"
+  "date_created": "1879-03-19",
+  "date_updated": "1879-03-19"
 },{
   "_id": {
     "$oid": "65dd783aa8c14e75f9f24fea"
@@ -203,8 +203,8 @@
   "title": "La curiosidad como motor del aprendizaje",
   "content": "Einstein creía que la curiosidad era la fuerza motriz detrás del aprendizaje. Fomentaba la exploración y el cuestionamiento constante como herramientas fundamentales para la adquisición de conocimiento.",
   "author": "albert_einstein_07",
-  "date_created": "24/03 1879",
-  "date_updated": "24/04 1879"
+  "date_created": "1879-03-24",
+  "date_updated": "1879-04-24"
 },{
   "_id": {
     "$oid": "65dd783aa8c14e75f9f24feb"
@@ -212,8 +212,8 @@
   "title": "La importancia de la humildad",
   "content": "Einstein valoraba la humildad como una cualidad fundamental. Reconocía la vastedad del universo y la limitación del conocimiento humano, lo que lo mantenía siempre abierto a nuevas ideas y descubrimientos.",
   "author": "albert_einstein_07",
-  "date_created": "29/03 1879",
-  "date_updated": "30/04 1879"
+  "date_created": "1879-03-29",
+  "date_updated": "1879-04-30"
 },{
   "_id": {
     "$oid": "65dd783aa8c14e75f9f24fec"
@@ -221,8 +221,8 @@
   "title": "La belleza de la simplicidad",
   "content": "Einstein creía en la belleza de la simplicidad en la ciencia. Buscaba explicaciones elegantes y teorías fundamentales que capturaran la esencia del universo con la menor cantidad de suposiciones.",
   "author": "albert_einstein_07",
-  "date_created": "03/04 1879",
-  "date_updated": "03/05 1879"
+  "date_created": "1879-04-03",
+  "date_updated": "1879-05-03"
 },{
   "_id": {
     "$oid": "65dd783aa8c14e75f9f24fed"
@@ -230,8 +230,8 @@
   "title": "El legado de Einstein",
   "content": "El legado de Einstein perdura como un faro de la creatividad y la genialidad humanas. Su trabajo sigue inspirando a científicos, estudiantes y soñadores en todo el mundo.",
   "author": "albert_einstein_07",
-  "date_created": "08/04 1879",
-  "date_updated": "09/05 1879"
+  "date_created": "1879-04-08",
+  "date_updated": "1879-05-09"
 },{
   "_id": {
     "$oid": "65dd786ba8c14e75f9f24fef"
@@ -239,8 +239,8 @@
   "title": "Leadership in Crisis",
   "content": "Angela Merkel's leadership during times of crisis has been instrumental in guiding Germany and Europe through difficult challenges. Her pragmatic approach and steady leadership have earned her widespread respect.",
   "author": "angela_merkel_08",
-  "date_created": "17/07 1954",
-  "date_updated": "17/07 1954"
+  "date_created": "1954-07-17",
+  "date_updated": "1954-07-17"
 },{
   "_id": {
     "$oid": "65dd786ba8c14e75f9f24ff0"
@@ -248,8 +248,8 @@
   "title": "Champion of Unity",
   "content": "Angela Merkel has been a champion of unity, both within Germany and across Europe. She has worked tirelessly to foster cooperation and understanding among nations, promoting stability and peace.",
   "author": "angela_merkel_08",
-  "date_created": "22/07 1954",
-  "date_updated": "22/07 1954"
+  "date_created": "1954-07-22",
+  "date_updated": "1954-07-22"
 },{
   "_id": {
     "$oid": "65dd786ba8c14e75f9f24ff2"
@@ -257,8 +257,8 @@
   "title": "Defender of Democracy",
   "content": "Angela Merkel has been a staunch defender of democracy and human rights. She has stood up against authoritarianism and oppression, advocating for freedom and equality for all.",
   "author": "angela_merkel_08",
-  "date_created": "01/08 1954",
-  "date_updated": "01/08 1954"
+  "date_created": "1954-08-01",
+  "date_updated": "1954-08-01"
 },{
   "_id": {
     "$oid": "65dd786ba8c14e75f9f24ff3"
@@ -266,8 +266,8 @@
   "title": "Legacy of Leadership",
   "content": "Angela Merkel's legacy of leadership will be remembered for generations to come. Her vision, integrity, and resilience have left an indelible mark on Germany, Europe, and the world.",
   "author": "angela_merkel_08",
-  "date_created": "06/08 1954",
-  "date_updated": "06/09 1954"
+  "date_created": "1954-08-06",
+  "date_updated": "1954-09-06"
 },{
   "_id": {
     "$oid": "65dd786ba8c14e75f9f24ff4"
@@ -275,8 +275,8 @@
   "title": "Building Bridges",
   "content": "Angela Merkel's diplomacy and statesmanship have been instrumental in building bridges between nations and fostering international cooperation. Her commitment to dialogue and compromise has helped to resolve conflicts and promote peace.",
   "author": "angela_merkel_08",
-  "date_created": "11/08 1954",
-  "date_updated": "12/09 1954"
+  "date_created": "1954-08-11",
+  "date_updated": "1954-09-12"
 },{
   "_id": {
     "$oid": "65dd78b5a8c14e75f9f24ff6"
@@ -284,8 +284,8 @@
   "title": "El legado de Anthony Hopkins",
   "content": "El legado de Anthony Hopkins en la industria del cine es insuperable. Su talento excepcional y su versatilidad como actor lo han convertido en una leyenda del cine.",
   "author": "anthony_hopkins_05",
-  "date_created": "31/12 1937",
-  "date_updated": "31/12 1937"
+  "date_created": "1937-12-31",
+  "date_updated": "1937-12-31"
 },{
   "_id": {
     "$oid": "65dd78b5a8c14e75f9f24ff7"
@@ -293,8 +293,8 @@
   "title": "La maestría de Anthony Hopkins",
   "content": "Anthony Hopkins es conocido por su maestría en la actuación. Sus interpretaciones memorables han cautivado al público y han ganado elogios de la crítica en todo el mundo.",
   "author": "anthony_hopkins_05",
-  "date_created": "05/01 1938",
-  "date_updated": "05/01 1938"
+  "date_created": "1938-01-05",
+  "date_updated": "1938-01-05"
 },{
   "_id": {
     "$oid": "65dd78b5a8c14e75f9f24ff8"
@@ -302,8 +302,8 @@
   "title": "El arte de la transformación",
   "content": "Anthony Hopkins es un maestro en el arte de la transformación. Su capacidad para sumergirse en roles diversos y complejos demuestra su destreza y dedicación como actor.",
   "author": "anthony_hopkins_05",
-  "date_created": "10/01 1938",
-  "date_updated": "10/02 1938"
+  "date_created": "1938-01-10",
+  "date_updated": "1938-02-10"
 },{
   "_id": {
     "$oid": "65dd78b5a8c14e75f9f24ff9"
@@ -311,8 +311,8 @@
   "title": "El impacto de Hannibal Lecter",
   "content": "El papel de Hannibal Lecter en 'The Silence of the Lambs' catapultó a Anthony Hopkins a la fama mundial. Su interpretación icónica dejó una marca indeleble en la cultura popular.",
   "author": "anthony_hopkins_05",
-  "date_created": "15/01 1938",
-  "date_updated": "15/02 1938"
+  "date_created": "1938-01-15",
+  "date_updated": "1938-02-15"
 },{
   "_id": {
     "$oid": "65dd78b5a8c14e75f9f24ffa"
@@ -320,8 +320,8 @@
   "title": "Reconocimiento internacional",
   "content": "Anthony Hopkins ha sido reconocido con numerosos premios y honores a lo largo de su carrera. Su talento y dedicación lo han hecho merecedor del respeto y la admiración de la industria del entretenimiento.",
   "author": "anthony_hopkins_05",
-  "date_created": "20/01 1938",
-  "date_updated": "21/02 1938"
+  "date_created": "1938-01-20",
+  "date_updated": "1938-02-21"
 },{
   "_id": {
     "$oid": "65dd78b5a8c14e75f9f24ffb"
@@ -329,8 +329,8 @@
   "title": "El legado perdurable de un titán",
   "content": "El legado de Anthony Hopkins perdurará como un testimonio de su brillantez y dedicación al arte de la actuación. Su impacto en la industria del cine seguirá siendo sentido por generaciones venideras.",
   "author": "anthony_hopkins_05",
-  "date_created": "25/01 1938",
-  "date_updated": "26/02 1938"
+  "date_created": "1938-01-25",
+  "date_updated": "1938-02-26"
 },{
   "_id": {
     "$oid": "65dd7900a8c14e75f9f24ffd"
@@ -338,8 +338,8 @@
   "title": "La elegancia de Audrey Hepburn",
   "content": "Audrey Hepburn fue conocida por su elegancia y gracia en la pantalla. Su estilo icónico y su talento como actriz la convirtieron en un ícono de la moda y el cine.",
   "author": "audrey_hepburn_05",
-  "date_created": "04/05 1929",
-  "date_updated": "04/05 1929"
+  "date_created": "1929-05-04",
+  "date_updated": "1929-05-04"
 },{
   "_id": {
     "$oid": "65dd7900a8c14e75f9f24ffe"
@@ -347,8 +347,8 @@
   "title": "La humanitarismo de Audrey Hepburn",
   "content": "Además de su carrera en el cine, Audrey Hepburn fue una destacada humanitaria. Trabajó incansablemente como Embajadora de UNICEF, dedicando su vida a ayudar a los niños necesitados en todo el mundo.",
   "author": "audrey_hepburn_05",
-  "date_created": "09/05 1929",
-  "date_updated": "09/05 1929"
+  "date_created": "1929-05-09",
+  "date_updated": "1929-05-09"
 },{
   "_id": {
     "$oid": "65dd7900a8c14e75f9f24fff"
@@ -356,8 +356,8 @@
   "title": "El legado de belleza y bondad",
   "content": "El legado de Audrey Hepburn trasciende su belleza exterior. Su bondad, compasión y dedicación a causas humanitarias la han convertido en un ejemplo a seguir para muchas generaciones.",
   "author": "audrey_hepburn_05",
-  "date_created": "14/05 1929",
-  "date_updated": "14/06 1929"
+  "date_created": "1929-05-14",
+  "date_updated": "1929-06-14"
 },{
   "_id": {
     "$oid": "65dd7900a8c14e75f9f25000"
@@ -365,8 +365,8 @@
   "title": "La elegancia atemporal",
   "content": "La elegancia de Audrey Hepburn sigue siendo reverenciada en la actualidad. Su estilo clásico y su gracia innata continúan inspirando a diseñadores, artistas y admiradores de todo el mundo.",
   "author": "audrey_hepburn_05",
-  "date_created": "19/05 1929",
-  "date_updated": "20/06 1929"
+  "date_created": "1929-05-19",
+  "date_updated": "1929-06-20"
 },{
   "_id": {
     "$oid": "65dd7900a8c14e75f9f25001"
@@ -374,8 +374,8 @@
   "title": "Recordando a una leyenda",
   "content": "Audrey Hepburn será recordada como una leyenda del cine y una heroína humanitaria. Su impacto perdura en el corazón de aquellos que la admiraban por su talento y su bondad.",
   "author": "audrey_hepburn_05",
-  "date_created": "24/05 1929",
-  "date_updated": "25/06 1929"
+  "date_created": "1929-05-24",
+  "date_updated": "1929-06-25"
 },{
   "_id": {
     "$oid": "65dd7900a8c14e75f9f25002"
@@ -383,8 +383,8 @@
   "title": "El legado perdurable de Audrey Hepburn",
   "content": "El legado de Audrey Hepburn perdura como un recordatorio de la belleza interior y exterior. Su vida dedicada al servicio de los demás continúa inspirando actos de bondad y generosidad en todo el mundo.",
   "author": "audrey_hepburn_05",
-  "date_created": "29/05 1929",
-  "date_updated": "30/06 1929"
+  "date_created": "1929-05-29",
+  "date_updated": "1929-06-30"
 },{
   "_id": {
     "$oid": "65dd7939a8c14e75f9f25004"
@@ -392,8 +392,8 @@
   "title": "El talento versátil de Barack Obama",
   "content": "Barack Obama es conocido por su talento versátil y su habilidad para abordar una amplia gama de temas. Desde política hasta literatura, su influencia se extiende a múltiples áreas.",
   "author": "barack_obama_04",
-  "date_created": "04/08 1961",
-  "date_updated": "04/08 1961"
+  "date_created": "1961-08-04",
+  "date_updated": "1961-08-04"
 },{
   "_id": {
     "$oid": "65dd7939a8c14e75f9f25005"
@@ -401,8 +401,8 @@
   "title": "El liderazgo de Barack Obama",
   "content": "Barack Obama demostró un liderazgo firme y compasivo durante su presidencia. Su capacidad para inspirar a las personas y promover el cambio positivo lo convirtió en un líder admirado en todo el mundo.",
   "author": "barack_obama_04",
-  "date_created": "09/08 1961",
-  "date_updated": "09/08 1961"
+  "date_created": "1961-08-09",
+  "date_updated": "1961-08-09"
 },{
   "_id": {
     "$oid": "65dd7939a8c14e75f9f25006"
@@ -410,8 +410,8 @@
   "title": "Uniendo a las personas",
   "content": "Barack Obama es conocido por su habilidad para unir a las personas de diferentes orígenes y perspectivas. Su mensaje de esperanza y unidad resonó en millones de personas en todo el mundo.",
   "author": "barack_obama_04",
-  "date_created": "14/08 1961",
-  "date_updated": "14/08 1961"
+  "date_created": "1961-08-14",
+  "date_updated": "1961-08-14"
 },{
   "_id": {
     "$oid": "65dd7939a8c14e75f9f25007"
@@ -419,8 +419,8 @@
   "title": "El poder del discurso",
   "content": "Barack Obama es un orador consumado cuyos discursos han inspirado a millones de personas. Su habilidad para comunicar visiones poderosas y mensajes de esperanza ha dejado una marca indeleble en la historia.",
   "author": "barack_obama_04",
-  "date_created": "19/08 1961",
-  "date_updated": "19/09 1961"
+  "date_created": "1961-08-19",
+  "date_updated": "1961-09-19"
 },{
   "_id": {
     "$oid": "65dd7939a8c14e75f9f25008"
@@ -428,8 +428,8 @@
   "title": "Luchando por la igualdad",
   "content": "Barack Obama ha sido un defensor incansable de la igualdad y la justicia social. Durante su presidencia, trabajó para abordar problemas como la discriminación racial y la desigualdad económica.",
   "author": "barack_obama_04",
-  "date_created": "24/08 1961",
-  "date_updated": "25/09 1961"
+  "date_created": "1961-08-24",
+  "date_updated": "1961-09-25"
 },{
   "_id": {
     "$oid": "65dd7939a8c14e75f9f25009"
@@ -437,8 +437,8 @@
   "title": "Legado de esperanza y cambio",
   "content": "El legado de Barack Obama es un testimonio de esperanza y cambio. Su presidencia marcó un punto de inflexión en la historia de Estados Unidos y sigue inspirando a las generaciones futuras a trabajar por un mundo mejor.",
   "author": "barack_obama_04",
-  "date_created": "29/08 1961",
-  "date_updated": "30/09 1961"
+  "date_created": "1961-08-29",
+  "date_updated": "1961-09-30"
 },{
   "_id": {
     "$oid": "65dd7952a8c14e75f9f2500b"
@@ -446,8 +446,8 @@
   "title": "El legado de Benazir Bhutto",
   "content": "Benazir Bhutto dejó un legado imborrable en la política de Pakistán. Como la primera mujer líder de un país musulmán moderno, abrió el camino para la igualdad de género y la democracia en la región.",
   "author": "benazir_bhutto_01",
-  "date_created": "21/06 1953",
-  "date_updated": "21/06 1953"
+  "date_created": "1953-06-21",
+  "date_updated": "1953-06-21"
 },{
   "_id": {
     "$oid": "65dd7952a8c14e75f9f2500c"
@@ -455,8 +455,8 @@
   "title": "Luchando por la democracia",
   "content": "Benazir Bhutto fue una luchadora incansable por la democracia en Pakistán. A pesar de los desafíos y las amenazas, se mantuvo firme en su compromiso con el gobierno representativo y los derechos humanos.",
   "author": "benazir_bhutto_01",
-  "date_created": "26/06 1953",
-  "date_updated": "26/06 1953"
+  "date_created": "1953-06-26",
+  "date_updated": "1953-06-26"
 },{
   "_id": {
     "$oid": "65dd7952a8c14e75f9f2500d"
@@ -464,8 +464,8 @@
   "title": "Uniendo a una nación dividida",
   "content": "Benazir Bhutto buscó unir a una nación dividida por conflictos étnicos y políticos. Su visión de inclusión y reconciliación resonó entre personas de todas las comunidades en Pakistán.",
   "author": "benazir_bhutto_01",
-  "date_created": "01/07 1953",
-  "date_updated": "01/07 1953"
+  "date_created": "1953-07-01",
+  "date_updated": "1953-07-01"
 },{
   "_id": {
     "$oid": "65dd7952a8c14e75f9f2500e"
@@ -473,8 +473,8 @@
   "title": "Liderazgo en tiempos turbulentos",
   "content": "Benazir Bhutto demostró liderazgo en tiempos de crisis y conflicto. Su valentía y determinación la convirtieron en un símbolo de esperanza y resistencia para millones de pakistaníes.",
   "author": "benazir_bhutto_01",
-  "date_created": "06/07 1953",
-  "date_updated": "06/08 1953"
+  "date_created": "1953-07-06",
+  "date_updated": "1953-08-06"
 },{
   "_id": {
     "$oid": "65dd7952a8c14e75f9f2500f"
@@ -482,8 +482,8 @@
   "title": "Heredera de un legado",
   "content": "Benazir Bhutto fue la heredera de un legado político y familiar. Su compromiso con los valores democráticos y su coraje en la lucha por la libertad la convirtieron en una figura emblemática en la historia de Pakistán.",
   "author": "benazir_bhutto_01",
-  "date_created": "11/07 1953",
-  "date_updated": "11/08 1953"
+  "date_created": "1953-07-11",
+  "date_updated": "1953-08-11"
 },{
   "_id": {
     "$oid": "65dd7952a8c14e75f9f25010"
@@ -491,8 +491,8 @@
   "title": "Inspirando a las generaciones futuras",
   "content": "El legado de Benazir Bhutto sigue inspirando a las generaciones futuras a luchar por la justicia y la igualdad. Su sacrificio y dedicación a la causa democrática nunca serán olvidados.",
   "author": "benazir_bhutto_01",
-  "date_created": "16/07 1953",
-  "date_updated": "17/08 1953"
+  "date_created": "1953-07-16",
+  "date_updated": "1953-08-17"
 },{
   "_id": {
     "$oid": "65dd796ca8c14e75f9f25012"
@@ -500,8 +500,8 @@
   "title": "El impacto de Beyoncé en la industria musical",
   "content": "Beyoncé ha dejado un impacto indeleble en la industria musical. Su talento, innovación y empoderamiento han redefinido los estándares de la música pop y el entretenimiento en general.",
   "author": "beyonce_02",
-  "date_created": "04/09 1981",
-  "date_updated": "04/09 1981"
+  "date_created": "1981-09-04",
+  "date_updated": "1981-09-04"
 },{
   "_id": {
     "$oid": "65dd796ca8c14e75f9f25013"
@@ -509,8 +509,8 @@
   "title": "Empoderamiento femenino",
   "content": "Beyoncé ha sido una defensora del empoderamiento femenino a lo largo de su carrera. Sus canciones y actuaciones inspiran a las mujeres de todo el mundo a ser fuertes, seguras y dueñas de su destino.",
   "author": "beyonce_02",
-  "date_created": "09/09 1981",
-  "date_updated": "09/09 1981"
+  "date_created": "1981-09-09",
+  "date_updated": "1981-09-09"
 },{
   "_id": {
     "$oid": "65dd796ca8c14e75f9f25014"
@@ -518,8 +518,8 @@
   "title": "Icono de la moda",
   "content": "Beyoncé es reconocida como un ícono de la moda y el estilo. Su audacia y originalidad en el vestir han establecido tendencias y han dejado una marca indeleble en la industria de la moda.",
   "author": "beyonce_02",
-  "date_created": "14/09 1981",
-  "date_updated": "14/09 1981"
+  "date_created": "1981-09-14",
+  "date_updated": "1981-09-14"
 },{
   "_id": {
     "$oid": "65dd796ca8c14e75f9f25015"
@@ -527,8 +527,8 @@
   "title": "Activismo y filantropía",
   "content": "Beyoncé ha utilizado su plataforma para el activismo y la filantropía. Ha apoyado causas como la justicia racial, la igualdad de género y la educación, demostrando su compromiso con el cambio social positivo.",
   "author": "beyonce_02",
-  "date_created": "19/09 1981",
-  "date_updated": "19/10 1981"
+  "date_created": "1981-09-19",
+  "date_updated": "1981-10-19"
 },{
   "_id": {
     "$oid": "65dd796ca8c14e75f9f25016"
@@ -536,8 +536,8 @@
   "title": "Legado perdurable",
   "content": "El legado de Beyoncé como artista y activista perdurará por generaciones. Su impacto en la música, la moda y la sociedad continuará inspirando y empoderando a las personas en todo el mundo.",
   "author": "beyonce_02",
-  "date_created": "24/09 1981",
-  "date_updated": "25/10 1981"
+  "date_created": "1981-09-24",
+  "date_updated": "1981-10-25"
 },{
   "_id": {
     "$oid": "65dd796ca8c14e75f9f25017"
@@ -545,8 +545,8 @@
   "title": "Inspirando el cambio",
   "content": "Beyoncé continúa inspirando el cambio a través de su música, su arte y su activismo. Su voz poderosa y su presencia impactante siguen siendo una fuerza para el cambio positivo en el mundo.",
   "author": "beyonce_02",
-  "date_created": "29/09 1981",
-  "date_updated": "30/10 1981"
+  "date_created": "1981-09-29",
+  "date_updated": "1981-10-30"
 },{
   "_id": {
     "$oid": "65dd7994a8c14e75f9f25019"
@@ -554,8 +554,8 @@
   "title": "El legado de Bill Gates en la tecnología",
   "content": "Bill Gates ha dejado un legado duradero en la industria tecnológica. Su visión y liderazgo en la fundación de Microsoft sentaron las bases para la revolución informática que transformó el mundo.",
   "author": "bill_gates_05",
-  "date_created": "28/10 1955",
-  "date_updated": "28/10 1955"
+  "date_created": "1955-10-28",
+  "date_updated": "1955-10-28"
 },{
   "_id": {
     "$oid": "65dd7994a8c14e75f9f2501a"
@@ -563,8 +563,8 @@
   "title": "Filantropía y compromiso social",
   "content": "Bill Gates es conocido por su filantropía y su compromiso con causas humanitarias. A través de la Fundación Bill y Melinda Gates, ha trabajado para abordar problemas globales como la pobreza, la salud y la educación.",
   "author": "bill_gates_05",
-  "date_created": "02/11 1955",
-  "date_updated": "02/11 1955"
+  "date_created": "1955-11-02",
+  "date_updated": "1955-11-02"
 },{
   "_id": {
     "$oid": "65dd7994a8c14e75f9f2501b"
@@ -572,8 +572,8 @@
   "title": "Visión para el futuro",
   "content": "Bill Gates continúa mostrando una visión audaz para el futuro. Su enfoque en la innovación y la tecnología sigue siendo relevante en un mundo en constante cambio y evolución.",
   "author": "bill_gates_05",
-  "date_created": "07/11 1955",
-  "date_updated": "07/11 1955"
+  "date_created": "1955-11-07",
+  "date_updated": "1955-11-07"
 },{
   "_id": {
     "$oid": "65dd7994a8c14e75f9f2501c"
@@ -581,8 +581,8 @@
   "title": "Desafíos globales",
   "content": "Bill Gates está comprometido con la búsqueda de soluciones para los desafíos globales más apremiantes. A través de iniciativas como Breakthrough Energy, trabaja para abordar la crisis climática y promover la energía limpia.",
   "author": "bill_gates_05",
-  "date_created": "12/11 1955",
-  "date_updated": "12/12 1955"
+  "date_created": "1955-11-12",
+  "date_updated": "1955-12-12"
 },{
   "_id": {
     "$oid": "65dd7994a8c14e75f9f2501d"
@@ -590,8 +590,8 @@
   "title": "Legado perdurable",
   "content": "El legado de Bill Gates como visionario y filántropo perdurará por generaciones. Su impacto en la tecnología, la salud global y el desarrollo continuará inspirando y beneficiando a millones de personas en todo el mundo.",
   "author": "bill_gates_05",
-  "date_created": "17/11 1955",
-  "date_updated": "17/12 1955"
+  "date_created": "1955-11-17",
+  "date_updated": "1955-12-17"
 },{
   "_id": {
     "$oid": "65dd7994a8c14e75f9f2501e"
@@ -599,8 +599,8 @@
   "title": "Innovación y liderazgo",
   "content": "Bill Gates sigue siendo un símbolo de innovación y liderazgo en el mundo empresarial y filantrópico. Su determinación para abordar los desafíos más difíciles del mundo lo convierte en un líder visionario para el siglo XXI.",
   "author": "bill_gates_05",
-  "date_created": "22/11 1955",
-  "date_updated": "23/12 1955"
+  "date_created": "1955-11-22",
+  "date_updated": "1955-12-23"
 },{
   "_id": {
     "$oid": "65dd79a0a8c14e75f9f25020"
@@ -608,8 +608,8 @@
   "title": "Desafíos y éxitos en mi carrera cinematográfica",
   "content": "Como actor, he enfrentado numerosos desafíos en mi carrera cinematográfica. Sin embargo, cada obstáculo superado ha sido una oportunidad para crecer y aprender, y estoy agradecido por los éxitos que he logrado.",
   "author": "carl_sagan_09",
-  "date_created": "09/11 1934",
-  "date_updated": "09/11 1934"
+  "date_created": "1934-11-09",
+  "date_updated": "1934-11-09"
 },{
   "_id": {
     "$oid": "65dd79a0a8c14e75f9f25021"
@@ -617,8 +617,8 @@
   "title": "Reflexiones sobre el poder del cine",
   "content": "El cine tiene un poder único para influir en las percepciones y emociones de las personas. Como actor, siempre me ha fascinado la capacidad del cine para conectarse con la audiencia y transmitir mensajes poderosos.",
   "author": "carl_sagan_09",
-  "date_created": "14/11 1934",
-  "date_updated": "14/11 1934"
+  "date_created": "1934-11-14",
+  "date_updated": "1934-11-14"
 },{
   "_id": {
     "$oid": "65dd79a0a8c14e75f9f25022"
@@ -626,8 +626,8 @@
   "title": "El impacto de mis personajes en la sociedad",
   "content": "A lo largo de mi carrera, he interpretado una variedad de personajes que han dejado un impacto duradero en la sociedad. Desde roles inspiradores hasta antihéroes complejos, cada personaje ha contribuido a mi crecimiento como actor y persona.",
   "author": "carl_sagan_09",
-  "date_created": "19/11 1934",
-  "date_updated": "19/12 1934"
+  "date_created": "1934-11-19",
+  "date_updated": "1934-12-19"
 },{
   "_id": {
     "$oid": "65dd79a0a8c14e75f9f25023"
@@ -635,8 +635,8 @@
   "title": "Explorando nuevos desafíos",
   "content": "Siempre estoy buscando nuevos desafíos y oportunidades en mi carrera. La exploración de nuevos roles y géneros cinematográficos es una parte emocionante de mi viaje como actor.",
   "author": "carl_sagan_09",
-  "date_created": "24/11 1934",
-  "date_updated": "24/12 1934"
+  "date_created": "1934-11-24",
+  "date_updated": "1934-12-24"
 },{
   "_id": {
     "$oid": "65dd79a0a8c14e75f9f25024"
@@ -644,8 +644,8 @@
   "title": "Agradecido por el apoyo de los fans",
   "content": "Quiero expresar mi gratitud a todos mis fans por su apoyo continuo a lo largo de los años. Su cariño y apoyo significan mucho para mí y me inspiran a seguir persiguiendo mis sueños en la industria del cine.",
   "author": "carl_sagan_09",
-  "date_created": "29/11 1934",
-  "date_updated": "30/12 1934"
+  "date_created": "1934-11-29",
+  "date_updated": "1934-12-30"
 },{
   "_id": {
     "$oid": "65dd79fca8c14e75f9f25026"
@@ -653,8 +653,8 @@
   "title": "La sabiduría de Confucio",
   "content": "Confucio fue un filósofo y pensador chino cuya sabiduría ha perdurado a lo largo de los siglos. Sus enseñanzas sobre moralidad, ética y gobierno continúan siendo relevantes en la sociedad moderna.",
   "author": "confucio_08",
-  "date_created": "28/09 -551",
-  "date_updated": "28/09 -551"
+  "date_created": "-0551-09-28",
+  "date_updated": "-0551-09-28"
 },{
   "_id": {
     "$oid": "65dd79fca8c14e75f9f25027"
@@ -662,8 +662,8 @@
   "title": "Principios de la moralidad",
   "content": "Confucio enfatizó la importancia de la moralidad en la vida humana. Creía en la práctica de virtudes como la honestidad, la benevolencia y el respeto hacia los demás como fundamentales para una sociedad armoniosa.",
   "author": "confucio_08",
-  "date_created": "03/10 -551",
-  "date_updated": "03/10 -551"
+  "date_created": "-0551-10-03",
+  "date_updated": "-0551-10-03"
 },{
   "_id": {
     "$oid": "65dd79fca8c14e75f9f25028"
@@ -671,8 +671,8 @@
   "title": "El camino hacia la excelencia",
   "content": "Según Confucio, el camino hacia la excelencia radica en la educación y el automejoramiento constante. Instó a sus seguidores a cultivar la sabiduría y a buscar la virtud en todas sus acciones.",
   "author": "confucio_08",
-  "date_created": "08/10 -551",
-  "date_updated": "08/11 -551"
+  "date_created": "-0551-10-08",
+  "date_updated": "-0551-11-08"
 },{
   "_id": {
     "$oid": "65dd79fca8c14e75f9f25029"
@@ -680,8 +680,8 @@
   "title": "Ética en el gobierno",
   "content": "Confucio abogó por un gobierno ético y justo, en el que los gobernantes actúen con benevolencia y sirvan al pueblo con integridad. Creía en la importancia de un liderazgo moral para el bienestar de la sociedad.",
   "author": "confucio_08",
-  "date_created": "13/10 -551",
-  "date_updated": "13/11 -551"
+  "date_created": "-0551-10-13",
+  "date_updated": "-0551-11-13"
 },{
   "_id": {
     "$oid": "65dd79fca8c14e75f9f2502a"
@@ -689,8 +689,8 @@
   "title": "Legado perdurable",
   "content": "El legado de Confucio como filósofo y maestro sigue siendo una fuente de inspiración para millones de personas en todo el mundo. Sus enseñanzas sobre la moralidad, la ética y el humanismo continúan resonando en la sociedad moderna.",
   "author": "confucio_08",
-  "date_created": "18/10 -551",
-  "date_updated": "18/11 -551"
+  "date_created": "-0551-10-18",
+  "date_updated": "-0551-11-18"
 },{
   "_id": {
     "$oid": "65dd79fca8c14e75f9f2502b"
@@ -698,8 +698,8 @@
   "title": "Honrando la sabiduría ancestral",
   "content": "La sabiduría de Confucio sigue siendo relevante en el mundo contemporáneo. Su enfoque en la ética y la armonía social sigue siendo una guía valiosa para aquellos que buscan una vida significativa y virtuosa.",
   "author": "confucio_08",
-  "date_created": "23/10 -551",
-  "date_updated": "24/11 -551"
+  "date_created": "-0551-10-23",
+  "date_updated": "-0551-11-24"
 },{
   "_id": {
     "$oid": "65dd7a33a8c14e75f9f2502d"
@@ -707,8 +707,8 @@
   "title": "Reflexiones sobre mi carrera como científico",
   "content": "A lo largo de mi carrera, he tenido el privilegio de realizar investigaciones y descubrimientos que han contribuido al avance de la ciencia. Cada experimento y cada estudio han sido una oportunidad para aprender y crecer como científico.",
   "author": "darwin_12",
-  "date_created": "12/02 1809",
-  "date_updated": "12/02 1809"
+  "date_created": "1809-02-12",
+  "date_updated": "1809-02-12"
 },{
   "_id": {
     "$oid": "65dd7a33a8c14e75f9f2502e"
@@ -716,8 +716,8 @@
   "title": "Teoría de la evolución",
   "content": "Mi teoría de la evolución ha sido un punto de inflexión en la historia de la biología. La idea de la selección natural ha revolucionado nuestra comprensión del mundo natural y ha sentado las bases para la biología moderna.",
   "author": "darwin_12",
-  "date_created": "17/02 1809",
-  "date_updated": "17/02 1809"
+  "date_created": "1809-02-17",
+  "date_updated": "1809-02-17"
 },{
   "_id": {
     "$oid": "65dd7a33a8c14e75f9f2502f"
@@ -725,8 +725,8 @@
   "title": "El viaje del Beagle",
   "content": "Mi viaje a bordo del HMS Beagle fue una experiencia transformadora que influyó profundamente en mi pensamiento científico. Las observaciones que hice durante ese viaje fueron cruciales para el desarrollo de mi teoría de la evolución.",
   "author": "darwin_12",
-  "date_created": "22/02 1809",
-  "date_updated": "22/02 1809"
+  "date_created": "1809-02-22",
+  "date_updated": "1809-02-22"
 },{
   "_id": {
     "$oid": "65dd7a33a8c14e75f9f25030"
@@ -734,8 +734,8 @@
   "title": "Controversias y críticas",
   "content": "Mi trabajo ha enfrentado numerosas controversias y críticas a lo largo de los años. Sin embargo, cada desafío ha sido una oportunidad para defender y fortalecer mis ideas sobre la evolución y la biología.",
   "author": "darwin_12",
-  "date_created": "27/02 1809",
-  "date_updated": "27/02 1809"
+  "date_created": "1809-02-27",
+  "date_updated": "1809-02-27"
 },{
   "_id": {
     "$oid": "65dd7a33a8c14e75f9f25031"
@@ -743,8 +743,8 @@
   "title": "Legado perdurable",
   "content": "Espero que mi legado como científico y pensador continúe inspirando a futuras generaciones de científicos. Mi trabajo en la teoría de la evolución sigue siendo relevante en la actualidad y seguirá siéndolo en el futuro.",
   "author": "darwin_12",
-  "date_created": "04/03 1809",
-  "date_updated": "04/03 1809"
+  "date_created": "1809-03-04",
+  "date_updated": "1809-03-04"
 },{
   "_id": {
     "$oid": "65dd7a33a8c14e75f9f25032"
@@ -752,8 +752,8 @@
   "title": "Un viaje de descubrimiento",
   "content": "Mi vida ha sido un viaje de descubrimiento y exploración en el mundo natural. Cada descubrimiento y cada investigación han contribuido a mi comprensión del mundo y han enriquecido mi amor por la ciencia.",
   "author": "darwin_12",
-  "date_created": "09/03 1809",
-  "date_updated": "09/03 1809"
+  "date_created": "1809-03-09",
+  "date_updated": "1809-03-09"
 },{
   "_id": {
     "$oid": "65dd7a7ea8c14e75f9f25034"
@@ -761,8 +761,8 @@
   "title": "Reflexiones sobre mi carrera como actriz",
   "content": "A lo largo de mi carrera como actriz, he tenido el privilegio de interpretar una amplia gama de personajes. Cada papel ha sido una oportunidad para explorar nuevas emociones y desafiar mis límites como artista.",
   "author": "meryl_streep_09",
-  "date_created": "22/06 1949",
-  "date_updated": "22/06 1949"
+  "date_created": "1949-06-22",
+  "date_updated": "1949-06-22"
 },{
   "_id": {
     "$oid": "65dd7a7ea8c14e75f9f25035"
@@ -770,8 +770,8 @@
   "title": "El arte de la actuación",
   "content": "La actuación es un arte que me apasiona profundamente. La capacidad de transformarse en diferentes personajes y contar historias que resuenen con el público es algo que me llena de alegría y satisfacción.",
   "author": "meryl_streep_09",
-  "date_created": "27/06 1949",
-  "date_updated": "27/06 1949"
+  "date_created": "1949-06-27",
+  "date_updated": "1949-06-27"
 },{
   "_id": {
     "$oid": "65dd7a7ea8c14e75f9f25036"
@@ -779,8 +779,8 @@
   "title": "Explorando la humanidad a través del cine",
   "content": "El cine tiene el poder de explorar la complejidad de la condición humana. Como actriz, me siento afortunada de poder contribuir a esta exploración y de llevar historias significativas a la pantalla.",
   "author": "meryl_streep_09",
-  "date_created": "02/07 1949",
-  "date_updated": "02/07 1949"
+  "date_created": "1949-07-02",
+  "date_updated": "1949-07-02"
 },{
   "_id": {
     "$oid": "65dd7a7ea8c14e75f9f25037"
@@ -788,8 +788,8 @@
   "title": "Desafíos y recompensas",
   "content": "La actuación presenta desafíos únicos, pero también recompensas incomparables. Superar los desafíos técnicos y emocionales de un papel y conectar con el público es una experiencia gratificante y enriquecedora.",
   "author": "meryl_streep_09",
-  "date_created": "07/07 1949",
-  "date_updated": "07/07 1949"
+  "date_created": "1949-07-07",
+  "date_updated": "1949-07-07"
 },{
   "_id": {
     "$oid": "65dd7a7ea8c14e75f9f25038"
@@ -797,8 +797,8 @@
   "title": "Un viaje de aprendizaje continuo",
   "content": "Mi carrera como actriz ha sido un viaje de aprendizaje continuo. Cada proyecto me enseña algo nuevo sobre mí misma, sobre el arte de la actuación y sobre el mundo que nos rodea.",
   "author": "meryl_streep_09",
-  "date_created": "12/07 1949",
-  "date_updated": "12/08 1949"
+  "date_created": "1949-07-12",
+  "date_updated": "1949-08-12"
 },{
   "_id": {
     "$oid": "65dd7a7ea8c14e75f9f25039"
@@ -806,8 +806,8 @@
   "title": "Gratitud hacia mis colegas y admiradores",
   "content": "Quiero expresar mi profunda gratitud hacia mis colegas de la industria del cine y hacia mis admiradores por su apoyo continuo. Su ánimo y su cariño son un impulso constante en mi carrera como actriz.",
   "author": "meryl_streep_09",
-  "date_created": "17/07 1949",
-  "date_updated": "17/08 1949"
+  "date_created": "1949-07-17",
+  "date_updated": "1949-08-17"
 },{
   "_id": {
     "$oid": "65dd7aa7a8c14e75f9f2503b"
@@ -815,8 +815,8 @@
   "title": "Reflexiones sobre mi carrera como actor",
   "content": "A lo largo de mi carrera como actor, he tenido el privilegio de interpretar una amplia variedad de personajes. Cada papel ha sido una oportunidad para explorar nuevas emociones y desafiar mis límites como artista.",
   "author": "denzel_washington_04",
-  "date_created": "28/12 1954",
-  "date_updated": "28/12 1954"
+  "date_created": "1954-12-28",
+  "date_updated": "1954-12-28"
 },{
   "_id": {
     "$oid": "65dd7aa7a8c14e75f9f2503c"
@@ -824,8 +824,8 @@
   "title": "El arte de la actuación",
   "content": "La actuación es un arte que me apasiona profundamente. La capacidad de transformarse en diferentes personajes y contar historias que resuenen con el público es algo que me llena de alegría y satisfacción.",
   "author": "denzel_washington_04",
-  "date_created": "02/01 1955",
-  "date_updated": "02/01 1955"
+  "date_created": "1955-01-02",
+  "date_updated": "1955-01-02"
 },{
   "_id": {
     "$oid": "65dd7aa7a8c14e75f9f2503d"
@@ -833,8 +833,8 @@
   "title": "Explorando la humanidad a través del cine",
   "content": "El cine tiene el poder de explorar la complejidad de la condición humana. Como actor, me siento afortunado de poder contribuir a esta exploración y de llevar historias significativas a la pantalla.",
   "author": "denzel_washington_04",
-  "date_created": "07/01 1955",
-  "date_updated": "07/01 1955"
+  "date_created": "1955-01-07",
+  "date_updated": "1955-01-07"
 },{
   "_id": {
     "$oid": "65dd7aa7a8c14e75f9f2503e"
@@ -842,8 +842,8 @@
   "title": "Desafíos y recompensas",
   "content": "La actuación presenta desafíos únicos, pero también recompensas incomparables. Superar los desafíos técnicos y emocionales de un papel y conectar con el público es una experiencia gratificante y enriquecedora.",
   "author": "denzel_washington_04",
-  "date_created": "12/01 1955",
-  "date_updated": "12/02 1955"
+  "date_created": "1955-01-12",
+  "date_updated": "1955-02-12"
 },{
   "_id": {
     "$oid": "65dd7aa7a8c14e75f9f2503f"
@@ -851,8 +851,8 @@
   "title": "Un viaje de aprendizaje continuo",
   "content": "Mi carrera como actor ha sido un viaje de aprendizaje continuo. Cada proyecto me enseña algo nuevo sobre mí mismo, sobre el arte de la actuación y sobre el mundo que nos rodea.",
   "author": "denzel_washington_04",
-  "date_created": "17/01 1955",
-  "date_updated": "17/02 1955"
+  "date_created": "1955-01-17",
+  "date_updated": "1955-02-17"
 },{
   "_id": {
     "$oid": "65dd7aa7a8c14e75f9f25040"
@@ -860,8 +860,8 @@
   "title": "Gratitud hacia mis colegas y admiradores",
   "content": "Quiero expresar mi profunda gratitud hacia mis colegas de la industria del cine y hacia mis admiradores por su apoyo continuo. Su ánimo y su cariño son un impulso constante en mi carrera como actor.",
   "author": "denzel_washington_04",
-  "date_created": "22/01 1955",
-  "date_updated": "22/02 1955"
+  "date_created": "1955-01-22",
+  "date_updated": "1955-02-22"
 },{
   "_id": {
     "$oid": "65dd7acfa8c14e75f9f25042"
@@ -869,8 +869,8 @@
   "title": "Mi viaje en el mundo de la tecnología",
   "content": "A lo largo de mi carrera, he tenido el privilegio de ser parte de la industria tecnológica. Cada paso en este viaje ha sido emocionante y lleno de desafíos, pero también de grandes satisfacciones.",
   "author": "elon_musk_10",
-  "date_created": "28/06 1971",
-  "date_updated": "28/06 1971"
+  "date_created": "1971-06-28",
+  "date_updated": "1971-06-28"
 },{
   "_id": {
     "$oid": "65dd7acfa8c14e75f9f25043"
@@ -878,8 +878,8 @@
   "title": "Innovación y disrupción",
   "content": "La innovación y la disrupción son el corazón de mi trabajo. Siempre estoy buscando nuevas formas de cambiar el mundo y hacerlo un lugar mejor para las generaciones futuras.",
   "author": "elon_musk_10",
-  "date_created": "03/07 1971",
-  "date_updated": "03/07 1971"
+  "date_created": "1971-07-03",
+  "date_updated": "1971-07-03"
 },{
   "_id": {
     "$oid": "65dd7acfa8c14e75f9f25044"
@@ -887,8 +887,8 @@
   "title": "Explorando el espacio",
   "content": "La exploración espacial es una de mis pasiones. Creo en el potencial de la humanidad para convertirse en una especie multiplanetaria y estoy comprometido a hacer realidad esa visión.",
   "author": "elon_musk_10",
-  "date_created": "08/07 1971",
-  "date_updated": "08/08 1971"
+  "date_created": "1971-07-08",
+  "date_updated": "1971-08-08"
 },{
   "_id": {
     "$oid": "65dd7acfa8c14e75f9f25045"
@@ -896,8 +896,8 @@
   "title": "Desafíos en la industria automotriz",
   "content": "La industria automotriz presenta numerosos desafíos, pero también oportunidades de innovación. A través de Tesla, estoy trabajando para acelerar la transición hacia un futuro sostenible y eléctrico.",
   "author": "elon_musk_10",
-  "date_created": "13/07 1971",
-  "date_updated": "13/08 1971"
+  "date_created": "1971-07-13",
+  "date_updated": "1971-08-13"
 },{
   "_id": {
     "$oid": "65dd7acfa8c14e75f9f25046"
@@ -905,8 +905,8 @@
   "title": "Hacia un futuro energético sostenible",
   "content": "Creo en un futuro en el que la energía sea limpia, renovable y accesible para todos. Con SpaceX y SolarCity, estoy trabajando para hacer realidad esa visión y crear un mundo más sostenible.",
   "author": "elon_musk_10",
-  "date_created": "18/07 1971",
-  "date_updated": "18/08 1971"
+  "date_created": "1971-07-18",
+  "date_updated": "1971-08-18"
 },{
   "_id": {
     "$oid": "65dd7acfa8c14e75f9f25047"
@@ -914,8 +914,8 @@
   "title": "Inspirando a la próxima generación de innovadores",
   "content": "Una de mis mayores motivaciones es inspirar a la próxima generación de innovadores. Espero que mi trabajo sirva de inspiración para que otros persigan sus sueños y hagan del mundo un lugar mejor.",
   "author": "elon_musk_10",
-  "date_created": "23/07 1971",
-  "date_updated": "23/08 1971"
+  "date_created": "1971-07-23",
+  "date_updated": "1971-08-23"
 },{
   "_id": {
     "$oid": "65dd7b00a8c14e75f9f25049"
@@ -923,8 +923,8 @@
   "title": "Mi viaje en el mundo de la música",
   "content": "Desde mis humildes comienzos hasta el éxito mundial, mi viaje en el mundo de la música ha sido una montaña rusa emocional. Cada experiencia ha sido una oportunidad para crecer y aprender, tanto personal como profesionalmente.",
   "author": "beyonce_02",
-  "date_created": "04/09 1981",
-  "date_updated": "04/09 1981"
+  "date_created": "1981-09-04",
+  "date_updated": "1981-09-04"
 },{
   "_id": {
     "$oid": "65dd7b00a8c14e75f9f2504a"
@@ -932,8 +932,8 @@
   "title": "Empoderamiento a través del arte",
   "content": "Creo en el poder del arte para inspirar y empoderar a las personas. A través de mi música, espero transmitir un mensaje de fuerza, resiliencia y autoaceptación a mis fans en todo el mundo.",
   "author": "beyonce_02",
-  "date_created": "09/09 1981",
-  "date_updated": "09/09 1981"
+  "date_created": "1981-09-09",
+  "date_updated": "1981-09-09"
 },{
   "_id": {
     "$oid": "65dd7b00a8c14e75f9f2504b"
@@ -941,8 +941,8 @@
   "title": "Explorando nuevas fronteras musicales",
   "content": "Siempre estoy buscando nuevas formas de expresión artística y nuevas fronteras musicales para explorar. Creo que la verdadera innovación viene de atreverse a ser diferente y a desafiar las convenciones establecidas.",
   "author": "beyonce_02",
-  "date_created": "14/09 1981",
-  "date_updated": "14/10 1981"
+  "date_created": "1981-09-14",
+  "date_updated": "1981-10-14"
 },{
   "_id": {
     "$oid": "65dd7b00a8c14e75f9f2504c"
@@ -950,8 +950,8 @@
   "title": "El poder de la colaboración",
   "content": "He tenido el privilegio de colaborar con algunos de los artistas más talentosos del mundo. Creo que la colaboración es una herramienta poderosa para la creatividad y el crecimiento artístico.",
   "author": "beyonce_02",
-  "date_created": "19/09 1981",
-  "date_updated": "19/10 1981"
+  "date_created": "1981-09-19",
+  "date_updated": "1981-10-19"
 },{
   "_id": {
     "$oid": "65dd7b00a8c14e75f9f2504d"
@@ -959,8 +959,8 @@
   "title": "Un compromiso con la comunidad",
   "content": "Es importante para mí utilizar mi plataforma para crear un impacto positivo en la comunidad. A través de mi música y mis acciones, espero inspirar el cambio y contribuir a un mundo más inclusivo y equitativo.",
   "author": "beyonce_02",
-  "date_created": "24/09 1981",
-  "date_updated": "24/10 1981"
+  "date_created": "1981-09-24",
+  "date_updated": "1981-10-24"
 },{
   "_id": {
     "$oid": "65dd7b00a8c14e75f9f2504e"
@@ -968,8 +968,8 @@
   "title": "Gratitud hacia mis fans",
   "content": "Quiero expresar mi profunda gratitud hacia mis fans por su amor y apoyo incondicional a lo largo de los años. Son mi mayor inspiración y motivación para seguir creando música y compartiendo mi arte con el mundo.",
   "author": "beyonce_02",
-  "date_created": "29/09 1981",
-  "date_updated": "29/10 1981"
+  "date_created": "1981-09-29",
+  "date_updated": "1981-10-29"
 },{
   "_id": {
     "$oid": "65dd7c87a8c14e75f9f25050"
@@ -977,8 +977,8 @@
   "title": "Mi pasión por la gimnasia",
   "content": "Desde que era niña, la gimnasia ha sido mi pasión. Cada día en el gimnasio es una oportunidad para desafiarme a mí misma y superar mis límites.",
   "author": "simone_biles_03",
-  "date_created": "14/03 1997",
-  "date_updated": "14/03 1997"
+  "date_created": "1997-03-14",
+  "date_updated": "1997-03-14"
 },{
   "_id": {
     "$oid": "65dd7c87a8c14e75f9f25051"
@@ -986,8 +986,8 @@
   "title": "Entrenamiento y dedicación",
   "content": "El éxito en la gimnasia requiere un arduo entrenamiento y una dedicación inquebrantable. Estoy comprometida a dar lo mejor de mí en cada práctica y competencia.",
   "author": "simone_biles_03",
-  "date_created": "19/03 1997",
-  "date_updated": "19/03 1997"
+  "date_created": "1997-03-19",
+  "date_updated": "1997-03-19"
 },{
   "_id": {
     "$oid": "65dd7c87a8c14e75f9f25052"
@@ -995,8 +995,8 @@
   "title": "Representando a mi país",
   "content": "Es un honor representar a mi país en competiciones internacionales. Cada vez que compito, llevo con orgullo la bandera de Estados Unidos y represento a todos mis compatriotas.",
   "author": "simone_biles_03",
-  "date_created": "24/03 1997",
-  "date_updated": "24/04 1997"
+  "date_created": "1997-03-24",
+  "date_updated": "1997-04-24"
 },{
   "_id": {
     "$oid": "65dd7c87a8c14e75f9f25053"
@@ -1004,8 +1004,8 @@
   "title": "Superando obstáculos",
   "content": "En mi carrera como gimnasta, he enfrentado numerosos desafíos y obstáculos. Pero cada desafío me ha hecho más fuerte y me ha preparado para enfrentar cualquier cosa que se interponga en mi camino.",
   "author": "simone_biles_03",
-  "date_created": "29/03 1997",
-  "date_updated": "29/04 1997"
+  "date_created": "1997-03-29",
+  "date_updated": "1997-04-29"
 },{
   "_id": {
     "$oid": "65dd7c87a8c14e75f9f25054"
@@ -1013,8 +1013,8 @@
   "title": "Inspirando a otros",
   "content": "Una de mis mayores alegrías es inspirar a otros a perseguir sus sueños. Espero que mi historia demuestre que con trabajo duro y determinación, cualquier cosa es posible.",
   "author": "simone_biles_03",
-  "date_created": "03/04 1997",
-  "date_updated": "03/05 1997"
+  "date_created": "1997-04-03",
+  "date_updated": "1997-05-03"
 },{
   "_id": {
     "$oid": "65dd7c87a8c14e75f9f25055"
@@ -1022,8 +1022,8 @@
   "title": "Gratitud hacia mi equipo",
   "content": "Quiero expresar mi profunda gratitud hacia mi equipo de entrenadores, compañeros y familiares por su apoyo incondicional. Su aliento y su apoyo son fundamentales en mi viaje como gimnasta.",
   "author": "simone_biles_03",
-  "date_created": "08/04 1997",
-  "date_updated": "08/05 1997"
+  "date_created": "1997-04-08",
+  "date_updated": "1997-05-08"
 },{
   "_id": {
     "$oid": "65dd7d45a8c14e75f9f25075"
@@ -1031,8 +1031,8 @@
   "title": "Mi pasión por la gimnasia",
   "content": "Desde que era niña, la gimnasia ha sido mi pasión. Cada día en el gimnasio es una oportunidad para desafiarme a mí misma y superar mis límites.",
   "author": "simone_biles_03",
-  "date_created": "14/03 1997",
-  "date_updated": "14/03 1997"
+  "date_created": "1997-03-14",
+  "date_updated": "1997-03-14"
 },{
   "_id": {
     "$oid": "65dd7d45a8c14e75f9f25076"
@@ -1040,8 +1040,8 @@
   "title": "Entrenamiento y dedicación",
   "content": "El éxito en la gimnasia requiere un arduo entrenamiento y una dedicación inquebrantable. Estoy comprometida a dar lo mejor de mí en cada práctica y competencia.",
   "author": "simone_biles_03",
-  "date_created": "19/03 1997",
-  "date_updated": "19/03 1997"
+  "date_created": "1997-03-19",
+  "date_updated": "1997-03-19"
 },{
   "_id": {
     "$oid": "65dd7d45a8c14e75f9f25077"
@@ -1049,8 +1049,8 @@
   "title": "Representando a mi país",
   "content": "Es un honor representar a mi país en competiciones internacionales. Cada vez que compito, llevo con orgullo la bandera de Estados Unidos y represento a todos mis compatriotas.",
   "author": "simone_biles_03",
-  "date_created": "24/03 1997",
-  "date_updated": "24/04 1997"
+  "date_created": "1997-03-24",
+  "date_updated": "1997-04-24"
 },{
   "_id": {
     "$oid": "65dd7d45a8c14e75f9f25078"
@@ -1058,8 +1058,8 @@
   "title": "Superando obstáculos",
   "content": "En mi carrera como gimnasta, he enfrentado numerosos desafíos y obstáculos. Pero cada desafío me ha hecho más fuerte y me ha preparado para enfrentar cualquier cosa que se interponga en mi camino.",
   "author": "simone_biles_03",
-  "date_created": "29/03 1997",
-  "date_updated": "29/04 1997"
+  "date_created": "1997-03-29",
+  "date_updated": "1997-04-29"
 },{
   "_id": {
     "$oid": "65dd7d45a8c14e75f9f25079"
@@ -1067,8 +1067,8 @@
   "title": "Inspirando a otros",
   "content": "Una de mis mayores alegrías es inspirar a otros a perseguir sus sueños. Espero que mi historia demuestre que con trabajo duro y determinación, cualquier cosa es posible.",
   "author": "simone_biles_03",
-  "date_created": "03/04 1997",
-  "date_updated": "03/05 1997"
+  "date_created": "1997-04-03",
+  "date_updated": "1997-05-03"
 },{
   "_id": {
     "$oid": "65dd7d45a8c14e75f9f2507a"
@@ -1076,8 +1076,8 @@
   "title": "Gratitud hacia mi equipo",
   "content": "Quiero expresar mi profunda gratitud hacia mi equipo de entrenadores, compañeros y familiares por su apoyo incondicional. Su aliento y su apoyo son fundamentales en mi viaje como gimnasta.",
   "author": "simone_biles_03",
-  "date_created": "08/04 1997",
-  "date_updated": "08/05 1997"
+  "date_created": "1997-04-08",
+  "date_updated": "1997-05-08"
 },{
   "_id": {
     "$oid": "65dd7d50a8c14e75f9f2507c"
@@ -1085,8 +1085,8 @@
   "title": "Explorando el feminismo",
   "content": "A lo largo de mi vida, he sido una ferviente defensora del feminismo y los derechos de las mujeres. Creo en la igualdad de género y en la importancia de empoderar a las mujeres para que alcancen su pleno potencial.",
   "author": "simone_beauvoir_07",
-  "date_created": "09/01 1908",
-  "date_updated": "09/01 1908"
+  "date_created": "1908-01-09",
+  "date_updated": "1908-01-09"
 },{
   "_id": {
     "$oid": "65dd7d50a8c14e75f9f2507d"
@@ -1094,8 +1094,8 @@
   "title": "El segundo sexo",
   "content": "Mi obra 'El segundo sexo' ha sido fundamental en el movimiento feminista. En ella, exploro la opresión de las mujeres a lo largo de la historia y abogo por su emancipación y liberación.",
   "author": "simone_beauvoir_07",
-  "date_created": "14/01 1908",
-  "date_updated": "14/01 1908"
+  "date_created": "1908-01-14",
+  "date_updated": "1908-01-14"
 },{
   "_id": {
     "$oid": "65dd7d50a8c14e75f9f2507e"
@@ -1103,8 +1103,8 @@
   "title": "Filosofía existencialista",
   "content": "Como filósofa existencialista, he cuestionado las nociones tradicionales de la existencia y la libertad. Mi trabajo ha desafiado las normas sociales y ha inspirado a generaciones de pensadores a cuestionar el status quo.",
   "author": "simone_beauvoir_07",
-  "date_created": "19/01 1908",
-  "date_updated": "19/01 1908"
+  "date_created": "1908-01-19",
+  "date_updated": "1908-01-19"
 },{
   "_id": {
     "$oid": "65dd7d50a8c14e75f9f2507f"
@@ -1112,8 +1112,8 @@
   "title": "La ética del cuidado",
   "content": "Una de mis contribuciones más importantes ha sido mi concepto de la 'ética del cuidado', que destaca la importancia de las relaciones interpersonales y la responsabilidad hacia los demás. Creo que el cuidado mutuo es esencial para una sociedad justa y equitativa.",
   "author": "simone_beauvoir_07",
-  "date_created": "24/01 1908",
-  "date_updated": "24/02 1908"
+  "date_created": "1908-01-24",
+  "date_updated": "1908-02-24"
 },{
   "_id": {
     "$oid": "65dd7d50a8c14e75f9f25080"
@@ -1121,8 +1121,8 @@
   "title": "Luchando por la libertad",
   "content": "A lo largo de mi vida, he luchado incansablemente por la libertad y la igualdad. Creo en el poder del individuo para crear su propio destino y en la necesidad de desafiar las estructuras opresivas que limitan nuestras vidas.",
   "author": "simone_beauvoir_07",
-  "date_created": "29/01 1908",
-  "date_updated": "29/02 1908"
+  "date_created": "1908-01-29",
+  "date_updated": "1908-02-29"
 },{
   "_id": {
     "$oid": "65dd7d50a8c14e75f9f25081"
@@ -1130,8 +1130,8 @@
   "title": "Legado duradero",
   "content": "Espero que mi legado como escritora, filósofa y feminista inspire a otros a luchar por un mundo más justo y equitativo para todas las personas, independientemente de su género.",
   "author": "simone_beauvoir_07",
-  "date_created": "03/02 1908",
-  "date_updated": "03/03 1908"
+  "date_created": "1908-02-03",
+  "date_updated": "1908-03-03"
 },{
   "_id": {
     "$oid": "65dd7d5ea8c14e75f9f25083"
@@ -1139,8 +1139,8 @@
   "title": "Inventando la World Wide Web",
   "content": "Como inventor de la World Wide Web, tuve la visión de crear un sistema de información global que fuera accesible para todos. Mi objetivo era facilitar la comunicación y el intercambio de información en todo el mundo.",
   "author": "tim_berners-lee_03",
-  "date_created": "08/06 1955",
-  "date_updated": "08/06 1955"
+  "date_created": "1955-06-08",
+  "date_updated": "1955-06-08"
 },{
   "_id": {
     "$oid": "65dd7d5ea8c14e75f9f25084"
@@ -1148,8 +1148,8 @@
   "title": "Los principios de la web abierta",
   "content": "Siempre he abogado por los principios de la web abierta, que incluyen la accesibilidad, la neutralidad de la red y la interoperabilidad. Creo que estos principios son fundamentales para garantizar que la web siga siendo un recurso público y democrático.",
   "author": "tim_berners-lee_03",
-  "date_created": "13/06 1955",
-  "date_updated": "13/06 1955"
+  "date_created": "1955-06-13",
+  "date_updated": "1955-06-13"
 },{
   "_id": {
     "$oid": "65dd7d5ea8c14e75f9f25085"
@@ -1157,8 +1157,8 @@
   "title": "Desafíos y oportunidades",
   "content": "Si bien la web ha traído consigo innumerables beneficios, también enfrenta desafíos importantes, como la privacidad, la desinformación y la centralización del poder. Creo que debemos abordar estos desafíos de manera proactiva para garantizar un futuro positivo para la web.",
   "author": "tim_berners-lee_03",
-  "date_created": "18/06 1955",
-  "date_updated": "18/06 1955"
+  "date_created": "1955-06-18",
+  "date_updated": "1955-06-18"
 },{
   "_id": {
     "$oid": "65dd7d5ea8c14e75f9f25086"
@@ -1166,8 +1166,8 @@
   "title": "Hacia una web más inclusiva",
   "content": "Me esfuerzo por hacer que la web sea más inclusiva y accesible para todos, independientemente de su ubicación geográfica, habilidades o recursos. Creo que la web tiene el potencial de empoderar a las personas y transformar la sociedad para mejor.",
   "author": "tim_berners-lee_03",
-  "date_created": "23/06 1955",
-  "date_updated": "23/07 1955"
+  "date_created": "1955-06-23",
+  "date_updated": "1955-07-23"
 },{
   "_id": {
     "$oid": "65dd7d5ea8c14e75f9f25087"
@@ -1175,8 +1175,8 @@
   "title": "El futuro de la web",
   "content": "Estoy emocionado por el futuro de la web y las innovaciones que aún están por venir. Creo que con el compromiso y la colaboración de la comunidad web, podemos construir un futuro más inclusivo, equitativo y sostenible para todos.",
   "author": "tim_berners-lee_03",
-  "date_created": "28/06 1955",
-  "date_updated": "28/07 1955"
+  "date_created": "1955-06-28",
+  "date_updated": "1955-07-28"
 },{
   "_id": {
     "$oid": "65dd7d6fa8c14e75f9f25089"
@@ -1184,8 +1184,8 @@
   "title": "Una carrera en el cine",
   "content": "A lo largo de mi carrera en el cine, he tenido la oportunidad de interpretar una amplia variedad de roles y trabajar con algunos de los mejores talentos de la industria. Cada película ha sido un nuevo desafío y una nueva oportunidad de crecimiento como actor.",
   "author": "tom_hanks_08",
-  "date_created": "09/07 1956",
-  "date_updated": "09/07 1956"
+  "date_created": "1956-07-09",
+  "date_updated": "1956-07-09"
 },{
   "_id": {
     "$oid": "65dd7d6fa8c14e75f9f2508a"
@@ -1193,8 +1193,8 @@
   "title": "Colaboraciones memorables",
   "content": "He tenido el privilegio de trabajar con algunos de los directores más talentosos de la industria del cine, incluidos Steven Spielberg, Ron Howard y Robert Zemeckis. Cada colaboración ha sido una experiencia enriquecedora y ha dado lugar a películas memorables.",
   "author": "tom_hanks_08",
-  "date_created": "14/07 1956",
-  "date_updated": "14/07 1956"
+  "date_created": "1956-07-14",
+  "date_updated": "1956-07-14"
 },{
   "_id": {
     "$oid": "65dd7d6fa8c14e75f9f2508b"
@@ -1202,8 +1202,8 @@
   "title": "El impacto de mis películas",
   "content": "Es gratificante ver el impacto que mis películas han tenido en el público. Desde comedias hasta dramas, cada película tiene el poder de entretener, inspirar y provocar reflexión en los espectadores.",
   "author": "tom_hanks_08",
-  "date_created": "19/07 1956",
-  "date_updated": "19/08 1956"
+  "date_created": "1956-07-19",
+  "date_updated": "1956-08-19"
 },{
   "_id": {
     "$oid": "65dd7d6fa8c14e75f9f2508c"
@@ -1211,8 +1211,8 @@
   "title": "La magia del cine",
   "content": "Creo en la magia del cine para transportar a las personas a otros mundos y despertar emociones profundas. Como actor, es un honor ser parte de una industria que tiene el poder de conectar a las personas de todo el mundo.",
   "author": "tom_hanks_08",
-  "date_created": "24/07 1956",
-  "date_updated": "24/08 1956"
+  "date_created": "1956-07-24",
+  "date_updated": "1956-08-24"
 },{
   "_id": {
     "$oid": "65dd7d6fa8c14e75f9f2508d"
@@ -1220,8 +1220,8 @@
   "title": "Un viaje de autodescubrimiento",
   "content": "A lo largo de mi carrera, he aprendido mucho sobre mí mismo y sobre el mundo que me rodea. Cada papel ha sido un viaje de autodescubrimiento y una oportunidad de crecimiento personal y profesional.",
   "author": "tom_hanks_08",
-  "date_created": "29/07 1956",
-  "date_updated": "29/08 1956"
+  "date_created": "1956-07-29",
+  "date_updated": "1956-08-29"
 },{
   "_id": {
     "$oid": "65dd7d79a8c14e75f9f2508f"
@@ -1229,8 +1229,8 @@
   "title": "El hombre más rápido del mundo",
   "content": "Mi carrera como velocista me ha llevado a convertirme en el hombre más rápido del mundo. A lo largo de los años, he batido récords y he dejado una marca indeleble en la historia del atletismo.",
   "author": "usain_bolt_05",
-  "date_created": "21/08 1986",
-  "date_updated": "21/08 1986"
+  "date_created": "1986-08-21",
+  "date_updated": "1986-08-21"
 },{
   "_id": {
     "$oid": "65dd7d79a8c14e75f9f25090"
@@ -1238,8 +1238,8 @@
   "title": "Preparación y dedicación",
   "content": "El éxito en el atletismo requiere una preparación meticulosa y una dedicación inquebrantable. Cada día en el entrenamiento es una oportunidad para mejorar y acercarse más a la excelencia.",
   "author": "usain_bolt_05",
-  "date_created": "26/08 1986",
-  "date_updated": "26/08 1986"
+  "date_created": "1986-08-26",
+  "date_updated": "1986-08-26"
 },{
   "_id": {
     "$oid": "65dd7d79a8c14e75f9f25091"
@@ -1247,8 +1247,8 @@
   "title": "Inspirando a otros",
   "content": "Una de las mayores alegrías de mi carrera es inspirar a otros a alcanzar sus metas y perseguir sus sueños. Espero que mi historia demuestre que con determinación y trabajo duro, cualquier cosa es posible.",
   "author": "usain_bolt_05",
-  "date_created": "31/08 1986",
-  "date_updated": "31/08 1986"
+  "date_created": "1986-08-31",
+  "date_updated": "1986-08-31"
 },{
   "_id": {
     "$oid": "65dd7d79a8c14e75f9f25092"
@@ -1256,8 +1256,8 @@
   "title": "El legado de un campeón",
   "content": "Espero que mi legado como atleta inspire a futuras generaciones a esforzarse por la grandeza y a nunca conformarse con menos de lo que son capaces de lograr. El camino hacia el éxito está lleno de desafíos, pero también de recompensas inigualables.",
   "author": "usain_bolt_05",
-  "date_created": "05/09 1986",
-  "date_updated": "05/10 1986"
+  "date_created": "1986-09-05",
+  "date_updated": "1986-10-05"
 },{
   "_id": {
     "$oid": "65dd7d79a8c14e75f9f25093"
@@ -1265,8 +1265,8 @@
   "title": "Más allá de la pista",
   "content": "Aunque mi carrera en la pista ha sido mi mayor logro, también aspiro a dejar un impacto positivo fuera de ella. Me esfuerzo por ser un modelo a seguir y un defensor de causas importantes, como la educación y el desarrollo juvenil.",
   "author": "usain_bolt_05",
-  "date_created": "10/09 1986",
-  "date_updated": "10/10 1986"
+  "date_created": "1986-09-10",
+  "date_updated": "1986-10-10"
 },{
   "_id": {
     "$oid": "65dd7e2ea8c14e75f9f25097"
@@ -1274,8 +1274,8 @@
   "title": "El arte de la actuación",
   "content": "Para mí, la actuación es más que una profesión; es un arte que me permite explorar la complejidad de la experiencia humana. Cada papel es una oportunidad para sumergirme en un mundo diferente y contar historias que resuenen con el público.",
   "author": "viola_davis_03",
-  "date_created": "11/08 1965",
-  "date_updated": "11/08 1965"
+  "date_created": "1965-08-11",
+  "date_updated": "1965-08-11"
 },{
   "_id": {
     "$oid": "65dd7e2ea8c14e75f9f25098"
@@ -1283,8 +1283,8 @@
   "title": "Rompiendo barreras en Hollywood",
   "content": "Como mujer afroamericana en Hollywood, he enfrentado numerosos desafíos y obstáculos en mi carrera. Pero cada desafío me ha hecho más fuerte y más decidida a seguir adelante, abriendo puertas para las generaciones futuras de talentos diversos.",
   "author": "viola_davis_03",
-  "date_created": "16/08 1965",
-  "date_updated": "16/08 1965"
+  "date_created": "1965-08-16",
+  "date_updated": "1965-08-16"
 },{
   "_id": {
     "$oid": "65dd7e2ea8c14e75f9f25099"
@@ -1292,8 +1292,8 @@
   "title": "La importancia de la representación",
   "content": "Creo en la importancia de la representación en el cine y la televisión. Es fundamental que todas las personas vean sus historias y experiencias reflejadas en los medios de comunicación, para sentirse validadas y empoderadas.",
   "author": "viola_davis_03",
-  "date_created": "21/08 1965",
-  "date_updated": "21/09 1965"
+  "date_created": "1965-08-21",
+  "date_updated": "1965-09-21"
 },{
   "_id": {
     "$oid": "65dd7e2ea8c14e75f9f2509a"
@@ -1301,8 +1301,8 @@
   "title": "La búsqueda de la verdad",
   "content": "Como actriz, siempre busco la verdad en mis interpretaciones. Me comprometo a profundizar en los personajes y encontrar su autenticidad, incluso cuando eso significa enfrentar las realidades más difíciles de la vida.",
   "author": "viola_davis_03",
-  "date_created": "26/08 1965",
-  "date_updated": "26/09 1965"
+  "date_created": "1965-08-26",
+  "date_updated": "1965-09-26"
 },{
   "_id": {
     "$oid": "65dd7e2ea8c14e75f9f2509b"
@@ -1310,8 +1310,8 @@
   "title": "Gratitud y humildad",
   "content": "Estoy agradecida por las oportunidades que he tenido en mi carrera y humilde por el apoyo y el reconocimiento que he recibido. Me comprometo a seguir trabajando duro y a utilizar mi plataforma para crear un cambio positivo en el mundo.",
   "author": "viola_davis_03",
-  "date_created": "31/08 1965",
-  "date_updated": "30/09 1965"
+  "date_created": "1965-08-31",
+  "date_updated": "1965-09-30"
 },{
   "_id": {
     "$oid": "65dd7e4da8c14e75f9f2509d"
@@ -1319,8 +1319,8 @@
   "title": "Liderazgo en tiempos difíciles",
   "content": "Durante mi mandato como Primer Ministro del Reino Unido, tuve que liderar al país a través de algunos de los momentos más difíciles de su historia. Mi determinación y mi liderazgo fueron fundamentales para guiar a nuestra nación hacia la victoria durante la Segunda Guerra Mundial.",
   "author": "winston_churchill_03",
-  "date_created": "30/11 1874",
-  "date_updated": "30/11 1874"
+  "date_created": "1874-11-30",
+  "date_updated": "1874-11-30"
 },{
   "_id": {
     "$oid": "65dd7e4da8c14e75f9f2509e"
@@ -1328,8 +1328,8 @@
   "title": "La fuerza del espíritu humano",
   "content": "Creo en la fuerza del espíritu humano para superar la adversidad y alcanzar la grandeza. A pesar de los desafíos que enfrentamos, nunca debemos perder la esperanza ni la determinación de luchar por un futuro mejor.",
   "author": "winston_churchill_03",
-  "date_created": "05/12 1874",
-  "date_updated": "05/12 1874"
+  "date_created": "1874-12-05",
+  "date_updated": "1874-12-05"
 },{
   "_id": {
     "$oid": "65dd7e4da8c14e75f9f2509f"
@@ -1337,8 +1337,8 @@
   "title": "La importancia de la libertad",
   "content": "Durante mi carrera política, he sido un defensor apasionado de la libertad y la democracia. Creo que todos los individuos tienen derecho a la libertad de expresión, la libertad de religión y la libertad de vivir sin temor a la opresión.",
   "author": "winston_churchill_03",
-  "date_created": "10/12 1874",
-  "date_updated": "10/12 1874"
+  "date_created": "1874-12-10",
+  "date_updated": "1874-12-10"
 },{
   "_id": {
     "$oid": "65dd7e4da8c14e75f9f250a0"
@@ -1346,8 +1346,8 @@
   "title": "Unión y solidaridad",
   "content": "En momentos de crisis, es crucial que nos unamos como nación y mostremos solidaridad unos con otros. Solo trabajando juntos podemos superar los desafíos que enfrentamos y construir un futuro más próspero para todos.",
   "author": "winston_churchill_03",
-  "date_created": "15/12 1874",
-  "date_updated": "15/01 1875"
+  "date_created": "1874-12-15",
+  "date_updated": "1875-01-15"
 },{
   "_id": {
     "$oid": "65dd7e4da8c14e75f9f250a1"
@@ -1355,8 +1355,8 @@
   "title": "El legado de un líder",
   "content": "Espero que mi legado como líder político inspire a otros a liderar con valentía, determinación y compasión. A través de mi ejemplo, deseo demostrar que incluso en los momentos más oscuros, la luz de la esperanza y el coraje nunca se apaga.",
   "author": "winston_churchill_03",
-  "date_created": "20/12 1874",
-  "date_updated": "20/01 1875"
+  "date_created": "1874-12-20",
+  "date_updated": "1875-01-20"
 },{
   "_id": {
     "$oid": "65dd7e6aa8c14e75f9f250a3"
@@ -1364,8 +1364,8 @@
   "title": "El padre de Python",
   "content": "Como creador del lenguaje de programación Python, siempre he buscado hacer la programación más accesible y legible para todos. Python se ha convertido en uno de los lenguajes de programación más populares del mundo, utilizado en una amplia variedad de aplicaciones.",
   "author": "guido_van_rossum_12",
-  "date_created": "31/01 1956",
-  "date_updated": "31/01 1956"
+  "date_created": "1956-01-31",
+  "date_updated": "1956-01-31"
 },{
   "_id": {
     "$oid": "65dd7e6aa8c14e75f9f250a4"
@@ -1373,8 +1373,8 @@
   "title": "Filosofía de diseño de Python",
   "content": "La filosofía de diseño de Python se centra en la legibilidad del código y la simplicidad del lenguaje. Creo que el código debe ser fácil de entender y escribir, fomentando así la colaboración y la eficiencia en el desarrollo de software.",
   "author": "guido_van_rossum_12",
-  "date_created": "05/02 1956",
-  "date_updated": "05/02 1956"
+  "date_created": "1956-02-05",
+  "date_updated": "1956-02-05"
 },{
   "_id": {
     "$oid": "65dd7e6aa8c14e75f9f250a5"
@@ -1382,8 +1382,8 @@
   "title": "Comunidad Python",
   "content": "La comunidad de Python es una de las más activas y acogedoras en el mundo del software libre y de código abierto. Me enorgullece ver cómo los usuarios de Python colaboran y comparten conocimientos para mejorar constantemente el lenguaje y su ecosistema.",
   "author": "guido_van_rossum_12",
-  "date_created": "10/02 1956",
-  "date_updated": "10/03 1956"
+  "date_created": "1956-02-10",
+  "date_updated": "1956-03-10"
 },{
   "_id": {
     "$oid": "65dd7e6aa8c14e75f9f250a6"
@@ -1391,8 +1391,8 @@
   "title": "El futuro de Python",
   "content": "Creo que el futuro de Python es brillante y lleno de posibilidades. A medida que evoluciona la tecnología, Python continuará siendo relevante y se utilizará en nuevos y emocionantes campos, desde la inteligencia artificial hasta la ciencia de datos.",
   "author": "guido_van_rossum_12",
-  "date_created": "15/02 1956",
-  "date_updated": "15/03 1956"
+  "date_created": "1956-02-15",
+  "date_updated": "1956-03-15"
 },{
   "_id": {
     "$oid": "65dd7e6aa8c14e75f9f250a7"
@@ -1400,8 +1400,8 @@
   "title": "Agradecimiento a la comunidad",
   "content": "Quiero expresar mi profundo agradecimiento a todos los miembros de la comunidad Python que han contribuido al éxito y la popularidad del lenguaje. Sin su apoyo y dedicación, Python no sería lo que es hoy en día.",
   "author": "guido_van_rossum_12",
-  "date_created": "20/02 1956",
-  "date_updated": "20/03 1956"
+  "date_created": "1956-02-20",
+  "date_updated": "1956-03-20"
 },{
   "_id": {
     "$oid": "65dd7e83a8c14e75f9f250a9"
@@ -1409,8 +1409,8 @@
   "title": "Explorando el arte de la actuación",
   "content": "Como actriz, siempre he buscado desafiarme a mí misma y explorar una amplia gama de personajes y emociones. La actuación es un viaje de autodescubrimiento y una oportunidad para conectarme con la humanidad en todas sus formas.",
   "author": "cate_blanchett_02",
-  "date_created": "14/05 1969",
-  "date_updated": "14/05 1969"
+  "date_created": "1969-05-14",
+  "date_updated": "1969-05-14"
 },{
   "_id": {
     "$oid": "65dd7e83a8c14e75f9f250aa"
@@ -1418,8 +1418,8 @@
   "title": "Colaboraciones cinematográficas",
   "content": "He tenido el privilegio de trabajar con algunos de los directores más talentosos y respetados de la industria del cine. Cada colaboración ha sido una experiencia enriquecedora y me ha permitido crecer como actriz y como persona.",
   "author": "cate_blanchett_02",
-  "date_created": "19/05 1969",
-  "date_updated": "19/05 1969"
+  "date_created": "1969-05-19",
+  "date_updated": "1969-05-19"
 },{
   "_id": {
     "$oid": "65dd7e83a8c14e75f9f250ab"
@@ -1427,8 +1427,8 @@
   "title": "El poder del cine",
   "content": "Creo en el poder del cine para provocar emociones, inspirar pensamientos y cambiar vidas. Como actriz, me siento honrada de ser parte de una forma de arte tan poderosa y transformadora.",
   "author": "cate_blanchett_02",
-  "date_created": "24/05 1969",
-  "date_updated": "24/06 1969"
+  "date_created": "1969-05-24",
+  "date_updated": "1969-06-24"
 },{
   "_id": {
     "$oid": "65dd7e83a8c14e75f9f250ac"
@@ -1436,8 +1436,8 @@
   "title": "Retos y recompensas",
   "content": "La actuación presenta desafíos únicos y demandantes, pero también recompensas inigualables. Cada papel es una oportunidad para crecer y aprender, y estoy agradecida por la oportunidad de vivir tantas vidas diferentes a través del arte.",
   "author": "cate_blanchett_02",
-  "date_created": "29/05 1969",
-  "date_updated": "29/06 1969"
+  "date_created": "1969-05-29",
+  "date_updated": "1969-06-29"
 },{
   "_id": {
     "$oid": "65dd7e83a8c14e75f9f250ad"
@@ -1445,8 +1445,8 @@
   "title": "El compromiso con la excelencia",
   "content": "Como actriz, me comprometo a buscar la excelencia en todo lo que hago y a seguir desafiándome a mí misma en cada papel. Creo que la verdadera grandeza solo se alcanza a través del trabajo arduo, la pasión y la dedicación.",
   "author": "cate_blanchett_02",
-  "date_created": "03/06 1969",
-  "date_updated": "03/07 1969"
+  "date_created": "1969-06-03",
+  "date_updated": "1969-07-03"
 },{
   "_id": {
     "$oid": "65dd7ea4a8c14e75f9f250af"
@@ -1454,8 +1454,8 @@
   "title": "La voluntad de poder",
   "content": "Mi filosofía se centra en el concepto de la 'voluntad de poder', que describe la fuerza impulsora detrás de todas las acciones humanas. Creo que la vida debe ser vivida con pasión y determinación, buscando constantemente superar los obstáculos y alcanzar la grandeza.",
   "author": "friedrich_nietzsche_05",
-  "date_created": "15/10 1844",
-  "date_updated": "15/10 1844"
+  "date_created": "1844-10-15",
+  "date_updated": "1844-10-15"
 },{
   "_id": {
     "$oid": "65dd7ea4a8c14e75f9f250b0"
@@ -1463,8 +1463,8 @@
   "title": "El superhombre",
   "content": "En mi obra, he explorado el concepto del 'superhombre', un ser humano que trasciende las limitaciones de la moral convencional y se esfuerza por crear su propio camino en el mundo. Creo en la importancia de la individualidad y la autenticidad en la vida humana.",
   "author": "friedrich_nietzsche_05",
-  "date_created": "20/10 1844",
-  "date_updated": "20/10 1844"
+  "date_created": "1844-10-20",
+  "date_updated": "1844-10-20"
 },{
   "_id": {
     "$oid": "65dd7ea4a8c14e75f9f250b1"
@@ -1472,8 +1472,8 @@
   "title": "La crítica de la moralidad tradicional",
   "content": "He sido un crítico feroz de la moralidad tradicional y de las estructuras de poder establecidas. Creo que la moralidad debe ser cuestionada y reevaluada constantemente, en lugar de aceptada ciegamente, y que cada individuo debe encontrar su propio camino hacia la autenticidad y la realización personal.",
   "author": "friedrich_nietzsche_05",
-  "date_created": "25/10 1844",
-  "date_updated": "25/11 1844"
+  "date_created": "1844-10-25",
+  "date_updated": "1844-11-25"
 },{
   "_id": {
     "$oid": "65dd7ea4a8c14e75f9f250b2"
@@ -1481,8 +1481,8 @@
   "title": "El eterno retorno",
   "content": "Una de mis ideas más influyentes es la del 'eterno retorno', que sugiere que todas las cosas en el universo están condenadas a repetirse infinitamente en ciclos eternos. Esta idea plantea preguntas profundas sobre el significado de la vida y la naturaleza del tiempo.",
   "author": "friedrich_nietzsche_05",
-  "date_created": "30/10 1844",
-  "date_updated": "30/11 1844"
+  "date_created": "1844-10-30",
+  "date_updated": "1844-11-30"
 },{
   "_id": {
     "$oid": "65dd7ea4a8c14e75f9f250b3"
@@ -1490,8 +1490,8 @@
   "title": "El arte como expresión de la voluntad de poder",
   "content": "Creo que el arte es una expresión de la voluntad de poder y una forma de trascender las limitaciones de la existencia humana. A través del arte, podemos explorar nuestras emociones más profundas y conectar con lo divino dentro de nosotros mismos.",
   "author": "friedrich_nietzsche_05",
-  "date_created": "04/11 1844",
-  "date_updated": "04/12 1844"
+  "date_created": "1844-11-04",
+  "date_updated": "1844-12-04"
 },{
   "_id": {
     "$oid": "65dd7ec1a8c14e75f9f250b5"
@@ -1499,8 +1499,8 @@
   "title": "La filosofía de la razón pura",
   "content": "Mi obra más influyente es 'Crítica de la razón pura', en la que exploré los límites y posibilidades del conocimiento humano. Creo en la importancia de la razón y la lógica en la comprensión del mundo y en la búsqueda de la verdad.",
   "author": "immanuel_kant_19",
-  "date_created": "22/04 1724",
-  "date_updated": "22/04 1724"
+  "date_created": "1724-04-22",
+  "date_updated": "1724-04-22"
 },{
   "_id": {
     "$oid": "65dd7ec1a8c14e75f9f250b6"
@@ -1508,8 +1508,8 @@
   "title": "El imperativo categórico",
   "content": "En mi ética, formulé el 'imperativo categórico' como un principio moral fundamental que requiere que actuemos de acuerdo con reglas que podríamos desear que se convirtieran en leyes universales. Creo en la importancia de la moralidad y la ética en la vida humana.",
   "author": "immanuel_kant_19",
-  "date_created": "27/04 1724",
-  "date_updated": "27/04 1724"
+  "date_created": "1724-04-27",
+  "date_updated": "1724-04-27"
 },{
   "_id": {
     "$oid": "65dd7ec1a8c14e75f9f250b7"
@@ -1517,8 +1517,8 @@
   "title": "La idea del deber",
   "content": "He argumentado que la moralidad se basa en la idea del deber, que trasciende los deseos y las inclinaciones personales. Creo que debemos actuar de acuerdo con el deber moral, incluso cuando va en contra de nuestros propios intereses o deseos.",
   "author": "immanuel_kant_19",
-  "date_created": "02/05 1724",
-  "date_updated": "02/06 1724"
+  "date_created": "1724-05-02",
+  "date_updated": "1724-06-02"
 },{
   "_id": {
     "$oid": "65dd7ec1a8c14e75f9f250b8"
@@ -1526,8 +1526,8 @@
   "title": "El idealismo trascendental",
   "content": "Desarrollé la teoría del 'idealismo trascendental', que sostiene que nuestra percepción del mundo está mediada por nuestras estructuras cognitivas y no podemos conocer las cosas en sí mismas. Creo en la importancia de la reflexión filosófica en la comprensión de la realidad.",
   "author": "immanuel_kant_19",
-  "date_created": "07/05 1724",
-  "date_updated": "07/06 1724"
+  "date_created": "1724-05-07",
+  "date_updated": "1724-06-07"
 },{
   "_id": {
     "$oid": "65dd7ec1a8c14e75f9f250b9"
@@ -1535,8 +1535,8 @@
   "title": "El deber de pensar por uno mismo",
   "content": "Argumenté que debemos tener el valor de pensar por nosotros mismos y no aceptar dogmas o autoridades sin cuestionar. Creo en la autonomía moral y la libertad de pensamiento como valores fundamentales en una sociedad democrática.",
   "author": "immanuel_kant_19",
-  "date_created": "12/05 1724",
-  "date_updated": "12/06 1724"
+  "date_created": "1724-05-12",
+  "date_updated": "1724-06-12"
 },{
   "_id": {
     "$oid": "65dd7eeca8c14e75f9f250bb"
@@ -1544,8 +1544,8 @@
   "title": "Liderazgo en la India",
   "content": "Durante mi mandato como Primera Ministra de la India, me esforcé por guiar al país hacia el progreso y la estabilidad en un momento de grandes desafíos. Mi enfoque en el desarrollo económico y social ayudó a transformar la nación y mejorar la calidad de vida de millones de personas.",
   "author": "indira_gandhi_02",
-  "date_created": "19/11 1917",
-  "date_updated": "19/11 1917"
+  "date_created": "1917-11-19",
+  "date_updated": "1917-11-19"
 },{
   "_id": {
     "$oid": "65dd7eeca8c14e75f9f250bc"
@@ -1553,8 +1553,8 @@
   "title": "El papel de la mujer en la política",
   "content": "Como mujer líder en un mundo dominado por hombres, enfrenté numerosos obstáculos y prejuicios en mi carrera política. Sin embargo, me mantuve firme en mi compromiso de luchar por la igualdad de género y el empoderamiento de las mujeres en la sociedad y la política.",
   "author": "indira_gandhi_02",
-  "date_created": "24/11 1917",
-  "date_updated": "24/11 1917"
+  "date_created": "1917-11-24",
+  "date_updated": "1917-11-24"
 },{
   "_id": {
     "$oid": "65dd7eeca8c14e75f9f250bd"
@@ -1562,8 +1562,8 @@
   "title": "La política de no alineación",
   "content": "Adopté una política de no alineación en asuntos internacionales, buscando mantener la independencia y la soberanía de la India en un mundo polarizado por la Guerra Fría. Creo en la importancia de la diplomacia y la negociación en la resolución de conflictos internacionales.",
   "author": "indira_gandhi_02",
-  "date_created": "29/11 1917",
-  "date_updated": "29/12 1917"
+  "date_created": "1917-11-29",
+  "date_updated": "1917-12-29"
 },{
   "_id": {
     "$oid": "65dd7eeca8c14e75f9f250be"
@@ -1571,8 +1571,8 @@
   "title": "Desafíos y logros",
   "content": "Mi carrera política estuvo marcada por numerosos desafíos y logros significativos. A pesar de las críticas y las dificultades, me mantuve firme en mi compromiso de servir al pueblo de la India y trabajar por su bienestar y desarrollo.",
   "author": "indira_gandhi_02",
-  "date_created": "04/12 1917",
-  "date_updated": "04/01 1918"
+  "date_created": "1917-12-04",
+  "date_updated": "1918-01-04"
 },{
   "_id": {
     "$oid": "65dd7eeca8c14e75f9f250bf"
@@ -1580,8 +1580,8 @@
   "title": "Legado y memoria",
   "content": "Espero ser recordada como una líder visionaria y dedicada que dedicó su vida a servir a su país y su pueblo. Mi legado perdura en las políticas y programas que implementé para mejorar la vida de los indios y fortalecer la posición de la India en el mundo.",
   "author": "indira_gandhi_02",
-  "date_created": "09/12 1917",
-  "date_updated": "09/01 1918"
+  "date_created": "1917-12-09",
+  "date_updated": "1918-01-09"
 },{
   "_id": {
     "$oid": "65dd7f0fa8c14e75f9f250c1"
@@ -1589,8 +1589,8 @@
   "title": "El mundo mágico de Harry Potter",
   "content": "Como autora de la serie de libros de Harry Potter, he tenido el privilegio de llevar a millones de lectores a un mundo de magia, aventura y amistad. La saga de Harry Potter ha dejado un impacto duradero en la cultura popular y ha inspirado a personas de todas las edades en todo el mundo.",
   "author": "jk_rowling_12",
-  "date_created": "31/07 1965",
-  "date_updated": "31/07 1965"
+  "date_created": "1965-07-31",
+  "date_updated": "1965-07-31"
 },{
   "_id": {
     "$oid": "65dd7f0fa8c14e75f9f250c2"
@@ -1598,8 +1598,8 @@
   "title": "La importancia de la imaginación",
   "content": "Creo en el poder de la imaginación para transformar nuestras vidas y el mundo que nos rodea. A través de la escritura y la creación de historias, podemos explorar ideas, emociones y realidades que van más allá de lo que es posible en el mundo cotidiano.",
   "author": "jk_rowling_12",
-  "date_created": "05/08 1965",
-  "date_updated": "05/08 1965"
+  "date_created": "1965-08-05",
+  "date_updated": "1965-08-05"
 },{
   "_id": {
     "$oid": "65dd7f0fa8c14e75f9f250c3"
@@ -1607,8 +1607,8 @@
   "title": "Lucha contra la adversidad",
   "content": "Mi propia historia es un testimonio de la capacidad humana para superar la adversidad y encontrar la fuerza interior para seguir adelante. La creación de Harry Potter fue un acto de resistencia y esperanza en tiempos difíciles, y continúa siendo un faro de inspiración para muchos.",
   "author": "jk_rowling_12",
-  "date_created": "10/08 1965",
-  "date_updated": "10/09 1965"
+  "date_created": "1965-08-10",
+  "date_updated": "1965-09-10"
 },{
   "_id": {
     "$oid": "65dd7f0fa8c14e75f9f250c4"
@@ -1616,8 +1616,8 @@
   "title": "Compromiso con la comunidad",
   "content": "Me comprometo a utilizar mi plataforma y mi voz para abogar por los derechos humanos, la igualdad y la inclusión. Creo en la importancia de trabajar juntos para construir un mundo más justo y compasivo para todos.",
   "author": "jk_rowling_12",
-  "date_created": "15/08 1965",
-  "date_updated": "15/09 1965"
+  "date_created": "1965-08-15",
+  "date_updated": "1965-09-15"
 },{
   "_id": {
     "$oid": "65dd7f0fa8c14e75f9f250c5"
@@ -1625,8 +1625,8 @@
   "title": "El poder de la narración",
   "content": "La narración es una de las formas más antiguas y poderosas de comunicación humana. Creo en el poder de contar historias para inspirar, educar y conectar a las personas de todas las culturas y generaciones.",
   "author": "jk_rowling_12",
-  "date_created": "20/08 1965",
-  "date_updated": "20/09 1965"
+  "date_created": "1965-08-20",
+  "date_updated": "1965-09-20"
 },{
   "_id": {
     "$oid": "65dd7f2ba8c14e75f9f250c7"
@@ -1634,8 +1634,8 @@
   "title": "La conexión entre humanos y animales",
   "content": "A lo largo de mi vida, he estudiado y vivido entre chimpancés, lo que me ha llevado a comprender la profunda conexión entre los humanos y los animales. Creo en la importancia de respetar y proteger a todas las formas de vida en nuestro planeta.",
   "author": "jane_goodall_04",
-  "date_created": "03/04 1934",
-  "date_updated": "03/04 1934"
+  "date_created": "1934-04-03",
+  "date_updated": "1934-04-03"
 },{
   "_id": {
     "$oid": "65dd7f2ba8c14e75f9f250c8"
@@ -1643,8 +1643,8 @@
   "title": "Conservación y preservación",
   "content": "Me he dedicado a la conservación y preservación de los hábitats naturales y las especies en peligro de extinción. Creo en la responsabilidad humana de proteger el medio ambiente y asegurar un futuro sostenible para las generaciones futuras.",
   "author": "jane_goodall_04",
-  "date_created": "08/04 1934",
-  "date_updated": "08/04 1934"
+  "date_created": "1934-04-08",
+  "date_updated": "1934-04-08"
 },{
   "_id": {
     "$oid": "65dd7f2ba8c14e75f9f250c9"
@@ -1652,8 +1652,8 @@
   "title": "El papel de la educación",
   "content": "He trabajado para educar y concienciar a las personas sobre la importancia de la conservación y el respeto por la naturaleza. Creo en el poder de la educación para inspirar el cambio y empoderar a las personas para que tomen medidas en beneficio del medio ambiente.",
   "author": "jane_goodall_04",
-  "date_created": "13/04 1934",
-  "date_updated": "13/05 1934"
+  "date_created": "1934-04-13",
+  "date_updated": "1934-05-13"
 },{
   "_id": {
     "$oid": "65dd7f2ba8c14e75f9f250ca"
@@ -1661,8 +1661,8 @@
   "title": "Inspirando a las nuevas generaciones",
   "content": "Una de mis pasiones es inspirar y empoderar a las nuevas generaciones para que se conviertan en defensores del medio ambiente y los animales. Creo en el potencial de la juventud para liderar el cambio y crear un mundo más sostenible y compasivo.",
   "author": "jane_goodall_04",
-  "date_created": "18/04 1934",
-  "date_updated": "18/05 1934"
+  "date_created": "1934-04-18",
+  "date_updated": "1934-05-18"
 },{
   "_id": {
     "$oid": "65dd7f2ba8c14e75f9f250cb"
@@ -1670,8 +1670,8 @@
   "title": "El legado de la esperanza",
   "content": "Espero ser recordada como alguien que dedicó su vida a la causa de la conservación y dejó un legado de esperanza para el futuro de nuestro planeta. Creo en la importancia de cada individuo en la creación de un mundo mejor para todos.",
   "author": "jane_goodall_04",
-  "date_created": "23/04 1934",
-  "date_updated": "23/05 1934"
+  "date_created": "1934-04-23",
+  "date_updated": "1934-05-23"
 },{
   "_id": {
     "$oid": "65dd7f49a8c14e75f9f250cd"
@@ -1679,8 +1679,8 @@
   "title": "El existencialismo como filosofía de vida",
   "content": "Como filósofo existencialista, creo en la importancia de la libertad individual y la responsabilidad personal en la creación del significado y propósito de la vida. El existencialismo enfatiza la importancia de la elección y la acción en la conformación de nuestra existencia.",
   "author": "jean-paul_sartre_14",
-  "date_created": "21/06 1905",
-  "date_updated": "21/06 1905"
+  "date_created": "1905-06-21",
+  "date_updated": "1905-06-21"
 },{
   "_id": {
     "$oid": "65dd7f49a8c14e75f9f250ce"
@@ -1688,8 +1688,8 @@
   "title": "La angustia y la libertad",
   "content": "He explorado temas como la angustia y la libertad en mi obra filosófica, argumentando que la existencia humana está marcada por la ansiedad y la responsabilidad de crear nuestro propio significado en un mundo absurdo e indiferente. Creo en la importancia de enfrentar la realidad con valentía y autenticidad.",
   "author": "jean-paul_sartre_14",
-  "date_created": "26/06 1905",
-  "date_updated": "26/06 1905"
+  "date_created": "1905-06-26",
+  "date_updated": "1905-06-26"
 },{
   "_id": {
     "$oid": "65dd7f49a8c14e75f9f250cf"
@@ -1697,8 +1697,8 @@
   "title": "El compromiso político",
   "content": "Además de mi trabajo filosófico, me comprometí activamente con la política y los movimientos sociales de mi época. Creo en la responsabilidad de los intelectuales de comprometerse con las luchas sociales y promover la justicia y la igualdad en la sociedad.",
   "author": "jean-paul_sartre_14",
-  "date_created": "01/07 1905",
-  "date_updated": "01/08 1905"
+  "date_created": "1905-07-01",
+  "date_updated": "1905-08-01"
 },{
   "_id": {
     "$oid": "65dd7f49a8c14e75f9f250d0"
@@ -1706,8 +1706,8 @@
   "title": "El ser y la nada",
   "content": "Una de mis obras más influyentes es 'El ser y la nada', en la que exploré la naturaleza de la existencia humana y la experiencia de la nada. Creo en la importancia de confrontar la realidad sin ilusiones ni escapismos.",
   "author": "jean-paul_sartre_14",
-  "date_created": "06/07 1905",
-  "date_updated": "06/08 1905"
+  "date_created": "1905-07-06",
+  "date_updated": "1905-08-06"
 },{
   "_id": {
     "$oid": "65dd7f49a8c14e75f9f250d1"
@@ -1715,8 +1715,8 @@
   "title": "La ética del compromiso",
   "content": "He abogado por una ética del compromiso que reconoce la responsabilidad de cada individuo en la creación de un mundo más justo y humano. Creo en la importancia de actuar en solidaridad con los demás y trabajar juntos para superar las injusticias y la opresión.",
   "author": "jean-paul_sartre_14",
-  "date_created": "11/07 1905",
-  "date_updated": "11/08 1905"
+  "date_created": "1905-07-11",
+  "date_updated": "1905-08-11"
 },{
   "_id": {
     "$oid": "65dd7f69a8c14e75f9f250d3"
@@ -1724,8 +1724,8 @@
   "title": "Defendiendo el medio ambiente",
   "content": "Como defensor del medio ambiente, me comprometo a utilizar mi plataforma para crear conciencia sobre los problemas ambientales y promover soluciones sostenibles. Creo en la importancia de proteger la biodiversidad y los ecosistemas para las generaciones futuras.",
   "author": "leonardo_dicaprio_07",
-  "date_created": "11/11 1974",
-  "date_updated": "11/11 1974"
+  "date_created": "1974-11-11",
+  "date_updated": "1974-11-11"
 },{
   "_id": {
     "$oid": "65dd7f69a8c14e75f9f250d4"
@@ -1733,8 +1733,8 @@
   "title": "Acción climática",
   "content": "He trabajado activamente en la promoción de la acción climática y la reducción de las emisiones de gases de efecto invernadero. Creo en la urgencia de abordar el cambio climático y en la necesidad de colaboración global para enfrentar este desafío crítico.",
   "author": "leonardo_dicaprio_07",
-  "date_created": "16/11 1974",
-  "date_updated": "16/11 1974"
+  "date_created": "1974-11-16",
+  "date_updated": "1974-11-16"
 },{
   "_id": {
     "$oid": "65dd7f69a8c14e75f9f250d5"
@@ -1742,8 +1742,8 @@
   "title": "Conservación marina",
   "content": "Me he involucrado en iniciativas de conservación marina para proteger los océanos y las especies marinas en peligro de extinción. Creo en la importancia de preservar los océanos como fuente de vida y biodiversidad en nuestro planeta.",
   "author": "leonardo_dicaprio_07",
-  "date_created": "21/11 1974",
-  "date_updated": "21/12 1974"
+  "date_created": "1974-11-21",
+  "date_updated": "1974-12-21"
 },{
   "_id": {
     "$oid": "65dd7f69a8c14e75f9f250d6"
@@ -1751,8 +1751,8 @@
   "title": "Protegiendo la vida silvestre",
   "content": "Apoyo activamente la conservación de la vida silvestre y la protección de especies en peligro de extinción. Creo en la necesidad de detener la pérdida de hábitats y promover la coexistencia pacífica entre humanos y animales.",
   "author": "leonardo_dicaprio_07",
-  "date_created": "26/11 1974",
-  "date_updated": "26/12 1974"
+  "date_created": "1974-11-26",
+  "date_updated": "1974-12-26"
 },{
   "_id": {
     "$oid": "65dd7f69a8c14e75f9f250d7"
@@ -1760,8 +1760,8 @@
   "title": "Educación ambiental",
   "content": "Promuevo la educación ambiental y la alfabetización ecológica como herramientas fundamentales para inspirar el cambio y la acción en favor del medio ambiente. Creo en empoderar a las personas con conocimientos y conciencia para proteger nuestro planeta.",
   "author": "leonardo_dicaprio_07",
-  "date_created": "01/12 1974",
-  "date_updated": "01/01 1975"
+  "date_created": "1974-12-01",
+  "date_updated": "1975-01-01"
 },{
   "_id": {
     "$oid": "65dd7f89a8c14e75f9f250d9"
@@ -1769,8 +1769,8 @@
   "title": "Defendiendo el medio ambiente",
   "content": "Como defensor del medio ambiente, me comprometo a utilizar mi plataforma para crear conciencia sobre los problemas ambientales y promover soluciones sostenibles. Creo en la importancia de proteger la biodiversidad y los ecosistemas para las generaciones futuras.",
   "author": "leonardo_dicaprio_07",
-  "date_created": "11/11 1974",
-  "date_updated": "11/11 1974"
+  "date_created": "1974-11-11",
+  "date_updated": "1974-11-11"
 },{
   "_id": {
     "$oid": "65dd7f89a8c14e75f9f250da"
@@ -1778,8 +1778,8 @@
   "title": "Acción climática",
   "content": "He trabajado activamente en la promoción de la acción climática y la reducción de las emisiones de gases de efecto invernadero. Creo en la urgencia de abordar el cambio climático y en la necesidad de colaboración global para enfrentar este desafío crítico.",
   "author": "leonardo_dicaprio_07",
-  "date_created": "16/11 1974",
-  "date_updated": "16/11 1974"
+  "date_created": "1974-11-16",
+  "date_updated": "1974-11-16"
 },{
   "_id": {
     "$oid": "65dd7f89a8c14e75f9f250db"
@@ -1787,8 +1787,8 @@
   "title": "Conservación marina",
   "content": "Me he involucrado en iniciativas de conservación marina para proteger los océanos y las especies marinas en peligro de extinción. Creo en la importancia de preservar los océanos como fuente de vida y biodiversidad en nuestro planeta.",
   "author": "leonardo_dicaprio_07",
-  "date_created": "21/11 1974",
-  "date_updated": "21/12 1974"
+  "date_created": "1974-11-21",
+  "date_updated": "1974-12-21"
 },{
   "_id": {
     "$oid": "65dd7f89a8c14e75f9f250dc"
@@ -1796,8 +1796,8 @@
   "title": "Protegiendo la vida silvestre",
   "content": "Apoyo activamente la conservación de la vida silvestre y la protección de especies en peligro de extinción. Creo en la necesidad de detener la pérdida de hábitats y promover la coexistencia pacífica entre humanos y animales.",
   "author": "leonardo_dicaprio_07",
-  "date_created": "26/11 1974",
-  "date_updated": "26/12 1974"
+  "date_created": "1974-11-26",
+  "date_updated": "1974-12-26"
 },{
   "_id": {
     "$oid": "65dd7f89a8c14e75f9f250dd"
@@ -1805,8 +1805,8 @@
   "title": "Educación ambiental",
   "content": "Promuevo la educación ambiental y la alfabetización ecológica como herramientas fundamentales para inspirar el cambio y la acción en favor del medio ambiente. Creo en empoderar a las personas con conocimientos y conciencia para proteger nuestro planeta.",
   "author": "leonardo_dicaprio_07",
-  "date_created": "01/12 1974",
-  "date_updated": "01/01 1975"
+  "date_created": "1974-12-01",
+  "date_updated": "1975-01-01"
 },{
   "_id": {
     "$oid": "65dd7fa7a8c14e75f9f250df"
@@ -1814,8 +1814,8 @@
   "title": "Pasión por el fútbol",
   "content": "Desde pequeño, he tenido una pasión profunda por el fútbol. El juego me ha dado momentos inolvidables y me ha permitido conectar con millones de personas en todo el mundo. Creo en el poder del fútbol para inspirar, unir y trascender barreras culturales.",
   "author": "lionel_messi_08",
-  "date_created": "24/06 1987",
-  "date_updated": "24/06 1987"
+  "date_created": "1987-06-24",
+  "date_updated": "1987-06-24"
 },{
   "_id": {
     "$oid": "65dd7fa7a8c14e75f9f250e0"
@@ -1823,8 +1823,8 @@
   "title": "El camino hacia la grandeza",
   "content": "Mi carrera en el fútbol ha sido un viaje de perseverancia, dedicación y sacrificio. Creo en la importancia del trabajo arduo y la determinación para alcanzar el éxito en cualquier campo de la vida.",
   "author": "lionel_messi_08",
-  "date_created": "29/06 1987",
-  "date_updated": "29/06 1987"
+  "date_created": "1987-06-29",
+  "date_updated": "1987-06-29"
 },{
   "_id": {
     "$oid": "65dd7fa7a8c14e75f9f250e1"
@@ -1832,8 +1832,8 @@
   "title": "El impacto del deporte en la sociedad",
   "content": "El deporte, y especialmente el fútbol, tiene el poder de inspirar y transformar vidas. Creo en la importancia de promover valores como el trabajo en equipo, la disciplina y la superación personal a través del deporte.",
   "author": "lionel_messi_08",
-  "date_created": "04/07 1987",
-  "date_updated": "04/08 1987"
+  "date_created": "1987-07-04",
+  "date_updated": "1987-08-04"
 },{
   "_id": {
     "$oid": "65dd7fa7a8c14e75f9f250e2"
@@ -1841,8 +1841,8 @@
   "title": "Representando a mi país",
   "content": "Es un honor representar a Argentina en el escenario mundial del fútbol. Creo en la responsabilidad de los atletas para inspirar y unir a sus compatriotas a través de su desempeño en la cancha.",
   "author": "lionel_messi_08",
-  "date_created": "09/07 1987",
-  "date_updated": "09/08 1987"
+  "date_created": "1987-07-09",
+  "date_updated": "1987-08-09"
 },{
   "_id": {
     "$oid": "65dd7fa7a8c14e75f9f250e3"
@@ -1850,8 +1850,8 @@
   "title": "Un legado en el deporte",
   "content": "Espero que mi carrera en el fútbol inspire a las generaciones futuras a perseguir sus sueños con pasión y determinación. Creo en el poder del deporte para cambiar vidas y crear un mundo mejor para todos.",
   "author": "lionel_messi_08",
-  "date_created": "14/07 1987",
-  "date_updated": "14/08 1987"
+  "date_created": "1987-07-14",
+  "date_updated": "1987-08-14"
 },{
   "_id": {
     "$oid": "65dd7fcba8c14e75f9f250e5"
@@ -1859,8 +1859,8 @@
   "title": "La lucha por la libertad",
   "content": "He dedicado mi vida a la lucha por la libertad y la justicia en la India. Creo en la resistencia no violenta como un medio poderoso para el cambio social y la transformación pacífica.",
   "author": "mahatma_gandhi_10",
-  "date_created": "02/10 1869",
-  "date_updated": "02/10 1869"
+  "date_created": "1869-10-02",
+  "date_updated": "1869-10-02"
 },{
   "_id": {
     "$oid": "65dd7fcba8c14e75f9f250e6"
@@ -1868,8 +1868,8 @@
   "title": "La no violencia como principio",
   "content": "La no violencia es el principio fundamental en el que baso mis acciones y creencias. Creo en la capacidad de la resistencia pacífica para desafiar la opresión y construir un mundo más justo y equitativo.",
   "author": "mahatma_gandhi_10",
-  "date_created": "07/10 1869",
-  "date_updated": "07/10 1869"
+  "date_created": "1869-10-07",
+  "date_updated": "1869-10-07"
 },{
   "_id": {
     "$oid": "65dd7fcba8c14e75f9f250e7"
@@ -1877,8 +1877,8 @@
   "title": "El poder de la protesta pacífica",
   "content": "He liderado numerosas protestas y movimientos de resistencia pacífica en mi lucha por la independencia de la India y los derechos humanos. Creo en el poder de la acción colectiva para lograr cambios significativos en la sociedad.",
   "author": "mahatma_gandhi_10",
-  "date_created": "12/10 1869",
-  "date_updated": "12/11 1869"
+  "date_created": "1869-10-12",
+  "date_updated": "1869-11-12"
 },{
   "_id": {
     "$oid": "65dd7fcba8c14e75f9f250e8"
@@ -1886,8 +1886,8 @@
   "title": "La importancia de la autodisciplina",
   "content": "La autodisciplina es esencial en mi camino hacia la verdad y la no violencia. Creo en la importancia de dominar los propios impulsos y deseos para vivir una vida ética y significativa.",
   "author": "mahatma_gandhi_10",
-  "date_created": "17/10 1869",
-  "date_updated": "17/11 1869"
+  "date_created": "1869-10-17",
+  "date_updated": "1869-11-17"
 },{
   "_id": {
     "$oid": "65dd7fcba8c14e75f9f250e9"
@@ -1895,8 +1895,8 @@
   "title": "La unidad en la diversidad",
   "content": "Promuevo la unidad en la diversidad y la tolerancia hacia todas las religiones y culturas. Creo en la importancia de celebrar nuestras diferencias y encontrar puntos en común para trabajar juntos por un mundo más pacífico y armonioso.",
   "author": "mahatma_gandhi_10",
-  "date_created": "22/10 1869",
-  "date_updated": "22/11 1869"
+  "date_created": "1869-10-22",
+  "date_updated": "1869-11-22"
 },{
   "_id": {
     "$oid": "65dd7fe9a8c14e75f9f250eb"
@@ -1904,8 +1904,8 @@
   "title": "La%20lucha%20por%20la%20educaci%C3%B3n%20de%20las%20ni%C3%B1as",
   "content": "He%20dedicado%20mi%20vida%20a%20la%20lucha%20por%20el%20derecho%20a%20la%20educaci%C3%B3n%20de%20las%20ni%C3%B1as%20en%20todo%20el%20mundo.%20Creo%20en%20la%20importancia%20de%20empoderar%20a%20las%20mujeres%20a%20trav%C3%A9s%20del%20conocimiento%20y%20la%20educaci%C3%B3n%20para%20construir%20un%20futuro%20mejor%20para%20todos.%20EDITADO",
   "author": "malala_yousafzai_04",
-  "date_created": "12/07 1997",
-  "date_updated": "28/02 2024"
+  "date_created": "1997-07-12",
+  "date_updated": "2024-02-28"
 },{
   "_id": {
     "$oid": "65dd7fe9a8c14e75f9f250ed"
@@ -1913,8 +1913,8 @@
   "title": "Resistencia frente a la adversidad",
   "content": "A pesar de los desafíos y las amenazas que he enfrentado, sigo comprometida con mi causa y con la lucha por los derechos de las mujeres y las niñas. Creo en la resiliencia y la determinación para superar la adversidad.",
   "author": "malala_yousafzai_04",
-  "date_created": "22/07 1997",
-  "date_updated": "22/08 1997"
+  "date_created": "1997-07-22",
+  "date_updated": "1997-08-22"
 },{
   "_id": {
     "$oid": "65dd7fe9a8c14e75f9f250ee"
@@ -1922,8 +1922,8 @@
   "title": "Educación como herramienta de empoderamiento",
   "content": "La educación es una poderosa herramienta de empoderamiento que puede transformar vidas y comunidades enteras. Creo en el acceso equitativo a la educación para todas las personas, independientemente de su género, origen étnico o situación económica.",
   "author": "malala_yousafzai_04",
-  "date_created": "27/07 1997",
-  "date_updated": "27/08 1997"
+  "date_created": "1997-07-27",
+  "date_updated": "1997-08-27"
 },{
   "_id": {
     "$oid": "65dd7fe9a8c14e75f9f250ef"
@@ -1931,8 +1931,8 @@
   "title": "Un llamado a la acción",
   "content": "Hago un llamado a la acción para que se tomen medidas concretas para garantizar que todas las niñas tengan acceso a una educación de calidad. Creo en la responsabilidad colectiva de construir un mundo más justo e igualitario para las generaciones futuras.",
   "author": "malala_yousafzai_04",
-  "date_created": "01/08 1997",
-  "date_updated": "01/09 1997"
+  "date_created": "1997-08-01",
+  "date_updated": "1997-09-01"
 },{
   "_id": {
     "$oid": "65dd8005a8c14e75f9f250f1"
@@ -1940,8 +1940,8 @@
   "title": "Liderazgo y determinación",
   "content": "Durante mi tiempo como primera ministra del Reino Unido, me esforcé por liderar con determinación y convicción. Creo en la importancia de tomar decisiones difíciles y defender principios sólidos para guiar a una nación hacia el progreso y la prosperidad.",
   "author": "margaret_thatcher_11",
-  "date_created": "13/10 1925",
-  "date_updated": "13/10 1925"
+  "date_created": "1925-10-13",
+  "date_updated": "1925-10-13"
 },{
   "_id": {
     "$oid": "65dd8005a8c14e75f9f250f2"
@@ -1949,8 +1949,8 @@
   "title": "Conservadurismo y reforma",
   "content": "Como líder conservadora, abogué por políticas de libre mercado, privatizaciones y reducción del tamaño del gobierno. Creo en la responsabilidad individual, la libre empresa y la competencia como motores del crecimiento económico y la innovación.",
   "author": "margaret_thatcher_11",
-  "date_created": "18/10 1925",
-  "date_updated": "18/10 1925"
+  "date_created": "1925-10-18",
+  "date_updated": "1925-10-18"
 },{
   "_id": {
     "$oid": "65dd8005a8c14e75f9f250f3"
@@ -1958,8 +1958,8 @@
   "title": "Defendiendo los intereses nacionales",
   "content": "Prioricé los intereses nacionales y la soberanía del Reino Unido en mi política exterior. Creo en la importancia de mantener una posición firme en la defensa de los intereses británicos en la arena internacional.",
   "author": "margaret_thatcher_11",
-  "date_created": "23/10 1925",
-  "date_updated": "23/11 1925"
+  "date_created": "1925-10-23",
+  "date_updated": "1925-11-23"
 },{
   "_id": {
     "$oid": "65dd8005a8c14e75f9f250f4"
@@ -1967,8 +1967,8 @@
   "title": "El legado de Thatcherismo",
   "content": "El Thatcherismo dejó un legado duradero en la política británica y en la economía global. Creo en la necesidad de un gobierno limitado, la responsabilidad fiscal y la promoción de la empresa privada como pilares de un sistema próspero y libre.",
   "author": "margaret_thatcher_11",
-  "date_created": "28/10 1925",
-  "date_updated": "28/11 1925"
+  "date_created": "1925-10-28",
+  "date_updated": "1925-11-28"
 },{
   "_id": {
     "$oid": "65dd8005a8c14e75f9f250f5"
@@ -1976,8 +1976,8 @@
   "title": "Valores conservadores",
   "content": "Me identifico con los valores conservadores de tradición, responsabilidad y respeto por la autoridad. Creo en la importancia de preservar las instituciones y las prácticas que han demostrado ser efectivas en el mantenimiento de la estabilidad y el orden social.",
   "author": "margaret_thatcher_11",
-  "date_created": "02/11 1925",
-  "date_updated": "02/12 1925"
+  "date_created": "1925-11-02",
+  "date_updated": "1925-12-02"
 },{
   "_id": {
     "$oid": "65dd8021a8c14e75f9f250f7"
@@ -1985,8 +1985,8 @@
   "title": "Pasión por la ciencia",
   "content": "Desde joven, he tenido una pasión ardiente por la ciencia y la investigación. Creo en el poder del conocimiento y la curiosidad para impulsar el progreso humano y resolver los grandes desafíos de nuestro tiempo.",
   "author": "marie_curie_11",
-  "date_created": "07/11 1867",
-  "date_updated": "07/11 1867"
+  "date_created": "1867-11-07",
+  "date_updated": "1867-11-07"
 },{
   "_id": {
     "$oid": "65dd8021a8c14e75f9f250f8"
@@ -1994,8 +1994,8 @@
   "title": "Descubrimiento del radio",
   "content": "Mi descubrimiento del radio revolucionó la medicina y la física, sentando las bases para la radioterapia moderna y la comprensión de la radiactividad. Creo en la importancia de la investigación científica para mejorar la vida de las personas y el mundo en general.",
   "author": "marie_curie_11",
-  "date_created": "12/11 1867",
-  "date_updated": "12/11 1867"
+  "date_created": "1867-11-12",
+  "date_updated": "1867-11-12"
 },{
   "_id": {
     "$oid": "65dd8021a8c14e75f9f250f9"
@@ -2003,8 +2003,8 @@
   "title": "Pionera en la ciencia",
   "content": "Como mujer en un campo dominado por hombres, enfrenté numerosos desafíos y prejuicios en mi carrera científica. Creo en la importancia de romper barreras y abrir camino para las generaciones futuras de científicas y científicos.",
   "author": "marie_curie_11",
-  "date_created": "17/11 1867",
-  "date_updated": "17/11 1867"
+  "date_created": "1867-11-17",
+  "date_updated": "1867-11-17"
 },{
   "_id": {
     "$oid": "65dd8021a8c14e75f9f250fa"
@@ -2012,8 +2012,8 @@
   "title": "Legado de la investigación",
   "content": "Mi legado científico sigue vivo en los avances en medicina y física que han surgido de mi trabajo. Creo en la importancia de la colaboración internacional y el intercambio de conocimientos para avanzar en la ciencia y la tecnología en beneficio de la humanidad.",
   "author": "marie_curie_11",
-  "date_created": "22/11 1867",
-  "date_updated": "22/11 1867"
+  "date_created": "1867-11-22",
+  "date_updated": "1867-11-22"
 },{
   "_id": {
     "$oid": "65dd8021a8c14e75f9f250fb"
@@ -2021,8 +2021,8 @@
   "title": "Inspiración para futuros científicos",
   "content": "Espero inspirar a las generaciones futuras a seguir su pasión por la ciencia y perseguir descubrimientos que transformen nuestro mundo. Creo en el potencial ilimitado de la mente humana para resolver los misterios del universo.",
   "author": "marie_curie_11",
-  "date_created": "27/11 1867",
-  "date_updated": "27/11 1867"
+  "date_created": "1867-11-27",
+  "date_updated": "1867-11-27"
 },{
   "_id": {
     "$oid": "65dd804fa8c14e75f9f250fd"
@@ -2030,8 +2030,8 @@
   "title": "La grandeza del baloncesto",
   "content": "He dedicado mi vida al baloncesto y al deporte en general. Creo en la importancia del trabajo duro, la dedicación y el compromiso para alcanzar la grandeza en cualquier campo de la vida.",
   "author": "michael_jordan_12",
-  "date_created": "17/02 1963",
-  "date_updated": "17/02 1963"
+  "date_created": "1963-02-17",
+  "date_updated": "1963-02-17"
 },{
   "_id": {
     "$oid": "65dd804fa8c14e75f9f250fe"
@@ -2039,8 +2039,8 @@
   "title": "El legado de Air Jordan",
   "content": "Mi marca 'Air Jordan' se ha convertido en un símbolo global de excelencia y determinación. Creo en la importancia de inspirar a otros a alcanzar sus sueños y superar los obstáculos en su camino hacia el éxito.",
   "author": "michael_jordan_12",
-  "date_created": "22/02 1963",
-  "date_updated": "22/02 1963"
+  "date_created": "1963-02-22",
+  "date_updated": "1963-02-22"
 },{
   "_id": {
     "$oid": "65dd804fa8c14e75f9f250ff"
@@ -2048,8 +2048,8 @@
   "title": "Mentalidad ganadora",
   "content": "Mantener una mentalidad ganadora y la capacidad de superar la adversidad son clave para alcanzar el éxito en cualquier ámbito de la vida. Creo en la importancia de la determinación y la perseverancia para alcanzar nuestras metas más ambiciosas.",
   "author": "michael_jordan_12",
-  "date_created": "27/02 1963",
-  "date_updated": "27/03 1963"
+  "date_created": "1963-02-27",
+  "date_updated": "1963-03-27"
 },{
   "_id": {
     "$oid": "65dd804fa8c14e75f9f25100"
@@ -2057,8 +2057,8 @@
   "title": "Impacto más allá del deporte",
   "content": "Mi influencia se extiende más allá del mundo del deporte, y me esfuerzo por ser un modelo a seguir para otros en términos de trabajo duro, ética y liderazgo. Creo en el poder del ejemplo para inspirar y motivar a las personas a alcanzar su máximo potencial.",
   "author": "michael_jordan_12",
-  "date_created": "04/03 1963",
-  "date_updated": "04/04 1963"
+  "date_created": "1963-03-04",
+  "date_updated": "1963-04-04"
 },{
   "_id": {
     "$oid": "65dd804fa8c14e75f9f25101"
@@ -2066,8 +2066,8 @@
   "title": "Lecciones del baloncesto",
   "content": "El baloncesto me ha enseñado valiosas lecciones sobre el trabajo en equipo, la disciplina y la superación personal. Creo en la importancia de aprender de nuestros fracasos y usarlos como oportunidades para crecer y mejorar.",
   "author": "michael_jordan_12",
-  "date_created": "09/03 1963",
-  "date_updated": "09/04 1963"
+  "date_created": "1963-03-09",
+  "date_updated": "1963-04-09"
 },{
   "_id": {
     "$oid": "65dd806da8c14e75f9f25103"
@@ -2075,8 +2075,8 @@
   "title": "La pasión por la natación",
   "content": "Desde una edad temprana, he sentido una pasión innata por la natación y la competición en el agua. Creo en el poder transformador del deporte para forjar el carácter, la disciplina y la determinación.",
   "author": "michael_phelps_11",
-  "date_created": "30/06 1985",
-  "date_updated": "30/06 1985"
+  "date_created": "1985-06-30",
+  "date_updated": "1985-06-30"
 },{
   "_id": {
     "$oid": "65dd806da8c14e75f9f25104"
@@ -2084,8 +2084,8 @@
   "title": "Récords mundiales y medallas olímpicas",
   "content": "A lo largo de mi carrera, he establecido numerosos récords mundiales y ganado un impresionante número de medallas olímpicas. Creo en la importancia del trabajo duro, la dedicación y la perseverancia para alcanzar la grandeza en cualquier campo.",
   "author": "michael_phelps_11",
-  "date_created": "05/07 1985",
-  "date_updated": "05/07 1985"
+  "date_created": "1985-07-05",
+  "date_updated": "1985-07-05"
 },{
   "_id": {
     "$oid": "65dd806da8c14e75f9f25105"
@@ -2093,8 +2093,8 @@
   "title": "Mentalidad competitiva",
   "content": "Mi mentalidad competitiva y mi capacidad para superar los desafíos han sido fundamentales para mi éxito en la natación. Creo en la importancia de la preparación mental y física para alcanzar el máximo rendimiento en el deporte y en la vida.",
   "author": "michael_phelps_11",
-  "date_created": "10/07 1985",
-  "date_updated": "10/08 1985"
+  "date_created": "1985-07-10",
+  "date_updated": "1985-08-10"
 },{
   "_id": {
     "$oid": "65dd806da8c14e75f9f25106"
@@ -2102,8 +2102,8 @@
   "title": "Inspirando a futuros nadadores",
   "content": "Espero inspirar a la próxima generación de nadadores a perseguir sus sueños y alcanzar el éxito en el deporte. Creo en el poder del ejemplo y en el impacto positivo que podemos tener en las vidas de los demás a través de nuestras acciones y logros.",
   "author": "michael_phelps_11",
-  "date_created": "15/07 1985",
-  "date_updated": "15/08 1985"
+  "date_created": "1985-07-15",
+  "date_updated": "1985-08-15"
 },{
   "_id": {
     "$oid": "65dd806da8c14e75f9f25107"
@@ -2111,8 +2111,8 @@
   "title": "Superando obstáculos",
   "content": "He enfrentado y superado numerosos obstáculos en mi vida y mi carrera deportiva. Creo en la importancia de la resiliencia y la determinación para superar los desafíos y alcanzar nuestras metas más ambiciosas.",
   "author": "michael_phelps_11",
-  "date_created": "20/07 1985",
-  "date_updated": "20/08 1985"
+  "date_created": "1985-07-20",
+  "date_updated": "1985-08-20"
 },{
   "_id": {
     "$oid": "65dd8102a8c14e75f9f25109"
@@ -2120,8 +2120,8 @@
   "title": "La pasión por la natación",
   "content": "Desde una edad temprana, he sentido una pasión innata por la natación y la competición en el agua. Creo en el poder transformador del deporte para forjar el carácter, la disciplina y la determinación.",
   "author": "michael_phelps_11",
-  "date_created": "30/06 1985",
-  "date_updated": "30/06 1985"
+  "date_created": "1985-06-30",
+  "date_updated": "1985-06-30"
 },{
   "_id": {
     "$oid": "65dd8102a8c14e75f9f2510a"
@@ -2129,8 +2129,8 @@
   "title": "Récords mundiales y medallas olímpicas",
   "content": "A lo largo de mi carrera, he establecido numerosos récords mundiales y ganado un impresionante número de medallas olímpicas. Creo en la importancia del trabajo duro, la dedicación y la perseverancia para alcanzar la grandeza en cualquier campo.",
   "author": "michael_phelps_11",
-  "date_created": "05/07 1985",
-  "date_updated": "05/07 1985"
+  "date_created": "1985-07-05",
+  "date_updated": "1985-07-05"
 },{
   "_id": {
     "$oid": "65dd8102a8c14e75f9f2510b"
@@ -2138,8 +2138,8 @@
   "title": "Mentalidad competitiva",
   "content": "Mi mentalidad competitiva y mi capacidad para superar los desafíos han sido fundamentales para mi éxito en la natación. Creo en la importancia de la preparación mental y física para alcanzar el máximo rendimiento en el deporte y en la vida.",
   "author": "michael_phelps_11",
-  "date_created": "10/07 1985",
-  "date_updated": "10/08 1985"
+  "date_created": "1985-07-10",
+  "date_updated": "1985-08-10"
 },{
   "_id": {
     "$oid": "65dd8102a8c14e75f9f2510c"
@@ -2147,8 +2147,8 @@
   "title": "Inspirando a futuros nadadores",
   "content": "Espero inspirar a la próxima generación de nadadores a perseguir sus sueños y alcanzar el éxito en el deporte. Creo en el poder del ejemplo y en el impacto positivo que podemos tener en las vidas de los demás a través de nuestras acciones y logros.",
   "author": "michael_phelps_11",
-  "date_created": "15/07 1985",
-  "date_updated": "15/08 1985"
+  "date_created": "1985-07-15",
+  "date_updated": "1985-08-15"
 },{
   "_id": {
     "$oid": "65dd8102a8c14e75f9f2510d"
@@ -2156,8 +2156,8 @@
   "title": "Superando obstáculos",
   "content": "He enfrentado y superado numerosos obstáculos en mi vida y mi carrera deportiva. Creo en la importancia de la resiliencia y la determinación para superar los desafíos y alcanzar nuestras metas más ambiciosas.",
   "author": "michael_phelps_11",
-  "date_created": "20/07 1985",
-  "date_updated": "20/08 1985"
+  "date_created": "1985-07-20",
+  "date_updated": "1985-08-20"
 },{
   "_id": {
     "$oid": "65dd8123a8c14e75f9f2510f"
@@ -2165,8 +2165,8 @@
   "title": "La importancia de contar historias",
   "content": "Creo en el poder de contar historias como una forma de conectar con los demás y transmitir mensajes importantes. A lo largo de mi carrera, he tenido el privilegio de dar vida a personajes memorables y compartir historias que resuenan con el público.",
   "author": "morgan_freeman_05",
-  "date_created": "01/06 1937",
-  "date_updated": "01/06 1937"
+  "date_created": "1937-06-01",
+  "date_updated": "1937-06-01"
 },{
   "_id": {
     "$oid": "65dd8123a8c14e75f9f25110"
@@ -2174,8 +2174,8 @@
   "title": "Explorando la condición humana",
   "content": "Como actor, me apasiona explorar la complejidad de la condición humana y dar voz a las experiencias compartidas que nos unen a todos. Creo en la importancia de la empatía y la comprensión para construir puentes entre las personas y promover la unidad en la diversidad.",
   "author": "morgan_freeman_05",
-  "date_created": "06/06 1937",
-  "date_updated": "06/06 1937"
+  "date_created": "1937-06-06",
+  "date_updated": "1937-06-06"
 },{
   "_id": {
     "$oid": "65dd8123a8c14e75f9f25111"
@@ -2183,8 +2183,8 @@
   "title": "Un legado en la pantalla",
   "content": "Espero que mi trabajo en el cine inspire a otros a perseguir sus pasiones y seguir sus sueños. Creo en el poder transformador del arte para elevarnos y enriquecer nuestras vidas de formas inesperadas.",
   "author": "morgan_freeman_05",
-  "date_created": "11/06 1937",
-  "date_updated": "11/07 1937"
+  "date_created": "1937-06-11",
+  "date_updated": "1937-07-11"
 },{
   "_id": {
     "$oid": "65dd8123a8c14e75f9f25112"
@@ -2192,8 +2192,8 @@
   "title": "Narración como arte",
   "content": "La narración es un arte antiguo que tiene el poder de cautivar, educar y conmover al público. Creo en la importancia de honrar y preservar esta forma de expresión para las generaciones futuras.",
   "author": "morgan_freeman_05",
-  "date_created": "16/06 1937",
-  "date_updated": "16/07 1937"
+  "date_created": "1937-06-16",
+  "date_updated": "1937-07-16"
 },{
   "_id": {
     "$oid": "65dd8123a8c14e75f9f25113"
@@ -2201,8 +2201,8 @@
   "title": "La voz de la experiencia",
   "content": "Con los años, he acumulado una riqueza de experiencias y aprendizajes que espero compartir con otros. Creo en el valor de la sabiduría y la perspectiva de la edad para guiar nuestras acciones y decisiones en la vida.",
   "author": "morgan_freeman_05",
-  "date_created": "21/06 1937",
-  "date_updated": "21/07 1937"
+  "date_created": "1937-06-21",
+  "date_updated": "1937-07-21"
 },{
   "_id": {
     "$oid": "65dd8148a8c14e75f9f25115"
@@ -2210,8 +2210,8 @@
   "title": "El más grande",
   "content": "Soy el más grande, lo dije incluso antes de saber que lo era. Creo en la importancia de tener confianza en uno mismo y en visualizar el éxito antes de que suceda.",
   "author": "muhammad_ali_07",
-  "date_created": "17/01 1942",
-  "date_updated": "17/01 1942"
+  "date_created": "1942-01-17",
+  "date_updated": "1942-01-17"
 },{
   "_id": {
     "$oid": "65dd8148a8c14e75f9f25116"
@@ -2219,8 +2219,8 @@
   "title": "El poder del boxeo",
   "content": "El boxeo es más que un deporte, es una metáfora de la vida. En el ring, aprendí lecciones de disciplina, resiliencia y determinación que me han servido fuera de él. Creo en la importancia de enfrentar los desafíos con coraje y determinación.",
   "author": "muhammad_ali_07",
-  "date_created": "22/01 1942",
-  "date_updated": "22/01 1942"
+  "date_created": "1942-01-22",
+  "date_updated": "1942-01-22"
 },{
   "_id": {
     "$oid": "65dd8148a8c14e75f9f25117"
@@ -2228,8 +2228,8 @@
   "title": "Luchando por la justicia",
   "content": "Fuera del ring, luché por la justicia y la igualdad de derechos para todos. Creo en el poder de la protesta pacífica y la defensa de los valores fundamentales de libertad y justicia para todos los seres humanos.",
   "author": "muhammad_ali_07",
-  "date_created": "27/01 1942",
-  "date_updated": "27/01 1942"
+  "date_created": "1942-01-27",
+  "date_updated": "1942-01-27"
 },{
   "_id": {
     "$oid": "65dd8148a8c14e75f9f25118"
@@ -2237,8 +2237,8 @@
   "title": "Inspirando a otros",
   "content": "Espero inspirar a otros a seguir sus sueños y a luchar por lo que creen. Creo en el potencial ilimitado del ser humano para lograr grandes cosas cuando se compromete con una causa noble.",
   "author": "muhammad_ali_07",
-  "date_created": "01/02 1942",
-  "date_updated": "01/03 1942"
+  "date_created": "1942-02-01",
+  "date_updated": "1942-03-01"
 },{
   "_id": {
     "$oid": "65dd8148a8c14e75f9f25119"
@@ -2246,8 +2246,8 @@
   "title": "Legado perdurable",
   "content": "Mi legado perdurará mucho después de que haya dejado este mundo. Creo en la importancia de dejar una huella positiva en la historia y en el impacto duradero que podemos tener en las vidas de los demás.",
   "author": "muhammad_ali_07",
-  "date_created": "06/02 1942",
-  "date_updated": "06/03 1942"
+  "date_created": "1942-02-06",
+  "date_updated": "1942-03-06"
 },{
   "_id": {
     "$oid": "65dd81b9a8c14e75f9f2511b"
@@ -2255,8 +2255,8 @@
   "title": "Pasión por el cine",
   "content": "Desde que era niña, he sentido una profunda pasión por el cine y las artes escénicas. Creo en el poder del arte para inspirar, educar y transformar el mundo que nos rodea.",
   "author": "natalie_portman_09",
-  "date_created": "09/06 1981",
-  "date_updated": "09/06 1981"
+  "date_created": "1981-06-09",
+  "date_updated": "1981-06-09"
 },{
   "_id": {
     "$oid": "65dd81b9a8c14e75f9f2511c"
@@ -2264,8 +2264,8 @@
   "title": "Explorando la psicología humana",
   "content": "Como actriz, me apasiona explorar la complejidad de la psicología humana a través de mis personajes. Creo en la importancia de contar historias auténticas y profundas que resuenen con la audiencia.",
   "author": "natalie_portman_09",
-  "date_created": "14/06 1981",
-  "date_updated": "14/06 1981"
+  "date_created": "1981-06-14",
+  "date_updated": "1981-06-14"
 },{
   "_id": {
     "$oid": "65dd81b9a8c14e75f9f2511d"
@@ -2273,8 +2273,8 @@
   "title": "Compromiso con el activismo",
   "content": "Además de mi carrera en el cine, me comprometo con diversas causas sociales y medioambientales. Creo en el poder de la voz pública para crear conciencia y promover el cambio positivo en el mundo.",
   "author": "natalie_portman_09",
-  "date_created": "19/06 1981",
-  "date_updated": "19/07 1981"
+  "date_created": "1981-06-19",
+  "date_updated": "1981-07-19"
 },{
   "_id": {
     "$oid": "65dd81b9a8c14e75f9f2511e"
@@ -2282,8 +2282,8 @@
   "title": "Educación y empoderamiento",
   "content": "Creo en la importancia de la educación y el empoderamiento de las mujeres y las niñas en todo el mundo. Trabajo activamente para promover la igualdad de género y proporcionar oportunidades de aprendizaje para todos.",
   "author": "natalie_portman_09",
-  "date_created": "24/06 1981",
-  "date_updated": "24/07 1981"
+  "date_created": "1981-06-24",
+  "date_updated": "1981-07-24"
 },{
   "_id": {
     "$oid": "65dd81b9a8c14e75f9f2511f"
@@ -2291,8 +2291,8 @@
   "title": "Arte como medio de expresión",
   "content": "El arte es un poderoso medio de expresión que puede trascender barreras y unir a las personas de diversas culturas y experiencias. Creo en la importancia de fomentar la creatividad y la libre expresión en nuestra sociedad.",
   "author": "natalie_portman_09",
-  "date_created": "29/06 1981",
-  "date_updated": "29/07 1981"
+  "date_created": "1981-06-29",
+  "date_updated": "1981-07-29"
 },{
   "_id": {
     "$oid": "65dd81dea8c14e75f9f25121"
@@ -2300,8 +2300,8 @@
   "title": "Explorando el universo",
   "content": "Como astrofísico, he dedicado mi vida a explorar y comprender el vasto universo que nos rodea. Creo en la importancia de la ciencia y la investigación para expandir nuestro conocimiento del cosmos y nuestro lugar en él.",
   "author": "neil_tyson_02",
-  "date_created": "05/10 1958",
-  "date_updated": "05/10 1958"
+  "date_created": "1958-10-05",
+  "date_updated": "1958-10-05"
 },{
   "_id": {
     "$oid": "65dd81dea8c14e75f9f25122"
@@ -2309,8 +2309,8 @@
   "title": "Popularizando la ciencia",
   "content": "Me esfuerzo por hacer que la ciencia sea accesible y comprensible para todos a través de mi trabajo en divulgación científica. Creo en la importancia de educar y motivar a las personas para que se interesen por el mundo natural y las maravillas del universo.",
   "author": "neil_tyson_02",
-  "date_created": "10/10 1958",
-  "date_updated": "10/10 1958"
+  "date_created": "1958-10-10",
+  "date_updated": "1958-10-10"
 },{
   "_id": {
     "$oid": "65dd81dea8c14e75f9f25123"
@@ -2318,8 +2318,8 @@
   "title": "Curiosidad y descubrimiento",
   "content": "La curiosidad es el motor que impulsa el descubrimiento científico. Creo en la importancia de fomentar la curiosidad y el pensamiento crítico en todos los aspectos de la vida para promover el progreso y la innovación.",
   "author": "neil_tyson_02",
-  "date_created": "15/10 1958",
-  "date_updated": "15/11 1958"
+  "date_created": "1958-10-15",
+  "date_updated": "1958-11-15"
 },{
   "_id": {
     "$oid": "65dd81dea8c14e75f9f25124"
@@ -2327,8 +2327,8 @@
   "title": "Perspectiva cósmica",
   "content": "Adoptar una perspectiva cósmica nos ayuda a apreciar la belleza y la complejidad del universo y nuestro lugar en él. Creo en la importancia de contemplar nuestra existencia en el contexto más amplio del cosmos para ganar una comprensión más profunda de nosotros mismos.",
   "author": "neil_tyson_02",
-  "date_created": "20/10 1958",
-  "date_updated": "20/11 1958"
+  "date_created": "1958-10-20",
+  "date_updated": "1958-11-20"
 },{
   "_id": {
     "$oid": "65dd81dea8c14e75f9f25125"
@@ -2336,8 +2336,8 @@
   "title": "Desafiando las fronteras del conocimiento",
   "content": "Como científico, me emociona desafiar las fronteras del conocimiento y descubrir nuevas ideas y fenómenos en el universo. Creo en la importancia de mantener una mente abierta y estar dispuesto a cuestionar nuestras suposiciones para avanzar en nuestra comprensión del mundo.",
   "author": "neil_tyson_02",
-  "date_created": "25/10 1958",
-  "date_updated": "25/11 1958"
+  "date_created": "1958-10-25",
+  "date_updated": "1958-11-25"
 },{
   "_id": {
     "$oid": "65dd81fda8c14e75f9f25127"
@@ -2345,8 +2345,8 @@
   "title": "Luchando por la libertad",
   "content": "He dedicado mi vida a luchar por la libertad, la justicia y la igualdad en Sudáfrica y en todo el mundo. Creo en el poder del pueblo para impulsar el cambio y derribar las barreras que nos dividen.",
   "author": "nelson_mandela_06",
-  "date_created": "18/07 1918",
-  "date_updated": "18/07 1918"
+  "date_created": "1918-07-18",
+  "date_updated": "1918-07-18"
 },{
   "_id": {
     "$oid": "65dd81fda8c14e75f9f25128"
@@ -2354,8 +2354,8 @@
   "title": "El camino hacia la reconciliación",
   "content": "Después de años de opresión y apartheid, Sudáfrica se embarcó en un camino hacia la reconciliación y la paz. Creo en la importancia de perdonar y trabajar juntos para construir un futuro mejor para todos los ciudadanos.",
   "author": "nelson_mandela_06",
-  "date_created": "23/07 1918",
-  "date_updated": "23/07 1918"
+  "date_created": "1918-07-23",
+  "date_updated": "1918-07-23"
 },{
   "_id": {
     "$oid": "65dd81fda8c14e75f9f25129"
@@ -2363,8 +2363,8 @@
   "title": "Inspirando esperanza",
   "content": "Espero inspirar esperanza y empoderar a aquellos que luchan por la libertad y la justicia en todo el mundo. Creo en el poder de la resistencia pacífica y la perseverancia para superar la adversidad y crear un mundo más justo y equitativo.",
   "author": "nelson_mandela_06",
-  "date_created": "28/07 1918",
-  "date_updated": "28/08 1918"
+  "date_created": "1918-07-28",
+  "date_updated": "1918-08-28"
 },{
   "_id": {
     "$oid": "65dd81fda8c14e75f9f2512a"
@@ -2372,8 +2372,8 @@
   "title": "El legado de Madiba",
   "content": "Mi legado es el de un hombre que luchó incansablemente por la libertad y la dignidad humana. Creo en la importancia de continuar mi trabajo y mantener viva la llama de la esperanza para las generaciones futuras.",
   "author": "nelson_mandela_06",
-  "date_created": "02/08 1918",
-  "date_updated": "02/09 1918"
+  "date_created": "1918-08-02",
+  "date_updated": "1918-09-02"
 },{
   "_id": {
     "$oid": "65dd81fda8c14e75f9f2512b"
@@ -2381,8 +2381,8 @@
   "title": "Unidad en la diversidad",
   "content": "Sudáfrica ha demostrado al mundo que la unidad en la diversidad es posible. Creo en la importancia de celebrar nuestras diferencias y trabajar juntos para construir un mundo donde todos sean tratados con igualdad y respeto.",
   "author": "nelson_mandela_06",
-  "date_created": "07/08 1918",
-  "date_updated": "07/09 1918"
+  "date_created": "1918-08-07",
+  "date_updated": "1918-09-07"
 },{
   "_id": {
     "$oid": "65dd8219a8c14e75f9f2512d"
@@ -2390,8 +2390,8 @@
   "title": "El poder de la empatía",
   "content": "Creo en el poder de la empatía para transformar vidas y construir un mundo más compasivo. A lo largo de mi carrera, he buscado dar voz a aquellos cuyas historias no suelen ser escuchadas y promover la comprensión entre las personas.",
   "author": "oprah_winfrey_03",
-  "date_created": "29/01 1954",
-  "date_updated": "29/01 1954"
+  "date_created": "1954-01-29",
+  "date_updated": "1954-01-29"
 },{
   "_id": {
     "$oid": "65dd8219a8c14e75f9f2512e"
@@ -2399,8 +2399,8 @@
   "title": "Inspirando a otros",
   "content": "Uno de mis mayores objetivos es inspirar a otros a alcanzar su máximo potencial y perseguir sus sueños. Creo en la importancia de fomentar la autoestima y la confianza en uno mismo para lograr el éxito y la felicidad en la vida.",
   "author": "oprah_winfrey_03",
-  "date_created": "03/02 1954",
-  "date_updated": "03/02 1954"
+  "date_created": "1954-02-03",
+  "date_updated": "1954-02-03"
 },{
   "_id": {
     "$oid": "65dd8219a8c14e75f9f2512f"
@@ -2408,8 +2408,8 @@
   "title": "La búsqueda de la verdad",
   "content": "Como periodista, siempre he creído en la importancia de buscar la verdad y contar historias honestas y significativas. Creo en el poder de la información para educar, informar y empoderar a las personas.",
   "author": "oprah_winfrey_03",
-  "date_created": "08/02 1954",
-  "date_updated": "08/03 1954"
+  "date_created": "1954-02-08",
+  "date_updated": "1954-03-08"
 },{
   "_id": {
     "$oid": "65dd8219a8c14e75f9f25130"
@@ -2417,8 +2417,8 @@
   "title": "Compromiso con el cambio",
   "content": "Me comprometo a utilizar mi plataforma para abogar por el cambio positivo en el mundo. Creo en la responsabilidad de aquellos con influencia para hacer del mundo un lugar mejor para todos, especialmente para aquellos que más lo necesitan.",
   "author": "oprah_winfrey_03",
-  "date_created": "13/02 1954",
-  "date_updated": "13/03 1954"
+  "date_created": "1954-02-13",
+  "date_updated": "1954-03-13"
 },{
   "_id": {
     "$oid": "65dd8219a8c14e75f9f25131"
@@ -2426,8 +2426,8 @@
   "title": "Celebrando la diversidad",
   "content": "La diversidad es una fortaleza que enriquece nuestras comunidades y nuestro mundo. Creo en la importancia de celebrar y valorar las diferencias entre las personas y trabajar juntos para construir un futuro más inclusivo y equitativo.",
   "author": "oprah_winfrey_03",
-  "date_created": "18/02 1954",
-  "date_updated": "18/03 1954"
+  "date_created": "1954-02-18",
+  "date_updated": "1954-03-18"
 },{
   "_id": {
     "$oid": "65dd8268a8c14e75f9f25133"
@@ -2435,8 +2435,8 @@
   "title": "Pasión por el tenis",
   "content": "Desde que era niño, he sentido una profunda pasión por el tenis y el deporte en general. Creo en el poder del trabajo duro, la disciplina y la determinación para alcanzar el éxito en la cancha y en la vida.",
   "author": "rafael_nadal_04",
-  "date_created": "03/06 1986",
-  "date_updated": "03/06 1986"
+  "date_created": "1986-06-03",
+  "date_updated": "1986-06-03"
 },{
   "_id": {
     "$oid": "65dd8268a8c14e75f9f25134"
@@ -2444,8 +2444,8 @@
   "title": "Valores de esfuerzo y sacrificio",
   "content": "Para mí, el tenis es mucho más que un juego; es una forma de vida. Valoro el esfuerzo y el sacrificio que se requieren para competir al más alto nivel y estoy comprometido a dar siempre lo mejor de mí mismo en cada partido.",
   "author": "rafael_nadal_04",
-  "date_created": "08/06 1986",
-  "date_updated": "08/06 1986"
+  "date_created": "1986-06-08",
+  "date_updated": "1986-06-08"
 },{
   "_id": {
     "$oid": "65dd8268a8c14e75f9f25135"
@@ -2453,8 +2453,8 @@
   "title": "Mentalidad ganadora",
   "content": "Mantener una mentalidad ganadora es fundamental para tener éxito en el tenis y en cualquier otro aspecto de la vida. Creo en la importancia de mantenerse enfocado, positivo y resiliente ante los desafíos que se presentan en el camino.",
   "author": "rafael_nadal_04",
-  "date_created": "13/06 1986",
-  "date_updated": "13/07 1986"
+  "date_created": "1986-06-13",
+  "date_updated": "1986-07-13"
 },{
   "_id": {
     "$oid": "65dd8268a8c14e75f9f25136"
@@ -2462,8 +2462,8 @@
   "title": "Honestidad y humildad",
   "content": "La honestidad y la humildad son valores que considero fundamentales tanto dentro como fuera de la cancha. Creo en la importancia de mantener la integridad y la ética en todo lo que hago, y en tratar a los demás con respeto y dignidad.",
   "author": "rafael_nadal_04",
-  "date_created": "18/06 1986",
-  "date_updated": "18/07 1986"
+  "date_created": "1986-06-18",
+  "date_updated": "1986-07-18"
 },{
   "_id": {
     "$oid": "65dd8268a8c14e75f9f25137"
@@ -2471,8 +2471,8 @@
   "title": "Inspirando a futuras generaciones",
   "content": "Uno de mis mayores deseos es inspirar a las futuras generaciones de tenistas y deportistas a seguir sus sueños y perseguir la excelencia. Creo en el poder del ejemplo y estoy comprometido a ser un modelo a seguir positivo para aquellos que me siguen.",
   "author": "rafael_nadal_04",
-  "date_created": "23/06 1986",
-  "date_updated": "23/07 1986"
+  "date_created": "1986-06-23",
+  "date_updated": "1986-07-23"
 },{
   "_id": {
     "$oid": "65dd8297a8c14e75f9f25139"
@@ -2480,8 +2480,8 @@
   "title": "Dominando la cancha",
   "content": "Desde que era una niña, he estado enamorada del tenis y he trabajado incansablemente para dominar mi juego. Creo en la importancia del entrenamiento duro y la determinación para alcanzar el éxito en la cancha.",
   "author": "serena_williams_06",
-  "date_created": "26/09 1981",
-  "date_updated": "26/09 1981"
+  "date_created": "1981-09-26",
+  "date_updated": "1981-09-26"
 },{
   "_id": {
     "$oid": "65dd8297a8c14e75f9f2513a"
@@ -2489,8 +2489,8 @@
   "title": "Superando desafíos",
   "content": "A lo largo de mi carrera, he enfrentado numerosos desafíos y obstáculos, pero siempre he mantenido mi determinación y mi mentalidad ganadora. Creo en la importancia de superar la adversidad y perseverar en busca de tus sueños.",
   "author": "serena_williams_06",
-  "date_created": "01/10 1981",
-  "date_updated": "01/10 1981"
+  "date_created": "1981-10-01",
+  "date_updated": "1981-10-01"
 },{
   "_id": {
     "$oid": "65dd8297a8c14e75f9f2513b"
@@ -2498,8 +2498,8 @@
   "title": "Inspirando a otros",
   "content": "Uno de mis mayores objetivos es inspirar a otras mujeres y personas de color a seguir sus sueños y alcanzar sus metas, independientemente de los obstáculos que enfrenten. Creo en el poder del ejemplo para motivar y empoderar a los demás.",
   "author": "serena_williams_06",
-  "date_created": "06/10 1981",
-  "date_updated": "06/11 1981"
+  "date_created": "1981-10-06",
+  "date_updated": "1981-11-06"
 },{
   "_id": {
     "$oid": "65dd8297a8c14e75f9f2513c"
@@ -2507,8 +2507,8 @@
   "title": "Forjando mi legado",
   "content": "Espero dejar un legado duradero en el mundo del tenis y más allá, inspirando a futuras generaciones a seguir sus pasiones y perseguir la grandeza. Creo en la importancia de dejar tu huella en el mundo y hacer una diferencia positiva en la vida de los demás.",
   "author": "serena_williams_06",
-  "date_created": "11/10 1981",
-  "date_updated": "11/11 1981"
+  "date_created": "1981-10-11",
+  "date_updated": "1981-11-11"
 },{
   "_id": {
     "$oid": "65dd8297a8c14e75f9f2513d"
@@ -2516,8 +2516,8 @@
   "title": "Celebrando la diversidad en el deporte",
   "content": "Como una de las tenistas más exitosas de todos los tiempos, me enorgullece representar la diversidad en el deporte y ser un modelo a seguir para personas de todas las razas y orígenes. Creo en la importancia de la inclusión y la igualdad en el tenis y en la sociedad en general.",
   "author": "serena_williams_06",
-  "date_created": "16/10 1981",
-  "date_updated": "16/11 1981"
+  "date_created": "1981-10-16",
+  "date_updated": "1981-11-16"
 },{
   "_id": {
     "$oid": "65dd82dba8c14e75f9f2513f"
@@ -2525,8 +2525,8 @@
   "title": "El deber del ciudadano",
   "content": "Creo firmemente en el deber del ciudadano de participar activamente en la vida política y cívica de su país. Todos tenemos la responsabilidad de contribuir al bienestar de nuestra sociedad y defender los valores democráticos.",
   "author": "theodore_roosevelt_06",
-  "date_created": "27/10 1858",
-  "date_updated": "27/10 1858"
+  "date_created": "1858-10-27",
+  "date_updated": "1858-10-27"
 },{
   "_id": {
     "$oid": "65dd82dba8c14e75f9f25140"
@@ -2534,8 +2534,8 @@
   "title": "Conservación ambiental",
   "content": "Durante mi presidencia, establecí numerosos parques nacionales y reservas naturales para proteger nuestro precioso patrimonio natural. Creo en la importancia de la conservación ambiental y la protección de la biodiversidad para las generaciones futuras.",
   "author": "theodore_roosevelt_06",
-  "date_created": "01/11 1858",
-  "date_updated": "01/11 1858"
+  "date_created": "1858-11-01",
+  "date_updated": "1858-11-01"
 },{
   "_id": {
     "$oid": "65dd82dba8c14e75f9f25141"
@@ -2543,8 +2543,8 @@
   "title": "Paz y diplomacia",
   "content": "Como presidente, trabajé incansablemente para promover la paz y resolver conflictos internacionales a través de la diplomacia y el arbitraje. Creo en la importancia de la cooperación internacional y el diálogo para prevenir conflictos y mantener la estabilidad mundial.",
   "author": "theodore_roosevelt_06",
-  "date_created": "06/11 1858",
-  "date_updated": "06/12 1858"
+  "date_created": "1858-11-06",
+  "date_updated": "1858-12-06"
 },{
   "_id": {
     "$oid": "65dd82dba8c14e75f9f25142"
@@ -2552,8 +2552,8 @@
   "title": "Justicia social",
   "content": "Durante mi mandato, me comprometí a combatir la corrupción y abogar por la justicia social, incluyendo la protección de los derechos de los trabajadores y la regulación de los monopolios. Creo en la importancia de un gobierno honesto y progresista para garantizar la igualdad de oportunidades para todos los ciudadanos.",
   "author": "theodore_roosevelt_06",
-  "date_created": "11/11 1858",
-  "date_updated": "11/12 1858"
+  "date_created": "1858-11-11",
+  "date_updated": "1858-12-11"
 },{
   "_id": {
     "$oid": "65dd82dba8c14e75f9f25143"
@@ -2561,6 +2561,6 @@
   "title": "El legado de un líder",
   "content": "Espero que mi legado inspire a futuras generaciones de líderes a servir con integridad, valentía y compasión. Creo en la importancia de un liderazgo ético y visionario para enfrentar los desafíos del mundo moderno y construir un futuro más justo y próspero para todos.",
   "author": "theodore_roosevelt_06",
-  "date_created": "16/11 1858",
-  "date_updated": "16/12 1858"
+  "date_created": "1858-11-16",
+  "date_updated": "1858-12-16"
 }]
