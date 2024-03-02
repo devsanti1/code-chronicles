@@ -36,3 +36,7 @@ export default Router()
     const post = await (await fetch(`${process.env.URL}/api/posts/${req.params.id}`, { method: 'get' })).json()
     res.render(layout, { title: `CodeChronicles - Editar ${req.params.id}`, view: "edit", data: { session: req.session, post: post } })
   })
+  .post('/msg', (req, res) => {
+    req.session.message = undefined
+    res.send("")
+  })

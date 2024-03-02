@@ -20,15 +20,15 @@ export default Router()
       date_created: toMoment(date)
     }
     await (new models.Commentary(comment)).save()
-    req.session.message = "Comentario publicado exitosamente"
+    req.session.message = { color: "success", msg: "Comentario publicado" }
     res.status(200).redirect(`/post/${comment.post_id}`)
   })
   .post('/:id/comments/:commentId', async (req, res) => {
     try {
       await models.Commentary.deleteOne({ _id: new mongoose.Types.ObjectId(req.params.commentId) })
-      req.session.message = "Comentario Borrado exitosamente"
+      req.session.message = { color: "success", msg: "Comentario Borrado" }
     } catch (error) {
-      req.session.message = "Ha ocurrido un error, el comentario no ha sido borrado"
+      req.session.message = { color: "danger", msg: "Ha ocurrido un error, el comentario no ha sido borrado" }
     }
     res.redirect(`/post/${req.params.id}`)
   })

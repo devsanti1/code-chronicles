@@ -76,12 +76,12 @@ export default Router()
       if (req.session.user.username === decodeURIComponent((await models.Post.findById(new mongoose.Types.ObjectId(req.params.id))).author)) {
         await models.Post.findByIdAndDelete(new mongoose.Types.ObjectId(req.params.id))
         await models.Commentary.deleteMany({ post_id: req.params.id })
-        req.session.message = "Post Borrado exitosamente"
+        req.session.message = { color: "success", msg: "Post Borrado exitosamente" }
       } else {
-        req.session.message = "Solo el autor del post puede eliminar el post"
+        req.session.message = { color: "warning", msg: "Solo el autor del post puede eliminar el post" }
       }
     } catch (error) {
-      req.session.message = "Ha ocurrido un error, el post no ha sido borrado"
+      req.session.message = { color: "danger", msg: "Ha ocurrido un error, el post no ha sido borrado" }
     }
     res.redirect(`/profile/${req.session.user.username}`)
   })
