@@ -21,7 +21,7 @@
 <script>
   window.onload = () => {
     document.getElementsByTagName("main")[0].style.minHeight = `${window.innerHeight - document.getElementById("header").clientHeight}px`
-    document.getElementsByTagName("footer")[0].style.height = `${window.innerHeight - document.getElementById("header").clientHeight}px`
+    document.getElementsByTagName("footer")[0].style.minHeight = `${window.innerHeight - document.getElementById("header").clientHeight}px`
     document.getElementById("scrollTop").addEventListener("click", () => {
       window.scrollTo(0, 0)
     })
