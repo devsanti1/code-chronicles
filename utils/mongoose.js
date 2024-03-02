@@ -32,7 +32,7 @@ const models = {
 }
 function connectDB() {
   try {
-    mongoose.connect(process.env.URL_DATABASE);
+    mongoose.connect(process.env.MONGODB_URI);
     console.log("Database connected")
   } catch (error) {
     console.error("Error connecting Database", error)
