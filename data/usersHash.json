@@ -483,12 +483,4 @@
     "$oid": "65dd7d10a8c14e75f9f2506f"
   },
   "date_created": "1956-07-29"
-},{
-  "_id": {
-    "$oid": "65e2eb9ec0a65d01f4a7c919"
-  },
-  "username": "samartinezp",
-  "email": "santiagomartinez1207%40gmail.com",
-  "password": "$2b$10$DtZ2Qk3gcx1EMip1r.5z3OAicpWZG62.SoAopTOy8b6m0UMVJtNn6",
-  "date_created": "2024-03-02"
 }]

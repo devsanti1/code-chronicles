@@ -1,99 +1,649 @@
 [{
   "_id": {
-    "$oid": "65dee645a8c14e75f9f25146"
+    "$oid": "65e4a42512713d42bc4c5559"
   },
-  "post_id": "65dd7f69a8c14e75f9f250d7",
-  "author": "neil_degrasse_tyson_02",
-  "content": "La educación ambiental es crucial para comprender nuestro lugar en el cosmos y nuestra responsabilidad de preservarlo.",
-  "date_created": "1998-09-05"
+  "post_id": "65dd5d88b0f1961556babd22",
+  "author": "platon_11",
+  "content": "Estoy de acuerdo, Sócrates. La búsqueda del autoconocimiento es esencial para cultivar la virtud en nuestras vidas. Es el primer paso hacia una vida más consciente y plena.",
+  "date_created": "-0430-02-15"
 },{
   "_id": {
-    "$oid": "65dee645a8c14e75f9f25147"
+    "$oid": "65e4a42512713d42bc4c555a"
   },
-  "post_id": "65dd7f69a8c14e75f9f250d7",
+  "post_id": "65dd5d88b0f1961556babd22",
+  "author": "aristoteles_07",
+  "content": "Sócrates, aunque el autoconocimiento es importante, no es suficiente para cultivar la virtud. También debemos actuar virtuosamente en nuestras vidas para alcanzar la excelencia moral.",
+  "date_created": "-0380-09-21"
+},{
+  "_id": {
+    "$oid": "65e4a42512713d42bc4c555b"
+  },
+  "post_id": "65dd5d88b0f1961556babd22",
+  "author": "confucio_08",
+  "content": "Sócrates, estoy de acuerdo en que el autoconocimiento es fundamental para cultivar la virtud. En la búsqueda de la virtud, debemos examinar nuestras propias acciones y aspirar a mejorar constantemente.",
+  "date_created": "-0500-04-02"
+},{
+  "_id": {
+    "$oid": "65e4a4e012713d42bc4c555d"
+  },
+  "post_id": "65dd5d88b0f1961556babd23",
+  "author": "platon_11",
+  "content": "Sócrates, estoy de acuerdo en que la filosofía es crucial para comprender nuestra existencia y el mundo que nos rodea. Es a través del diálogo filosófico que podemos explorar las preguntas más profundas de la vida.",
+  "date_created": "-0430-02-20"
+},{
+  "_id": {
+    "$oid": "65e4a4e012713d42bc4c555e"
+  },
+  "post_id": "65dd5d88b0f1961556babd23",
+  "author": "aristoteles_07",
+  "content": "Sócrates, la filosofía juega un papel fundamental en la sociedad al cuestionar nuestras creencias y explorar nuevas ideas. Es un proceso que nos permite crecer intelectualmente y comprender mejor el mundo que habitamos.",
+  "date_created": "-0380-10-05"
+},{
+  "_id": {
+    "$oid": "65e4a4e012713d42bc4c555f"
+  },
+  "post_id": "65dd5d88b0f1961556babd23",
+  "author": "confucio_08",
+  "content": "Sócrates, estoy de acuerdo en que la filosofía nos invita a reflexionar sobre nuestro propósito en la vida y nuestra relación con el universo. Es un camino hacia la sabiduría y la comprensión más profunda.",
+  "date_created": "-0500-04-10"
+},{
+  "_id": {
+    "$oid": "65e4a4e012713d42bc4c5560"
+  },
+  "post_id": "65dd5d88b0f1961556babd24",
+  "author": "platon_11",
+  "content": "Sócrates, la ética del conocimiento es esencial para guiar nuestras acciones en la búsqueda de la verdad. Debemos utilizar el conocimiento de manera ética y responsable para promover el bienestar de la humanidad.",
+  "date_created": "-0430-02-25"
+},{
+  "_id": {
+    "$oid": "65e4a4e012713d42bc4c5561"
+  },
+  "post_id": "65dd5d88b0f1961556babd24",
+  "author": "aristoteles_07",
+  "content": "Sócrates, la ética del conocimiento nos recuerda la importancia de la integridad y la honestidad en nuestra búsqueda de la verdad. Debemos buscar el conocimiento de manera ética y respetuosa para evitar el daño a otros.",
+  "date_created": "-0380-10-10"
+},{
+  "_id": {
+    "$oid": "65e4a4e012713d42bc4c5562"
+  },
+  "post_id": "65dd5d88b0f1961556babd24",
+  "author": "confucio_08",
+  "content": "Sócrates, estoy de acuerdo en que la ética del conocimiento nos llama a considerar las implicaciones morales de nuestras acciones en la búsqueda de la verdad. Debemos buscar la sabiduría de manera responsable y ética.",
+  "date_created": "-0500-04-15"
+},{
+  "_id": {
+    "$oid": "65e4a54b12713d42bc4c5564"
+  },
+  "post_id": "65dd5d88b0f1961556babd25",
+  "author": "aristoteles_07",
+  "content": "Sócrates, la escucha activa es esencial para el diálogo significativo. Al abrirnos a las experiencias y perspectivas de los demás, enriquecemos nuestra comprensión del mundo y promovemos la empatía y la comprensión mutua.",
+  "date_created": "-0380-10-15"
+},{
+  "_id": {
+    "$oid": "65e4a54b12713d42bc4c5565"
+  },
+  "post_id": "65dd5d88b0f1961556babd25",
+  "author": "confucio_08",
+  "content": "Sócrates, estoy de acuerdo en que la escucha activa es una habilidad valiosa en cualquier interacción humana. Al escuchar con empatía, podemos construir relaciones más fuertes y comprender mejor las necesidades y preocupaciones de los demás.",
+  "date_created": "-0500-04-20"
+},{
+  "_id": {
+    "$oid": "65e4a54b12713d42bc4c5566"
+  },
+  "post_id": "65dd5d88b0f1961556babd25",
+  "author": "epicteto_16",
+  "content": "Sócrates, la escucha activa nos permite aprender y crecer a través de las experiencias y perspectivas de los demás. Es un acto de humildad y respeto que nos ayuda a desarrollar conexiones más profundas y significativas con los demás.",
+  "date_created": "-0050-11-01"
+},{
+  "_id": {
+    "$oid": "65e4a54b12713d42bc4c5567"
+  },
+  "post_id": "65dd730bb0f1961556babd27",
+  "author": "aristoteles_07",
+  "content": "Platón, estoy de acuerdo en que la educación es fundamental para el progreso de la sociedad. Un sistema educativo sólido garantiza que todos tengan la oportunidad de alcanzar su máximo potencial y contribuir al bienestar de la comunidad.",
+  "date_created": "-0380-10-20"
+},{
+  "_id": {
+    "$oid": "65e4a54b12713d42bc4c5568"
+  },
+  "post_id": "65dd730bb0f1961556babd27",
+  "author": "confucio_08",
+  "content": "Platón, la educación es la base de una sociedad próspera y justa. Al invertir en la educación, invertimos en el desarrollo de individuos capacitados y en el fortalecimiento de la comunidad en su conjunto.",
+  "date_created": "-0500-04-25"
+},{
+  "_id": {
+    "$oid": "65e4a54b12713d42bc4c5569"
+  },
+  "post_id": "65dd730bb0f1961556babd27",
+  "author": "epicteto_16",
+  "content": "Platón, la educación es esencial para liberar el potencial humano y fomentar el progreso social. Un sistema educativo equitativo brinda igualdad de oportunidades y promueve la movilidad ascendente en la sociedad.",
+  "date_created": "-0050-11-06"
+},{
+  "_id": {
+    "$oid": "65e4a54b12713d42bc4c556a"
+  },
+  "post_id": "65dd730bb0f1961556babd28",
+  "author": "aristoteles_07",
+  "content": "Platón, la búsqueda de la verdad es esencial en el camino hacia la sabiduría y la comprensión. A través del diálogo crítico y la reflexión, podemos acercarnos cada vez más a una comprensión más profunda de la realidad que nos rodea.",
+  "date_created": "-0380-10-25"
+},{
+  "_id": {
+    "$oid": "65e4a54b12713d42bc4c556b"
+  },
+  "post_id": "65dd730bb0f1961556babd28",
+  "author": "confucio_08",
+  "content": "Platón, estoy de acuerdo en que la búsqueda de la verdad es un objetivo noble en la filosofía. Al cuestionar nuestras creencias y explorar nuevas ideas, podemos expandir nuestro entendimiento del mundo y de nosotros mismos.",
+  "date_created": "-0500-05-01"
+},{
+  "_id": {
+    "$oid": "65e4a54b12713d42bc4c556c"
+  },
+  "post_id": "65dd730bb0f1961556babd28",
+  "author": "epicteto_16",
+  "content": "Platón, la verdad es un ideal al que debemos aspirar constantemente en nuestra búsqueda de sabiduría y conocimiento. A través del diálogo y la reflexión, podemos acercarnos a una comprensión más completa de la realidad y de nosotros mismos.",
+  "date_created": "-0050-11-11"
+},{
+  "_id": {
+    "$oid": "65e4a57312713d42bc4c556e"
+  },
+  "post_id": "65dd730bb0f1961556babd29",
+  "author": "socrates_23",
+  "content": "Platón, el mito de la caverna es una poderosa alegoría que destaca la importancia del conocimiento y la educación en nuestra búsqueda de la verdad. Nos muestra que la ignorancia nos mantiene en la oscuridad, pero el aprendizaje nos puede llevar a la iluminación.",
+  "date_created": "-0469-03-25"
+},{
+  "_id": {
+    "$oid": "65e4a57312713d42bc4c556f"
+  },
+  "post_id": "65dd730bb0f1961556babd29",
+  "author": "aristoteles_07",
+  "content": "Platón, el mito de la caverna ilustra de manera vívida cómo la educación y el conocimiento nos pueden liberar de las cadenas de la ignorancia. Es un recordatorio poderoso de la importancia de buscar la verdad y la comprensión en nuestras vidas.",
+  "date_created": "-0380-10-30"
+},{
+  "_id": {
+    "$oid": "65e4a57312713d42bc4c5570"
+  },
+  "post_id": "65dd730bb0f1961556babd29",
+  "author": "confucio_08",
+  "content": "Platón, estoy de acuerdo en que el mito de la caverna es una alegoría impactante que resalta la importancia del conocimiento y la educación en nuestra búsqueda de la verdad. Nos insta a liberarnos de la ignorancia y buscar la iluminación a través del aprendizaje.",
+  "date_created": "-0500-05-05"
+},{
+  "_id": {
+    "$oid": "65e4a57312713d42bc4c5571"
+  },
+  "post_id": "65dd730bb0f1961556babd2a",
+  "author": "socrates_23",
+  "content": "Platón, en 'La República' exploras temas profundos como la justicia y su relación con la sociedad. Es crucial reflexionar sobre estos temas para construir una sociedad más justa y equitativa para todos.",
+  "date_created": "-0469-04-01"
+},{
+  "_id": {
+    "$oid": "65e4a57312713d42bc4c5572"
+  },
+  "post_id": "65dd730bb0f1961556babd2a",
+  "author": "aristoteles_07",
+  "content": "Platón, 'La República' es una obra que nos desafía a reflexionar sobre la naturaleza de la justicia y su importancia en la estructura social. Es un llamado a la acción para construir una sociedad basada en la equidad y el respeto mutuo.",
+  "date_created": "-0380-11-05"
+},{
+  "_id": {
+    "$oid": "65e4a57312713d42bc4c5573"
+  },
+  "post_id": "65dd730bb0f1961556babd2a",
+  "author": "confucio_08",
+  "content": "Platón, en 'La República' abordas temas fundamentales como la justicia y la sociedad. Tu trabajo nos inspira a buscar la justicia y la armonía en nuestras comunidades, trabajando juntos para construir un mundo mejor para todos.",
+  "date_created": "-0500-05-10"
+},{
+  "_id": {
+    "$oid": "65e4a57312713d42bc4c5574"
+  },
+  "post_id": "65dd755da8c14e75f9f24fd7",
+  "author": "socrates_23",
+  "content": "Abraham Lincoln, estoy de acuerdo en que las palabras tienen un poder increíble para inspirar y motivar a las personas. Como líderes, debemos usar nuestras palabras sabiamente para unir a la gente en pos de un objetivo común.",
+  "date_created": "-0469-03-01"
+},{
+  "_id": {
+    "$oid": "65e4a57312713d42bc4c5575"
+  },
+  "post_id": "65dd755da8c14e75f9f24fd7",
+  "author": "aristoteles_07",
+  "content": "Abraham Lincoln, estoy de acuerdo en que las palabras tienen un tremendo poder para influir en las personas y en la sociedad en su conjunto. Como líderes, es nuestra responsabilidad utilizarlas de manera responsable y compasiva.",
+  "date_created": "-0380-09-05"
+},{
+  "_id": {
+    "$oid": "65e4a57312713d42bc4c5576"
+  },
+  "post_id": "65dd755da8c14e75f9f24fd7",
+  "author": "confucio_08",
+  "content": "Abraham Lincoln, estoy de acuerdo en que las palabras tienen un poderoso impacto en la sociedad. Como líderes, debemos usar nuestras palabras con sabiduría y compasión para inspirar y unir a las personas en pos de un objetivo común.",
+  "date_created": "-0500-03-01"
+},{
+  "_id": {
+    "$oid": "65e4a57312713d42bc4c5577"
+  },
+  "post_id": "65dd755da8c14e75f9f24fd8",
+  "author": "socrates_23",
+  "content": "Abraham Lincoln, estoy de acuerdo en que la igualdad y la libertad son valores fundamentales en nuestra sociedad. Debemos trabajar juntos para garantizar que todos los ciudadanos sean tratados con justicia y respeto.",
+  "date_created": "-0469-03-07"
+},{
+  "_id": {
+    "$oid": "65e4a57312713d42bc4c5578"
+  },
+  "post_id": "65dd755da8c14e75f9f24fd8",
+  "author": "aristoteles_07",
+  "content": "Abraham Lincoln, la igualdad y la libertad son ideales por los que vale la pena luchar. Como líderes, debemos esforzarnos por crear un mundo donde todos puedan vivir con dignidad y respeto.",
+  "date_created": "-0380-09-11"
+},{
+  "_id": {
+    "$oid": "65e4a57312713d42bc4c5579"
+  },
+  "post_id": "65dd755da8c14e75f9f24fd8",
+  "author": "confucio_08",
+  "content": "Abraham Lincoln, estoy de acuerdo en que la igualdad y la libertad son fundamentales para una sociedad justa y próspera. Como líderes, debemos trabajar juntos para garantizar que todos los ciudadanos tengan igualdad de oportunidades y derechos.",
+  "date_created": "-0500-03-07"
+},{
+  "_id": {
+    "$oid": "65e4a57312713d42bc4c557a"
+  },
+  "post_id": "65dd755da8c14e75f9f24fd9",
+  "author": "socrates_23",
+  "content": "Abraham Lincoln, la preservación de la Unión es esencial para garantizar la estabilidad y la prosperidad de nuestra nación. Debemos trabajar juntos para superar nuestras diferencias y construir un futuro mejor para todos los ciudadanos.",
+  "date_created": "-0469-04-01"
+},{
+  "_id": {
+    "$oid": "65e4a57312713d42bc4c557b"
+  },
+  "post_id": "65dd755da8c14e75f9f24fd9",
+  "author": "aristoteles_07",
+  "content": "Abraham Lincoln, estoy de acuerdo en que la preservación de la Unión es un objetivo noble que debemos perseguir. Como líderes, debemos buscar la unidad y la armonía entre todos los ciudadanos para asegurar un futuro próspero para nuestra nación.",
+  "date_created": "-0380-11-05"
+},{
+  "_id": {
+    "$oid": "65e4a57312713d42bc4c557c"
+  },
+  "post_id": "65dd755da8c14e75f9f24fd9",
+  "author": "confucio_08",
+  "content": "Abraham Lincoln, la preservación de la Unión es esencial para promover la paz y la estabilidad en nuestra nación. Como líderes, debemos trabajar juntos para superar nuestras diferencias y construir un futuro más brillante para todos.",
+  "date_created": "-0500-05-10"
+},{
+  "_id": {
+    "$oid": "65e4a7d812713d42bc4c557e"
+  },
+  "post_id": "65dd77fca8c14e75f9f24fe2",
   "author": "marie_curie_11",
-  "content": "Totalmente de acuerdo. Debemos educar a las generaciones futuras sobre la importancia de proteger nuestro entorno.",
-  "date_created": "1999-03-21"
+  "content": "El enfoque visionario de Ada Lovelace sentó las bases para la revolución digital que estamos viviendo hoy en día.",
+  "date_created": "1910-01-01"
 },{
   "_id": {
-    "$oid": "65dee645a8c14e75f9f25148"
+    "$oid": "65e4a7d812713d42bc4c557f"
   },
-  "post_id": "65dd7f69a8c14e75f9f250d7",
-  "author": "nelson_mandela_06",
-  "content": "La educación es el arma más poderosa que puedes usar para cambiar el mundo. La educación ambiental es clave para un futuro sostenible.",
-  "date_created": "2000-07-18"
-},{
-  "_id": {
-    "$oid": "65dee645a8c14e75f9f25149"
-  },
-  "post_id": "65dd7f69a8c14e75f9f250d7",
-  "author": "angela_merkel_08",
-  "content": "Estoy comprometida con la educación ambiental en nuestro sistema educativo. Es esencial para construir un futuro más verde.",
-  "date_created": "2010-12-09"
-},{
-  "_id": {
-    "$oid": "65dee645a8c14e75f9f2514a"
-  },
-  "post_id": "65dd7f69a8c14e75f9f250d7",
-  "author": "muhammad_ali_07",
-  "content": "Inspirador mensaje. Todos debemos tomar acción para proteger nuestro hogar, la Tierra.",
-  "date_created": "2015-04-30"
-},{
-  "_id": {
-    "$oid": "65dee645a8c14e75f9f2514b"
-  },
-  "post_id": "65dd7f69a8c14e75f9f250d7",
-  "author": "barack_obama_04",
-  "content": "Estoy de acuerdo. La educación ambiental es fundamental para abordar los desafíos climáticos que enfrentamos.",
-  "date_created": "2016-09-11"
-},{
-  "_id": {
-    "$oid": "65dee645a8c14e75f9f2514c"
-  },
-  "post_id": "65dd7f69a8c14e75f9f250d7",
-  "author": "malala_yousafzai_04",
-  "content": "La educación es un derecho humano fundamental. La educación ambiental también es esencial para proteger nuestros derechos en la Tierra.",
-  "date_created": "2018-07-12"
-},{
-  "_id": {
-    "$oid": "65dee645a8c14e75f9f2514d"
-  },
-  "post_id": "65dd7f69a8c14e75f9f250d7",
-  "author": "winston_churchill_03",
-  "content": "La educación ambiental es vital para asegurar un futuro sostenible para las generaciones venideras. Debemos tomar medidas ahora.",
-  "date_created": "2020-05-28"
-},{
-  "_id": {
-    "$oid": "65dee645a8c14e75f9f2514e"
-  },
-  "post_id": "65dd7f69a8c14e75f9f250d7",
-  "author": "serena_williams_06",
-  "content": "Estoy comprometida a usar mi plataforma para promover la educación ambiental y la acción climática. Juntos, podemos marcar la diferencia.",
-  "date_created": "2021-09-15"
-},{
-  "_id": {
-    "$oid": "65dee645a8c14e75f9f2514f"
-  },
-  "post_id": "65dd7f69a8c14e75f9f250d7",
+  "post_id": "65dd77fca8c14e75f9f24fe2",
   "author": "stephen_hawking_01",
-  "content": "La educación ambiental es esencial para proteger nuestro planeta y garantizar un futuro próspero para la humanidad. Todos debemos hacer nuestra parte.",
-  "date_created": "2022-01-08"
+  "content": "La visión de Ada Lovelace ha inspirado a generaciones enteras a explorar los límites de la computación y la inteligencia artificial.",
+  "date_created": "1940-02-15"
 },{
   "_id": {
-    "$oid": "65dfbb1f5825f5649b4ae7d0"
+    "$oid": "65e4a7d812713d42bc4c5580"
   },
-  "post_id": "65dd7fe9a8c14e75f9f250eb",
-  "author": "malala_yousafzai_04",
-  "content": "holaa",
-  "date_created": "2024-02-29",
-  "__v": 0
+  "post_id": "65dd77fca8c14e75f9f24fe2",
+  "author": "angelina_jolie_06",
+  "content": "El legado de Ada Lovelace en la informática es una inspiración para aquellos que buscan innovar y transformar el mundo con la tecnología.",
+  "date_created": "1970-03-20"
 },{
   "_id": {
-    "$oid": "65e30db8c6714e6b133eeb17"
+    "$oid": "65e4a88212713d42bc4c5582"
   },
-  "post_id": "65dd7d45a8c14e75f9f25079",
-  "author": "barack_obama_04",
-  "content": "fdsafdas",
-  "date_created": "2024-03-02",
-  "__v": 0
+  "post_id": "65dd77fca8c14e75f9f24fe2",
+  "author": "ada_lovelace_05",
+  "content": "Su visión visionaria sienta las bases para el desarrollo de la informática moderna. Un legado que perdura en la historia.",
+  "date_created": "1816-01-01"
+},{
+  "_id": {
+    "$oid": "65e4a88212713d42bc4c5583"
+  },
+  "post_id": "65dd77fca8c14e75f9f24fe2",
+  "author": "albert_einstein_07",
+  "content": "Las ideas de Ada Lovelace continúan inspirando a los científicos de hoy en día. Su visión audaz y progresista es un faro de luz en el mundo de la tecnología.",
+  "date_created": "1920-02-15"
+},{
+  "_id": {
+    "$oid": "65e4a88212713d42bc4c5584"
+  },
+  "post_id": "65dd77fca8c14e75f9f24fe2",
+  "author": "marie_curie_11",
+  "content": "El impacto de Ada Lovelace en el campo de la informática es innegable. Su visión pionera allanó el camino para futuras innovaciones en el mundo digital.",
+  "date_created": "1930-03-20"
+},{
+  "_id": {
+    "$oid": "65e4a93812713d42bc4c5586"
+  },
+  "post_id": "65dd77fca8c14e75f9f24fe3",
+  "author": "stephen_hawking_01",
+  "content": "El enfoque de Ada Lovelace en la programación creativa y lógica sigue inspirando a las mentes brillantes de hoy en día. Su legado perdura en la evolución constante de la tecnología.",
+  "date_created": "1942-03-14"
+},{
+  "_id": {
+    "$oid": "65e4a93812713d42bc4c5587"
+  },
+  "post_id": "65dd77fca8c14e75f9f24fe3",
+  "author": "albert_einstein_07",
+  "content": "El trabajo de Ada Lovelace es un testimonio del potencial humano para la innovación. Su visión pionera continúa influyendo en el desarrollo de la programación y la informática.",
+  "date_created": "1930-11-25"
+},{
+  "_id": {
+    "$oid": "65e4a93812713d42bc4c5588"
+  },
+  "post_id": "65dd77fca8c14e75f9f24fe3",
+  "author": "marie_curie_11",
+  "content": "La contribución de Ada Lovelace al campo de la informática es un ejemplo de su brillantez y dedicación. Su legado vive en la vanguardia de la tecnología moderna.",
+  "date_created": "1900-06-12"
+},{
+  "_id": {
+    "$oid": "65e4a93812713d42bc4c5589"
+  },
+  "post_id": "65dd77fca8c14e75f9f24fe4",
+  "author": "stephen_hawking_01",
+  "content": "La pasión y determinación de Ada Lovelace son una inspiración para los científicos y programadores de hoy en día. Su legado perdura en las mentes creativas que continúan su trabajo.",
+  "date_created": "1942-03-14"
+},{
+  "_id": {
+    "$oid": "65e4a93812713d42bc4c558a"
+  },
+  "post_id": "65dd77fca8c14e75f9f24fe4",
+  "author": "albert_einstein_07",
+  "content": "El espíritu innovador de Ada Lovelace ha dejado una marca indeleble en el campo de la informática. Su contribución sigue siendo fundamental para el avance de la tecnología.",
+  "date_created": "1930-11-25"
+},{
+  "_id": {
+    "$oid": "65e4a93812713d42bc4c558b"
+  },
+  "post_id": "65dd77fca8c14e75f9f24fe4",
+  "author": "marie_curie_11",
+  "content": "Ada Lovelace fue una pionera en el campo de la informática, cuyo trabajo sigue siendo una fuente de inspiración para las generaciones futuras de científicos y programadores.",
+  "date_created": "1900-06-12"
+},{
+  "_id": {
+    "$oid": "65e4a97312713d42bc4c558d"
+  },
+  "post_id": "65dd77fca8c14e75f9f24fe5",
+  "author": "stephen_hawking_01",
+  "content": "La influencia de Ada Lovelace en la informática es incuestionable. Su visión y trabajo pionero continúan inspirando a los científicos y programadores en todo el mundo.",
+  "date_created": "1942-03-14"
+},{
+  "_id": {
+    "$oid": "65e4a97312713d42bc4c558e"
+  },
+  "post_id": "65dd77fca8c14e75f9f24fe5",
+  "author": "carl_sagan_09",
+  "content": "El legado de Ada Lovelace trasciende generaciones en el campo de la informática. Sus contribuciones son fundamentales para el desarrollo tecnológico y la innovación.",
+  "date_created": "1934-11-09"
+},{
+  "_id": {
+    "$oid": "65e4a97312713d42bc4c558f"
+  },
+  "post_id": "65dd77fca8c14e75f9f24fe5",
+  "author": "marie_curie_11",
+  "content": "Las contribuciones de Ada Lovelace han dejado una huella indeleble en la historia de la informática. Su visión sigue inspirando a las mentes creativas en todo el mundo.",
+  "date_created": "1900-06-12"
+},{
+  "_id": {
+    "$oid": "65e4a97312713d42bc4c5590"
+  },
+  "post_id": "65dd77fca8c14e75f9f24fe6",
+  "author": "stephen_hawking_01",
+  "content": "El impacto de Ada Lovelace en la informática es innegable. Su enfoque innovador sentó las bases para el desarrollo de la programación y la computación.",
+  "date_created": "1942-03-14"
+},{
+  "_id": {
+    "$oid": "65e4a97312713d42bc4c5591"
+  },
+  "post_id": "65dd77fca8c14e75f9f24fe6",
+  "author": "carl_sagan_09",
+  "content": "Ada Lovelace ha dejado un legado perdurable en la informática moderna. Su visión visionaria ha inspirado a innumerables innovadores en todo el mundo.",
+  "date_created": "1934-11-09"
+},{
+  "_id": {
+    "$oid": "65e4a97312713d42bc4c5592"
+  },
+  "post_id": "65dd77fca8c14e75f9f24fe6",
+  "author": "marie_curie_11",
+  "content": "El trabajo de Ada Lovelace ha tenido un impacto profundo en el desarrollo de la informática. Su enfoque innovador sigue siendo una fuente de inspiración para los científicos actuales.",
+  "date_created": "1900-06-12"
+},{
+  "_id": {
+    "$oid": "65e4a97312713d42bc4c5593"
+  },
+  "post_id": "65dd783aa8c14e75f9f24fe8",
+  "author": "stephen_hawking_01",
+  "content": "La teoría de la relatividad de Einstein ha transformado nuestra comprensión del universo. Su legado perdura en el corazón de la física moderna y la exploración espacial.",
+  "date_created": "1942-03-14"
+},{
+  "_id": {
+    "$oid": "65e4a97312713d42bc4c5594"
+  },
+  "post_id": "65dd783aa8c14e75f9f24fe8",
+  "author": "carl_sagan_09",
+  "content": "La teoría de la relatividad de Einstein es un hito en la historia de la ciencia. Su genio revolucionó nuestra comprensión del espacio y el tiempo, dejando un legado duradero.",
+  "date_created": "1934-11-09"
+},{
+  "_id": {
+    "$oid": "65e4a97312713d42bc4c5595"
+  },
+  "post_id": "65dd783aa8c14e75f9f24fe8",
+  "author": "marie_curie_11",
+  "content": "La teoría de la relatividad de Einstein es un testimonio del poder del pensamiento creativo. Su trabajo sigue siendo una fuente de inspiración para los científicos de todas las disciplinas.",
+  "date_created": "1900-06-12"
+},{
+  "_id": {
+    "$oid": "65e4a97312713d42bc4c5596"
+  },
+  "post_id": "65dd783aa8c14e75f9f24fe9",
+  "author": "stephen_hawking_01",
+  "content": "La imaginación es la clave para desbloquear los misterios del universo, como Einstein señaló sabiamente. Su legado inspira a las mentes curiosas a explorar los límites del conocimiento.",
+  "date_created": "1942-03-14"
+},{
+  "_id": {
+    "$oid": "65e4a97312713d42bc4c5597"
+  },
+  "post_id": "65dd783aa8c14e75f9f24fe9",
+  "author": "carl_sagan_09",
+  "content": "La imaginación es el motor del progreso humano, como Einstein entendió tan profundamente. Su legado nos recuerda la importancia de pensar de manera creativa y audaz en la búsqueda del conocimiento.",
+  "date_created": "1934-11-09"
+},{
+  "_id": {
+    "$oid": "65e4a97312713d42bc4c5598"
+  },
+  "post_id": "65dd783aa8c14e75f9f24fe9",
+  "author": "marie_curie_11",
+  "content": "La imaginación es esencial para el avance de la ciencia y la sociedad, como Einstein nos enseñó. Su legado continúa inspirando a las generaciones futuras a soñar en grande y alcanzar las estrellas.",
+  "date_created": "1900-06-12"
+},{
+  "_id": {
+    "$oid": "65e4a9b312713d42bc4c559a"
+  },
+  "post_id": "65dd783aa8c14e75f9f24fea",
+  "author": "isaac_newton_03",
+  "content": "La curiosidad es el combustible que alimenta el motor del conocimiento, como Einstein señaló sabiamente. Tus palabras inspiran a las mentes inquietas a explorar el mundo y descubrir sus secretos más profundos.",
+  "date_created": "1643-01-04"
+},{
+  "_id": {
+    "$oid": "65e4a9b312713d42bc4c559b"
+  },
+  "post_id": "65dd783aa8c14e75f9f24fea",
+  "author": "galileo_galilei_02",
+  "content": "La curiosidad es la chispa que enciende el fuego del descubrimiento, como bien entendió Einstein. Tus enseñanzas nos recuerdan la importancia de mantenernos siempre hambrientos de conocimiento y nuevas experiencias.",
+  "date_created": "1564-02-15"
+},{
+  "_id": {
+    "$oid": "65e4a9b312713d42bc4c559c"
+  },
+  "post_id": "65dd783aa8c14e75f9f24fea",
+  "author": "charles_darwin_04",
+  "content": "La curiosidad es la brújula que guía nuestros viajes en busca de la verdad, como Einstein sabiamente afirmó. Tu legado nos impulsa a explorar y cuestionar, en un constante viaje de autodescubrimiento y aprendizaje.",
+  "date_created": "1809-02-12"
+},{
+  "_id": {
+    "$oid": "65e4a9b312713d42bc4c559d"
+  },
+  "post_id": "65dd783aa8c14e75f9f24feb",
+  "author": "isaac_newton_03",
+  "content": "La humildad es la llave que abre las puertas del conocimiento, como Einstein nos enseñó con su ejemplo. Tu sabiduría nos recuerda la importancia de reconocer la vastedad del universo y nuestra propia limitación.",
+  "date_created": "1643-01-04"
+},{
+  "_id": {
+    "$oid": "65e4a9b312713d42bc4c559e"
+  },
+  "post_id": "65dd783aa8c14e75f9f24feb",
+  "author": "galileo_galilei_02",
+  "content": "La humildad es la virtud que nos permite aprender y crecer, como Einstein entendió tan profundamente. Tu legado nos inspira a mantenernos abiertos a nuevas ideas y perspectivas, en un constante viaje de descubrimiento.",
+  "date_created": "1564-02-15"
+},{
+  "_id": {
+    "$oid": "65e4a9b312713d42bc4c559f"
+  },
+  "post_id": "65dd783aa8c14e75f9f24feb",
+  "author": "charles_darwin_04",
+  "content": "La humildad nos enseña a reconocer nuestras limitaciones y aceptar la vastedad del universo, como Einstein nos recordó con humildad. Tus palabras nos invitan a mantenernos siempre abiertos a nuevas ideas y descubrimientos.",
+  "date_created": "1809-02-12"
+},{
+  "_id": {
+    "$oid": "65e4a9b312713d42bc4c55a0"
+  },
+  "post_id": "65dd783aa8c14e75f9f24fec",
+  "author": "isaac_newton_03",
+  "content": "La belleza de la simplicidad es un principio que atraviesa todas las disciplinas, como Einstein nos mostró con sus teorías. Tus ideas nos inspiran a buscar la elegancia en nuestras explicaciones y teorías, en un constante esfuerzo por capturar la esencia del universo.",
+  "date_created": "1643-01-04"
+},{
+  "_id": {
+    "$oid": "65e4a9b312713d42bc4c55a1"
+  },
+  "post_id": "65dd783aa8c14e75f9f24fec",
+  "author": "galileo_galilei_02",
+  "content": "La belleza de la simplicidad es una joya que debemos buscar en nuestro camino hacia el conocimiento, como Einstein nos enseñó con sus teorías. Tu legado nos inspira a buscar explicaciones elegantes y fundamentales, en un esfuerzo por comprender la complejidad del universo.",
+  "date_created": "1564-02-15"
+},{
+  "_id": {
+    "$oid": "65e4a9b312713d42bc4c55a2"
+  },
+  "post_id": "65dd783aa8c14e75f9f24fec",
+  "author": "charles_darwin_04",
+  "content": "La búsqueda de la simplicidad es un viaje que nos invita a explorar la esencia del universo, como Einstein nos mostró con su genialidad. Tus enseñanzas nos recuerdan la importancia de buscar explicaciones fundamentales y elegantes en nuestro estudio del mundo natural.",
+  "date_created": "1809-02-12"
+},{
+  "_id": {
+    "$oid": "65e4a9b312713d42bc4c55a3"
+  },
+  "post_id": "65dd783aa8c14e75f9f24fed",
+  "author": "isaac_newton_03",
+  "content": "Tu legado perdura como una luz que guía a las futuras generaciones en la búsqueda del conocimiento, como Einstein. Tus contribuciones siguen inspirando a científicos y pensadores en todo el mundo, dejando una marca indeleble en la historia de la ciencia.",
+  "date_created": "1643-01-04"
+},{
+  "_id": {
+    "$oid": "65e4a9b312713d42bc4c55a4"
+  },
+  "post_id": "65dd783aa8c14e75f9f24fed",
+  "author": "galileo_galilei_02",
+  "content": "El legado de Einstein es un faro que ilumina el camino hacia un mayor entendimiento del universo y la realidad, como tú, Albert. Tu genio continúa inspirando a las mentes curiosas a explorar las maravillas del cosmos, en un constante viaje de descubrimiento y aprendizaje.",
+  "date_created": "1564-02-15"
+},{
+  "_id": {
+    "$oid": "65e4a9b312713d42bc4c55a5"
+  },
+  "post_id": "65dd783aa8c14e75f9f24fed",
+  "author": "charles_darwin_04",
+  "content": "El legado de Einstein es una inspiración para todos los que buscan comprender las leyes que gobiernan el universo, como tú, Albert. Tu trabajo continúa siendo un faro de luz en el camino del conocimiento, guiando a las generaciones futuras hacia nuevos descubrimientos y comprensiones.",
+  "date_created": "1809-02-12"
+},{
+  "_id": {
+    "$oid": "65e4aa1c12713d42bc4c55a7"
+  },
+  "post_id": "65dd786ba8c14e75f9f24fef",
+  "author": "barack_obama_06",
+  "content": "Angela Merkel's leadership during times of crisis has set a shining example for leaders around the world. Her unwavering resolve and pragmatic approach have provided stability and guidance in turbulent times.",
+  "date_created": "1961-08-04"
+},{
+  "_id": {
+    "$oid": "65e4aa1c12713d42bc4c55a8"
+  },
+  "post_id": "65dd786ba8c14e75f9f24fef",
+  "author": "nelson_mandela_07",
+  "content": "Angela Merkel's leadership has been a beacon of hope and stability in challenging times, much like your own, Barack Obama. Her commitment to unity and cooperation serves as an inspiration for leaders everywhere.",
+  "date_created": "1918-07-18"
+},{
+  "_id": {
+    "$oid": "65e4aa1c12713d42bc4c55a9"
+  },
+  "post_id": "65dd786ba8c14e75f9f24ff0",
+  "author": "winston_churchill_01",
+  "content": "Angela Merkel's advocacy for unity echoes the sentiments of great leaders throughout history. Her dedication to fostering cooperation and understanding among nations reflects the timeless values of leadership and diplomacy.",
+  "date_created": "1874-11-30"
+},{
+  "_id": {
+    "$oid": "65e4aa1c12713d42bc4c55aa"
+  },
+  "post_id": "65dd786ba8c14e75f9f24ff0",
+  "author": "nelson_mandela_07",
+  "content": "Angela Merkel's commitment to unity and cooperation resonates deeply with the ideals of reconciliation and harmony, much like your own, Winston Churchill. Her efforts to bridge divides and build consensus are an inspiration to leaders worldwide.",
+  "date_created": "1918-07-18"
+},{
+  "_id": {
+    "$oid": "65e4aa1c12713d42bc4c55ab"
+  },
+  "post_id": "65dd786ba8c14e75f9f24ff2",
+  "author": "abraham_lincoln_05",
+  "content": "Angela Merkel's defense of democracy and human rights is a testament to the enduring values of freedom and equality. Her unwavering commitment to these principles serves as a beacon of hope for oppressed people around the world.",
+  "date_created": "1809-02-12"
+},{
+  "_id": {
+    "$oid": "65e4aa1c12713d42bc4c55ac"
+  },
+  "post_id": "65dd786ba8c14e75f9f24ff2",
+  "author": "nelson_mandela_07",
+  "content": "Angela Merkel's steadfast defense of democracy and human rights mirrors the courageous stance you took, Abraham Lincoln, in the face of adversity. Her advocacy for freedom and equality inspires us all to strive for a better world.",
+  "date_created": "1918-07-18"
+},{
+  "_id": {
+    "$oid": "65e4aa1c12713d42bc4c55ad"
+  },
+  "post_id": "65dd786ba8c14e75f9f24ff3",
+  "author": "martin_luther_king_jr_09",
+  "content": "Angela Merkel's legacy of leadership reflects the timeless values of vision, integrity, and resilience. Her example reminds us of the power of courage and determination in shaping a better future for all, much like your own, Nelson Mandela.",
+  "date_created": "1929-01-15"
+},{
+  "_id": {
+    "$oid": "65e4aa1c12713d42bc4c55ae"
+  },
+  "post_id": "65dd786ba8c14e75f9f24ff3",
+  "author": "nelson_mandela_07",
+  "content": "Angela Merkel's indelible mark on Germany, Europe, and the world is a testament to the enduring impact of visionary leadership. Her legacy inspires us to continue the struggle for justice and equality, much like your own, Martin Luther King Jr.",
+  "date_created": "1918-07-18"
+},{
+  "_id": {
+    "$oid": "65e4aa1c12713d42bc4c55af"
+  },
+  "post_id": "65dd786ba8c14e75f9f24ff4",
+  "author": "winston_churchill_01",
+  "content": "Angela Merkel's commitment to diplomacy and statesmanship is a shining example of leadership in action. Her dedication to dialogue and compromise mirrors the values of cooperation and peace that have defined your own legacy, Nelson Mandela.",
+  "date_created": "1874-11-30"
+},{
+  "_id": {
+    "$oid": "65e4aa1c12713d42bc4c55b0"
+  },
+  "post_id": "65dd786ba8c14e75f9f24ff4",
+  "author": "nelson_mandela_07",
+  "content": "Angela Merkel's tireless efforts to build bridges between nations embody the spirit of reconciliation and understanding, much like your own, Winston Churchill. Her commitment to dialogue and cooperation paves the way for a more peaceful and harmonious world.",
+  "date_created": "1918-07-18"
+},{
+  "_id": {
+    "$oid": "65e4aa1c12713d42bc4c55b1"
+  },
+  "post_id": "65dd78b5a8c14e75f9f24ff6",
+  "author": "leonardo_dicaprio_10",
+  "content": "Anthony Hopkins' unparalleled talent and versatility have left an indelible mark on the world of cinema, inspiring generations of actors and filmmakers. His legacy serves as a testament to the power of dedication and passion in the pursuit of artistic excellence.",
+  "date_created": "1974-11-11"
+},{
+  "_id": {
+    "$oid": "65e4aa1c12713d42bc4c55b2"
+  },
+  "post_id": "65dd78b5a8c14e75f9f24ff6",
+  "author": "brad_pitt_11",
+  "content": "Anthony Hopkins' contributions to the film industry are legendary, much like your own, Leonardo DiCaprio. His talent and dedication have paved the way for future generations of actors, leaving behind a legacy that will endure for years to come.",
+  "date_created": "1963-12-18"
 }]

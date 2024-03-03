@@ -504,15 +504,6 @@
   "date_updated": "1981-09-04"
 },{
   "_id": {
-    "$oid": "65dd796ca8c14e75f9f25013"
-  },
-  "title": "Empoderamiento femenino",
-  "content": "Beyoncé ha sido una defensora del empoderamiento femenino a lo largo de su carrera. Sus canciones y actuaciones inspiran a las mujeres de todo el mundo a ser fuertes, seguras y dueñas de su destino.",
-  "author": "beyonce_02",
-  "date_created": "1981-09-09",
-  "date_updated": "1981-09-09"
-},{
-  "_id": {
     "$oid": "65dd796ca8c14e75f9f25014"
   },
   "title": "Icono de la moda",
@@ -855,15 +846,6 @@
   "date_updated": "1955-02-17"
 },{
   "_id": {
-    "$oid": "65dd7aa7a8c14e75f9f25040"
-  },
-  "title": "Gratitud hacia mis colegas y admiradores",
-  "content": "Quiero expresar mi profunda gratitud hacia mis colegas de la industria del cine y hacia mis admiradores por su apoyo continuo. Su ánimo y su cariño son un impulso constante en mi carrera como actor.",
-  "author": "denzel_washington_04",
-  "date_created": "1955-01-22",
-  "date_updated": "1955-02-22"
-},{
-  "_id": {
     "$oid": "65dd7acfa8c14e75f9f25042"
   },
   "title": "Mi viaje en el mundo de la tecnología",
@@ -999,15 +981,6 @@
   "date_updated": "1997-04-24"
 },{
   "_id": {
-    "$oid": "65dd7c87a8c14e75f9f25053"
-  },
-  "title": "Superando obstáculos",
-  "content": "En mi carrera como gimnasta, he enfrentado numerosos desafíos y obstáculos. Pero cada desafío me ha hecho más fuerte y me ha preparado para enfrentar cualquier cosa que se interponga en mi camino.",
-  "author": "simone_biles_03",
-  "date_created": "1997-03-29",
-  "date_updated": "1997-04-29"
-},{
-  "_id": {
     "$oid": "65dd7c87a8c14e75f9f25054"
   },
   "title": "Inspirando a otros",
@@ -1026,33 +999,6 @@
   "date_updated": "1997-05-08"
 },{
   "_id": {
-    "$oid": "65dd7d45a8c14e75f9f25075"
-  },
-  "title": "Mi pasión por la gimnasia",
-  "content": "Desde que era niña, la gimnasia ha sido mi pasión. Cada día en el gimnasio es una oportunidad para desafiarme a mí misma y superar mis límites.",
-  "author": "simone_biles_03",
-  "date_created": "1997-03-14",
-  "date_updated": "1997-03-14"
-},{
-  "_id": {
-    "$oid": "65dd7d45a8c14e75f9f25076"
-  },
-  "title": "Entrenamiento y dedicación",
-  "content": "El éxito en la gimnasia requiere un arduo entrenamiento y una dedicación inquebrantable. Estoy comprometida a dar lo mejor de mí en cada práctica y competencia.",
-  "author": "simone_biles_03",
-  "date_created": "1997-03-19",
-  "date_updated": "1997-03-19"
-},{
-  "_id": {
-    "$oid": "65dd7d45a8c14e75f9f25077"
-  },
-  "title": "Representando a mi país",
-  "content": "Es un honor representar a mi país en competiciones internacionales. Cada vez que compito, llevo con orgullo la bandera de Estados Unidos y represento a todos mis compatriotas.",
-  "author": "simone_biles_03",
-  "date_created": "1997-03-24",
-  "date_updated": "1997-04-24"
-},{
-  "_id": {
     "$oid": "65dd7d45a8c14e75f9f25078"
   },
   "title": "Superando obstáculos",
@@ -1060,24 +1006,6 @@
   "author": "simone_biles_03",
   "date_created": "1997-03-29",
   "date_updated": "1997-04-29"
-},{
-  "_id": {
-    "$oid": "65dd7d45a8c14e75f9f25079"
-  },
-  "title": "Inspirando a otros",
-  "content": "Una de mis mayores alegrías es inspirar a otros a perseguir sus sueños. Espero que mi historia demuestre que con trabajo duro y determinación, cualquier cosa es posible.",
-  "author": "simone_biles_03",
-  "date_created": "1997-04-03",
-  "date_updated": "1997-05-03"
-},{
-  "_id": {
-    "$oid": "65dd7d45a8c14e75f9f2507a"
-  },
-  "title": "Gratitud hacia mi equipo",
-  "content": "Quiero expresar mi profunda gratitud hacia mi equipo de entrenadores, compañeros y familiares por su apoyo incondicional. Su aliento y su apoyo son fundamentales en mi viaje como gimnasta.",
-  "author": "simone_biles_03",
-  "date_created": "1997-04-08",
-  "date_updated": "1997-05-08"
 },{
   "_id": {
     "$oid": "65dd7d50a8c14e75f9f2507c"
@@ -1539,15 +1467,6 @@
   "date_updated": "1724-06-12"
 },{
   "_id": {
-    "$oid": "65dd7eeca8c14e75f9f250bb"
-  },
-  "title": "Liderazgo en la India",
-  "content": "Durante mi mandato como Primera Ministra de la India, me esforcé por guiar al país hacia el progreso y la estabilidad en un momento de grandes desafíos. Mi enfoque en el desarrollo económico y social ayudó a transformar la nación y mejorar la calidad de vida de millones de personas.",
-  "author": "indira_gandhi_02",
-  "date_created": "1917-11-19",
-  "date_updated": "1917-11-19"
-},{
-  "_id": {
     "$oid": "65dd7eeca8c14e75f9f250bc"
   },
   "title": "El papel de la mujer en la política",
@@ -1728,15 +1647,6 @@
   "date_updated": "1974-11-11"
 },{
   "_id": {
-    "$oid": "65dd7f69a8c14e75f9f250d4"
-  },
-  "title": "Acción climática",
-  "content": "He trabajado activamente en la promoción de la acción climática y la reducción de las emisiones de gases de efecto invernadero. Creo en la urgencia de abordar el cambio climático y en la necesidad de colaboración global para enfrentar este desafío crítico.",
-  "author": "leonardo_dicaprio_07",
-  "date_created": "1974-11-16",
-  "date_updated": "1974-11-16"
-},{
-  "_id": {
     "$oid": "65dd7f69a8c14e75f9f250d5"
   },
   "title": "Conservación marina",
@@ -1764,15 +1674,6 @@
   "date_updated": "1975-01-01"
 },{
   "_id": {
-    "$oid": "65dd7f89a8c14e75f9f250d9"
-  },
-  "title": "Defendiendo el medio ambiente",
-  "content": "Como defensor del medio ambiente, me comprometo a utilizar mi plataforma para crear conciencia sobre los problemas ambientales y promover soluciones sostenibles. Creo en la importancia de proteger la biodiversidad y los ecosistemas para las generaciones futuras.",
-  "author": "leonardo_dicaprio_07",
-  "date_created": "1974-11-11",
-  "date_updated": "1974-11-11"
-},{
-  "_id": {
     "$oid": "65dd7f89a8c14e75f9f250da"
   },
   "title": "Acción climática",
@@ -1782,15 +1683,6 @@
   "date_updated": "1974-11-16"
 },{
   "_id": {
-    "$oid": "65dd7f89a8c14e75f9f250db"
-  },
-  "title": "Conservación marina",
-  "content": "Me he involucrado en iniciativas de conservación marina para proteger los océanos y las especies marinas en peligro de extinción. Creo en la importancia de preservar los océanos como fuente de vida y biodiversidad en nuestro planeta.",
-  "author": "leonardo_dicaprio_07",
-  "date_created": "1974-11-21",
-  "date_updated": "1974-12-21"
-},{
-  "_id": {
     "$oid": "65dd7f89a8c14e75f9f250dc"
   },
   "title": "Protegiendo la vida silvestre",
@@ -1798,15 +1690,6 @@
   "author": "leonardo_dicaprio_07",
   "date_created": "1974-11-26",
   "date_updated": "1974-12-26"
-},{
-  "_id": {
-    "$oid": "65dd7f89a8c14e75f9f250dd"
-  },
-  "title": "Educación ambiental",
-  "content": "Promuevo la educación ambiental y la alfabetización ecológica como herramientas fundamentales para inspirar el cambio y la acción en favor del medio ambiente. Creo en empoderar a las personas con conocimientos y conciencia para proteger nuestro planeta.",
-  "author": "leonardo_dicaprio_07",
-  "date_created": "1974-12-01",
-  "date_updated": "1975-01-01"
 },{
   "_id": {
     "$oid": "65dd7fa7a8c14e75f9f250df"
@@ -2088,24 +1971,6 @@
   "date_updated": "1985-07-05"
 },{
   "_id": {
-    "$oid": "65dd806da8c14e75f9f25105"
-  },
-  "title": "Mentalidad competitiva",
-  "content": "Mi mentalidad competitiva y mi capacidad para superar los desafíos han sido fundamentales para mi éxito en la natación. Creo en la importancia de la preparación mental y física para alcanzar el máximo rendimiento en el deporte y en la vida.",
-  "author": "michael_phelps_11",
-  "date_created": "1985-07-10",
-  "date_updated": "1985-08-10"
-},{
-  "_id": {
-    "$oid": "65dd806da8c14e75f9f25106"
-  },
-  "title": "Inspirando a futuros nadadores",
-  "content": "Espero inspirar a la próxima generación de nadadores a perseguir sus sueños y alcanzar el éxito en el deporte. Creo en el poder del ejemplo y en el impacto positivo que podemos tener en las vidas de los demás a través de nuestras acciones y logros.",
-  "author": "michael_phelps_11",
-  "date_created": "1985-07-15",
-  "date_updated": "1985-08-15"
-},{
-  "_id": {
     "$oid": "65dd806da8c14e75f9f25107"
   },
   "title": "Superando obstáculos",
@@ -2124,15 +1989,6 @@
   "date_updated": "1985-06-30"
 },{
   "_id": {
-    "$oid": "65dd8102a8c14e75f9f2510a"
-  },
-  "title": "Récords mundiales y medallas olímpicas",
-  "content": "A lo largo de mi carrera, he establecido numerosos récords mundiales y ganado un impresionante número de medallas olímpicas. Creo en la importancia del trabajo duro, la dedicación y la perseverancia para alcanzar la grandeza en cualquier campo.",
-  "author": "michael_phelps_11",
-  "date_created": "1985-07-05",
-  "date_updated": "1985-07-05"
-},{
-  "_id": {
     "$oid": "65dd8102a8c14e75f9f2510b"
   },
   "title": "Mentalidad competitiva",
@@ -2149,15 +2005,6 @@
   "author": "michael_phelps_11",
   "date_created": "1985-07-15",
   "date_updated": "1985-08-15"
-},{
-  "_id": {
-    "$oid": "65dd8102a8c14e75f9f2510d"
-  },
-  "title": "Superando obstáculos",
-  "content": "He enfrentado y superado numerosos obstáculos en mi vida y mi carrera deportiva. Creo en la importancia de la resiliencia y la determinación para superar los desafíos y alcanzar nuestras metas más ambiciosas.",
-  "author": "michael_phelps_11",
-  "date_created": "1985-07-20",
-  "date_updated": "1985-08-20"
 },{
   "_id": {
     "$oid": "65dd8123a8c14e75f9f2510f"
@@ -2509,15 +2356,6 @@
   "author": "serena_williams_06",
   "date_created": "1981-10-11",
   "date_updated": "1981-11-11"
-},{
-  "_id": {
-    "$oid": "65dd8297a8c14e75f9f2513d"
-  },
-  "title": "Celebrando la diversidad en el deporte",
-  "content": "Como una de las tenistas más exitosas de todos los tiempos, me enorgullece representar la diversidad en el deporte y ser un modelo a seguir para personas de todas las razas y orígenes. Creo en la importancia de la inclusión y la igualdad en el tenis y en la sociedad en general.",
-  "author": "serena_williams_06",
-  "date_created": "1981-10-16",
-  "date_updated": "1981-11-16"
 },{
   "_id": {
     "$oid": "65dd82dba8c14e75f9f2513f"
