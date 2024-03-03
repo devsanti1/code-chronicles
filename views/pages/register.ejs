@@ -1,5 +1,5 @@
 <main class="row m-0 py-5 d-flex justify-content-center align-items-center">
-  <form action="/api/auth/register" method="post">
+  <form action="/api/auth/register" method="post" class="needs-validation" novalidate>
     <div class="card bg-success-subtle col-12 col-md-6 mx-auto d-flex flex-column justify-content-center p-0">
       <div class="card-header text-center">
         <img src="/icons/form.png" alt="form code-chronicles" width="150">
@@ -8,24 +8,39 @@
       <div class="card-body">
         <div class="mb-3">
           <label class="form-label" for="username">Nombre de usuario: </label>
-          <div class="input-group">
+          <div class="input-group has-validation">
             <i class="fa fa-user input-group-text fw-bolder"></i>
-            <input type="text" id="username" name="username" class="form-control" placeholder="your_username_03">
+            <input type="text" id="username" name="username" class="form-control" placeholder="your_username_03"
+              required>
+            <div class="invalid-feedback">
+              Por favor elija un nombre de usuario <br>
+              Debe contener entre 3 y 20 caracteres, debe ser en minúsuculas y números, puede contener estos símbolos (.
+              - _)
+            </div>
           </div>
         </div>
         <div class="mb-3">
           <label class="form-label" for="email">Email: </label>
-          <div class="input-group">
+          <div class="input-group has-validation">
             <i class="fa fa-at input-group-text fw-bolder"></i>
-            <input type="text" id="email" name="email" class="form-control" placeholder="youremail@example.com">
+            <input type="text" id="email" name="email" class="form-control" placeholder="youremail@example.com"
+              required>
+            <div class="invalid-feedback">
+              Por favor escriba un correo electrónico válido
+            </div>
           </div>
         </div>
         <div class="mb-3">
           <label class="form-label" for="password">Contraseña: </label>
-          <div class="input-group">
+          <div class="input-group has-validation">
             <i class="fa fa-lock input-group-text fw-bolder"></i>
-            <input type="password" id="password" name="password" class="form-control" placeholder="Contraseña">
-            <input type="password" id="confirmation" class="form-control" placeholder="Confirmar Contraseña">
+            <input type="password" id="password" name="password" class="form-control" placeholder="Contraseña" required>
+            <input type="password" id="confirmation" class="form-control" placeholder="Confirmar Contraseña" required>
+            <div class="invalid-feedback">
+              Las contraseñas deben coincidir <br>
+              Deben estar conformadas de 8 a 20 caracteres, debe contener mayúsculas, minúsculas y algún símbolo
+              (!@#$%^&*)
+            </div>
           </div>
         </div>
       </div>
@@ -35,3 +50,66 @@
     </div>
   </form>
 </main>
+<script>
+  function validatePass() {
+    const password = document.getElementById("password")
+    const confirmation = document.getElementById("confirmation")
+    if (!password.classList.contains("is-invalid")) {
+      password.classList.add("is-invalid")
+    }
+    if (!confirmation.classList.contains("is-invalid")) {
+      confirmation.classList.add("is-invalid")
+
+    }
+    const ex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[!@#$%^&*])[a-zA-Z\d!@#$%^&*]{8,20}$/
+    if (password.value === confirmation.value && ex.test(password.value)) {
+      password.classList.replace("is-invalid", "is-valid")
+      confirmation.classList.replace("is-invalid", "is-valid")
+    } else {
+      password.classList.replace("is-valid", "is-invalid")
+      confirmation.classList.replace("is-valid", "is-invalid")
+    }
+  }
+
+  document.getElementById("username").addEventListener("keyup", () => {
+    const ex = /^[a-z0-9_.-]{3,20}$/;
+    const username = document.getElementById("username")
+    if (!username.classList.contains("is-invalid")) {
+      username.classList.add("is-invalid")
+    }
+    if (ex.test(username.value)) {
+      username.classList.replace("is-invalid", "is-valid")
+    } else {
+      username.classList.replace("is-valid", "is-invalid")
+    }
+  })
+  document.getElementById("email").addEventListener("keyup", () => {
+    const ex = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/
+    const email = document.getElementById("email")
+    if (!email.classList.contains("is-invalid")) {
+      email.classList.add("is-invalid")
+    }
+    if (ex.test(email.value)) {
+      email.classList.replace("is-invalid", "is-valid")
+    } else {
+      email.classList.replace("is-valid", "is-invalid")
+    }
+  })
+  document.getElementById("password").addEventListener("keyup", () => {
+    validatePass()
+  })
+  document.getElementById("confirmation").addEventListener("keyup", () => {
+    validatePass()
+  })
+  const forms = document.querySelectorAll('.needs-validation')
+  Array.from(forms).forEach(form => {
+    form.addEventListener('submit', event => {
+      if (!form.checkValidity()) {
+        event.preventDefault()
+        event.stopPropagation()
+      }
+
+      form.classList.add('was-validated')
+    }, false)
+  })
+</script>

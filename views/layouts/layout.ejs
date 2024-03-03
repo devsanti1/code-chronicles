@@ -18,6 +18,7 @@
     <%- include(`../pages/${view}.ejs`, {data: data}) %>
       <%- include(`../partials/footer.ejs`)%>
 </body>
+<script src="/bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js"></script>
 <script>
   window.onload = () => {
     document.getElementsByTagName("main")[0].style.minHeight = `${window.innerHeight - document.getElementById("header").clientHeight}px`
