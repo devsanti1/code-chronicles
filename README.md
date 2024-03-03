@@ -2,6 +2,8 @@
 
 Code Chronicles es un Blog desarrollado con Node.js, Express.js y MongoDB. Permite a los usuarios registrarse, publicar y comentar sobre temas relacionados con la programación. Este proyecto está diseñado para enriquecer mi portafolio y demostrar mis habilidades en el desarrollo web utilizando tecnologías modernas.
 
+** TODOS LA DATA DE LA DATABASE HA SIDO GENERADA POR LA IA**
+
 ## RUN APP GUIDE
 - Create a DB with MONGODB with the data in /data
 - npm install
